@@ -1,0 +1,48 @@
+48EventId,EventTemplate,Occurrences
+3389dae3,*,2026
+7a690d26,* (partial),1972
+8398adf0,*vibrator*,1
+6b25d8e6,*launch* (partial),1
+69535586,Icing,1
+bd108789,NetworkStats,8
+ff05e770,IWLAN_PROXY_WL,7
+0aca88b2,RILJ_ACK_WL,4
+7a690d26,* (partial),27
+b6580e92,Icing (partial),1
+366802df,NetworkStats (partial),8
+d5968584,*telephony-radio* (partial),21
+c34b559d,*job*/c.t.a/a.w.i.b.s.SystemJobService,5
+10feb835,*launch*,1
+5f7c5ff9,*job*/c.w/a.w.i.b.s.SystemJobService,1
+14e9711f,*alarm*,4
+84aa741c,*job*/c.t.a/a.w.i.b.s.SystemJobService (partial),5
+fc8c8dd6,*alarm* (partial),5
+7f37ac5e,RILJ_ACK_WL (partial),4
+1a8e3944,IWLAN_PROXY_WL (partial),7
+f083762a,PhoneWindowManager.mPowerKeyWakeLock,1
+bc76bc23,startDream,1
+8a211458,ActivityManager-Sleep,1
+929e4cf5,DreamManagerService (doze),14
+4ca381e5,show keyguard (partial),9
+ca94f536,show keyguard,9
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),28
+a86622f5,PhoneWindowManager.mPowerKeyWakeLock (partial),1
+5a5e2378,ActivityManager-Sleep (partial),1
+06913c73,startDream (partial),1
+ed1da152,*gms_scheduler*:internal (partial),5
+4e4b905a,*telephony-radio*,24
+42710fe9,*gms_scheduler*:internal,5
+300a2629,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService,1
+1c1cb425,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService,1
+086b75ef,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService (partial),1
+5e5b2559,*job*/c.m.m/.a.AnalyticsIntentService (partial),1
+5cb74240,*job*/c.m.b.m/.n.NRCheckinJobService (partial),1
+7a690d26,* (partial),6
+025dbe2c,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService (partial),1
+d7956295,"WindowManager (screen-bright,on-after-release)",10
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,28
+dab5e61f,WorkManager:TikTokListenableWorker startWork -> * startWork() -> * startWork() -> NoAccountWorkerFactory startWork() (partial),12
+b121ef9e,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncPeriodicWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncPeriodicWorker startWork() -> NoAccountWorkerFactory startWork(),6
+a04d0d42,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> ftd_clean_up_work -> WorkQueueImpl#queueWorkItemAndReturnFuture -> ftd_clean_up_work (partial),2
+9eda7dcb,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> ftd_clean_up_work -> WorkQueueImpl#queueWorkItemAndReturnFuture -> ftd_clean_up_work,2
+385a3e89,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork(),6

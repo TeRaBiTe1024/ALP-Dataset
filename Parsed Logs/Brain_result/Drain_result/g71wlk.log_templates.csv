@@ -1,0 +1,133 @@
+EventId,EventTemplate,Occurrences
+5f42c2b8,AudioMix,79
+fa1f567a,*vibrator* (partial),121
+8398adf0,*vibrator*,121
+6b25d8e6,*launch* (partial),15
+84aa741c,*job*/c.t.a/a.w.i.b.s.SystemJobService (partial),7
+c34b559d,*job*/c.t.a/a.w.i.b.s.SystemJobService,7
+10feb835,*launch*,15
+40f3b02b,AudioMix (partial),79
+b6580e92,Icing (partial),11
+69535586,Icing,11
+5f7c5ff9,*job*/c.w/a.w.i.b.s.SystemJobService,7
+366802df,NetworkStats (partial),316
+bd108789,NetworkStats,316
+fc8c8dd6,*alarm* (partial),37
+14e9711f,*alarm*,37
+7f37ac5e,RILJ_ACK_WL (partial),83
+d5968584,*telephony-radio* (partial),765
+4e4b905a,*telephony-radio*,765
+1a8e3944,IWLAN_PROXY_WL (partial),125
+ff05e770,IWLAN_PROXY_WL,125
+0aca88b2,RILJ_ACK_WL,84
+ed1da152,*gms_scheduler*:internal (partial),44
+086b75ef,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService (partial),1
+025dbe2c,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService (partial),5
+42710fe9,*gms_scheduler*:internal,44
+1c1cb425,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService,1
+300a2629,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService,5
+a86622f5,PhoneWindowManager.mPowerKeyWakeLock (partial),22
+f083762a,PhoneWindowManager.mPowerKeyWakeLock,22
+5a5e2378,ActivityManager-Sleep (partial),9
+06913c73,startDream (partial),14
+db381234,Doze (partial),38
+d1f7f52f,Scrims (partial),24
+929e4cf5,DreamManagerService (doze),14
+bc76bc23,startDream,14
+4ca381e5,show keyguard (partial),9
+8a211458,ActivityManager-Sleep,9
+ca94f536,show keyguard,9
+04cd0834,Doze,38
+25e69551,AnalyticsIntentService (partial),27
+5e5b2559,*job*/c.m.m/.a.AnalyticsIntentService (partial),19
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),28
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,28
+bd8ac4d0,NlpWakeLock (partial),66
+03b55498,NlpWakeLock,66
+425a2209,WifiSuspend (partial),14
+80d9cabe,WifiSuspend,13
+73eca7db,AnalyticsIntentService,27
+a6ed39c3,*job*/c.m.m/.a.AnalyticsIntentService,19
+f380d814,MotoDisplayWakeLock (partial),42
+a94347ac,MotoDisplayWakeLock,42
+8cce89f2,Scrims,23
+5cb74240,*job*/c.m.b.m/.n.NRCheckinJobService (partial),7
+3fa38ef8,*job*/c.m.b.m/.n.NRCheckinJobService,7
+aa1a9d00,*job*/c.s.b.a/a.w.i.b.s.SystemJobService (partial),3
+e243d1af,*job*/c.g.a.g/a.w.i.b.s.SystemJobService (partial),6
+acae7cbb,*job*/c.g.a.g/.j.ProviderCreatedJob$ProviderCreatedJobService (partial),2
+860d3a42,*job*/c.s.b.a/a.w.i.b.s.SystemJobService,3
+be65f5fc,*job*/c.g.a.g/c.a.m.w.NotifyDatasetChangedJob$NotifyDatasetChangedJobService (partial),2
+0cf0a71c,*job*/c.g.a.g/.j.ProviderCreatedJob$ProviderCreatedJobService,2
+a6b9c77a,*job*/c.g.a.g/c.a.m.w.NotifyDatasetChangedJob$NotifyDatasetChangedJobService,2
+127590c4,*job*/c.g.a.g/a.w.i.b.s.SystemJobService,6
+0bbdc087,deviceidle_going_idle (partial),8
+0205b19e,deviceidle_going_idle,8
+5cf44adf,*location* (partial),16
+70bd1a09,CMWakeLock (partial),4
+8b7e51dd,*location*,16
+3f0d8db2,CMWakeLock,4
+4a76662c,deviceidle_maint (partial),4
+04f1e608,*job*/c.g.a.a.p/.d.i.DatabaseProcessorJobService (partial),1
+11edd8b3,*job*/c.g.a.s/.d.DeferredSetupScheduler (partial),6
+4283342a,*job*/c.t.a/c.g.a.d.r.s.j.JobInfoSchedulerService (partial),1
+b5c8342a,*job*/c.g.a.a.p/.d.i.DatabaseProcessorJobService,1
+939dfe91,*job*/c.g.a.s/.d.DeferredSetupScheduler,6
+60ee88b4,*job*/c.t.a/c.g.a.d.r.s.j.JobInfoSchedulerService,1
+0678e000,deviceidle_maint,4
+64e48991,WorkManager:TikTokListenableWorker startWork -> <*> startWork() -> <*> startWork() -> NoAccountWorkerFactory startWork() (partial),12
+bf8cdee2,WorkManager:TikTokListenableWorker startWork -> <*> startWork() -> <*> startWork() -> NoAccountWorkerFactory startWork(),12
+f14e19a1,DreamManagerService,14
+1160256d,GCM_WORK (partial),26
+b44ae528,GCM_WORK,26
+f1b819b5,bugle_datamodel_executor_wakelock (partial),10
+8862b859,bugle_datamodel_executor_wakelock,10
+a04d0d42,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> ftd_clean_up_work -> WorkQueueImpl#queueWorkItemAndReturnFuture -> ftd_clean_up_work (partial),2
+3987ef1c,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService (partial),4
+9eda7dcb,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> ftd_clean_up_work -> WorkQueueImpl#queueWorkItemAndReturnFuture -> ftd_clean_up_work,2
+16501530,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService,4
+c4c9d138,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob (partial),2
+189a1818,*job*/c.g.a.a.c/a.w.i.b.s.SystemJobService (partial),4
+eb6e526f,*job*/c.g.a.a.c/a.w.i.b.s.SystemJobService,4
+a0420945,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob,2
+82f4eed5,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation (partial),15
+3165aaef,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation,15
+dbc68da9,*location*:GnssLocationProvider (partial),2
+e24841af,*location*:GnssLocationProvider,2
+5662b492,GCoreFlp (partial),4
+e06004e6,GCoreFlp,4
+fbeb1f19,wake-and-unlock:wakelock (partial),7
+2605eceb,LockoutResetMonitor:SendLockoutReset (partial),9
+1319213f,lockoutResetCallback (partial),9
+25536d10,LockoutResetMonitor:SendLockoutReset,9
+c07ebaf3,wake-and-unlock:wakelock,7
+c93bf05d,lockoutResetCallback,9
+2b4f236b,*gms_scheduler*/c.g.a.g/.m.t.ScheduledTaskService (partial),2
+c896db1f,*gms_scheduler*/c.g.a.g/.m.t.ScheduledTaskService,2
+d7956295,"WindowManager (screen-bright,on-after-release)",10
+d21aaa75,NotifyRegistrantLock (partial),2
+fb07becb,NotifyRegistrantLock,2
+69d9b836,WindowManager,10
+0e7a5596,*job*/c.g.a.w/o.c.a.n.AwComponentUpdateService (partial),2
+39066064,*job*/c.g.a.w/o.c.a.n.AwComponentUpdateService,2
+2f10f701,IWLAN_PROXY_RESP_WL (partial),4
+1808a173,IWLAN_PROXY_RESP_WL,4
+31742438,*job*/c.f.k/c.f.p.f.c.s.FBPapayaJobService (partial),3
+477ec9c0,*job*/c.f.k/c.f.p.f.c.s.FBPapayaJobService,3
+696bb924,*gms_scheduler*/c.g.a.g/.t.s.SpamListSyncTaskService (partial),2
+5a241d89,SCREEN_FROZEN (partial),2
+9103eed5,*gms_scheduler*/c.g.a.g/.t.s.SpamListSyncTaskService,2
+d7cc22dc,SCREEN_FROZEN,2
+f86b42de,GCM_HB_ALARM (partial),1
+f7464522,GCM_HB_ALARM,1
+cde3fec8,GCM_READ (partial),2
+3e9981ae,GCM_READ,2
+5e354776,*job*/c.w/a.w.i.b.s.SystemJobService (partial),7
+8890f394,*job*/c.w/.p.RegistrationIntentService (partial),2
+6ed1b8e4,*job*/c.w/.p.RegistrationIntentService,2
+cabd3c49,com.whatsapp:sendinactive (partial),2
+c82d74bd,com.whatsapp:sendinactive,2
+c915d9d8,GOOGLE_C2DM (partial),1
+5f552dae,wake:com.google.firebase.iid.WakeLockHolder (partial),1
+4fd4578c,GOOGLE_C2DM,1
+4f0a434a,wake:com.google.firebase.iid.WakeLockHolder,1

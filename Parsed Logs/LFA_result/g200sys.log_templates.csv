@@ -1,0 +1,1797 @@
+EventId,EventTemplate,Occurrences
+06060967,<*> <*> <*> <*> <*> -<*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+7a272678,<*> <*> <*> to <*> <*> <*> <*>,4
+2382f8e5,<*> <*> from <*>,32
+62c4ff09,Compat change id reported: <*>; UID <*>; state: <*>,1159
+e3f1040c,<*> <*> <*> for <*>,49
+89727ae0,Force stopping <*> <*> <*> <*>,8
+aa418212,<*> <*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*> <*> <*>,4
+b8640e89,"<*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*>",11
+bbc038b8,Permission <*> <*> <*> <*> <*>,5
+05152041,<*> <*> of <*>,12
+48d2254b,Slow <*> <*> <*> <*> <*> <*> <*> <*>,2
+43dfbf1b,Force stopping <*> <*> <*> <*> <*>,12
+686e57f8,<*> <*> not <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,179
+8def1cd4,<*> <*> <*> is <*> <*> <*>,16
+18d35920,<*> <*> <*> mode <*> <*> <*>,10
+4eb9c9c9,Slow <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,14
+565d13af,Slow <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,12
+0d8c1404,<*> <*> <*> for service <*>,53
+c13f61f5,Slow <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,7
+85755f9d,<*> <*> No action <*>,6
+92dffda4,<*> = <*>,62
+30bc4ceb,<*> <*> <*> <*> for <*> <*> <*> <*> <*>,30
+84d99a6c,<*> <*> <*> for <*> <*> <*>,54
+7436c43d,<*> to <*> <*> <*> <*> <*>,61
+4f921eee,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,18
+3cf49fdb,<*> <*> <*> for <*> <*>,199
+f6cfc4ef,"<*> <*> <*> <*>, <*> <*> <*> <*>",128
+22a26386,appDiedLocked: app=ProcessRecord{<*> <*> thread=<*>@<*> fromBinderDied=true isKilledByAm=true reason=null,155
+a154db4c,<*> <*> <*> <*> <*> null <*> <*> <*> <*>,51
+68b5574a,<*> <*> <*> from uid <*>,3
+e908a6d8,<*> <*> <*> current <*> <*>,89
+2ba8ebc6,<*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*>,37
+309fee95,<*> <*> is <*> <*> <*> <*> <*> <*>,7
+d5af4fab,The Process <*> Already Exists in BG. So sending its PID: <*>,14
+9318410a,<*> to <*> <*> <*> <*> <*> <*>,42
+04c959c4,SURFACE <*> <*> on display:<*>,277
+9a34b79e,SURFACE <*> <*> <*> <*> <*> <*>,18
+0c79082a,Changing focus of displayId=<*> to Window{<*> u0 <*> from null,24
+ee480c69,MotoDisplayed <*>,31
+655de89f,<*> <*> <*> <*> <*> u0 <*>,1
+b10116ff,Background started <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,5
+6f807ebe,<*> to <*> <*> for <*> <*> <*>,178
+266a7b0f,<*> <*> <*> <*> <*> <*> from <*> <*>,13
+dc8f6c19,<*> <*> = <*> <*> <*> <*> <*> <*> <*>,43
+c360d802,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> is <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+ee87029a,<*> <*> <*> <*> { <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,8
+e66daa37,<*> <*> <*> <*> service <*> <*> <*> <*> <*>,80
+237f277d,<*> <*> <*><*>,38
+e2b5be21,Ignoring <*> <*> <*> <*> <*>,5
+727665e0,"<*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",66
+1f6ba42b,<*> <*> = <*>,289
+c22d2f68,<*> <*> <*> <*> on <*> <*> <*> = <*> <*> <*> <*>,15
+5c1331b7,<*> <*> <*> is <*> <*> <*> <*> <*> <*>,1
+bea53148,<*> <*> of <*> <*> <*> <*> <*> <*> <*>,29
+5a3fa17e,Calling a method in the system process without a qualified user: <*>:<*> <*> <*> <*> <*>,11
+c223ba1e,<*> <*> <*> <*> { <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,22
+3985d2ee,Calling a method in the system process without a qualified user: <*>:<*> <*> <*> <*>:<*> <*>,63
+2f8456f4,<*> <*> <*> <*> { <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,33
+7a4e5702,<*> <*> <*> <*> { <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,44
+d14e52f5,<*> <*> on <*> <*> <*>,8
+33619773,Drained,20
+5fd4a047,<*> <*> <*> <*> <*> <*> or <*> <*>,41
+17e8f56f,START u0 <*> <*> <*> <*> <*> <*> <*> <*>,13
+e8b2f001,<*> <*> not <*> <*> <*>,26
+da488c34,<*> <*> <*> <*> uid <*> <*> <*> <*> <*>,58
+1470662b,<*> Process <*> <*> <*> in <*> <*> <*> <*> <*> <*>,17
+d96ec585,<*> <*> <*> <*> to <*>,15
+4497e31d,<*> <*> <*> for <*> <*> <*> <*> <*> <*>,18
+79f587b9,noteOperation,12
+bcddc162,<*> <*> <*> <*> <*> <*> <*> <*> <*> is <*>,12
+8b4182dc,at <*>,620
+93f605a0,at <*> <*>,85
+a20d94b1,"<*> stats: <*><*><*><*><*><*>, over <*>",68
+6066ed39,<*> failed with <*> -<*>,2
+390d4ea5,<*> <*> <*> <*> the <*> <*> <*> <*>,2
+89872f19,Received <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+895b746b,onPropertiesChanged: INIT_gd_scanning='',1
+67034fe3,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",4
+766f7bff,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",4
+675ff780,applyOemOverride <*> bootmode=normal,6
+ac808d8f,<*> <*> <*> to <*>,134
+7498f845,: <*> <*> <*> <*>,1
+01736354,Slow <*> <*> <*> <*> <*> <*> <*>,31
+698a369c,<*> not <*> <*> <*> <*>,9
+44679035,Freezer disabled,1
+63dac45e,PhoneAccountRegistrar: <*> <*> <*> <*> <*> <*>,2
+d215495f,<*> <*> <*> <*> <*> <*> <*> Capabilities: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+78402dee,MESSAGE_INIT_FLAGS_CHANGED,2
+d8d3bc86,<*> <*> <*> to <*> <*> <*>,4
+ea0c5881,BluetoothDeviceManager: <*> <*> <*> <*> <*> <*> <*> <*>,3
+69c2191b,Sending off <*>,2
+d4b063ad,Sending BLE State Change: <*> > <*>,10
+751d9080,Sending <*> <*> <*> <*> <*>,4
+bce022b3,Received <*> state <*> <*> ON <*> <*>,2
+1ae6f93c,<*> <*> is <*> <*>,24
+e9a029ab,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*>,69
+c0d6d178,<*> <*> to <*> <*>,45
+bc2259d5,Received <*> state <*> <*> <*> <*> <*>,10
+86543224,startBleScan(),5
+92f75b4e,Calling <*> <*>,2
+237f2f4b,isBleAppPresent() count: <*>,2
+5658d8f6,<*> <*> <*> <*> <*> OFF,4
+5bb0b781,<*> <*> of <*> <*> <*> <*> <*> <*> <*> <*> <*>,38
+cf67ad69,<*> is <*> <*> <*> <*> <*>,2
+0f8c0544,<*> <*> <*> = <*> <*> = <*>,2
+c60b9d67,Sending BLE State Change: <*> > OFF,2
+a5460d2f,Not <*> <*> is <*> <*>,3
+0f388661,<*> <*> service,2
+e5ad3ed7,Binding BT <*> <*> <*> <*>,2
+530865d5,"<*> <*> <*> <*> <*> <*> for <*> <*>, <*> <*> <*>",18
+39c487fb,appDiedLocked: app=ProcessRecord{<*> <*>:<*><*>} thread=<*>@<*> fromBinderDied=true <*> reason=null,11
+14aefa65,Process <*> (pid <*>) has died: <*> <*>,4
+cf439262,<*> <*> of <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,7
+0475bcdf,<*> <*> <*> <*> = <*> <*> = <*>,1
+8178d1d3,<*> for <*> of <*>,2
+f6985c77,<*> <*> Ble <*>,2
+c82ead73,MESSAGE_ENABLE: handleEnable,1
+207af371,<*> <*> <*> <*> to <*> <*> <*> <*> <*>,5
+177276aa,Stored Bluetooth name: <*> <*> <*>,4
+017bf88e,BluetoothServiceConnection: <*>,4
+51545509,MESSAGE_BLUETOOTH_SERVICE_CONNECTED: <*>,4
+08a5da51,MESSAGE_INFORM_ADAPTER_SERVICE_UP,2
+ee88d0be,MESSAGE_BLUETOOTH_STATE_CHANGE: <*> > <*>,8
+252f8c4e,Received <*> state <*> <*> OFF <*> <*>,2
+e8617c71,Stored <*> <*>,4
+897cf68e,<*> is <*> <*> <*> <*>,2
+f2ce8e7c,<*> <*> <*> service,2
+33223130,continueFromBleOnState(),2
+bc2071bc,<*> Bluetooth <*> <*>,2
+69c4d5d5,<*> <*> <*> <*> for <*> <*>,311
+83b95503,<*> <*> not <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,24
+f5af3666,BluetoothDeviceManager: <*> <*> <*> <*>,4
+dd256d99,Sending BLE State Change: <*> > ON,2
+d7e9cf11,<*> <*> <*> <*> <*> ON,2
+75fb84d0,<*> account doesn't <*>,4
+3b0dd114,Setting <*> <*> <*>,1
+d8bab961,Muting recently noisy <*>,2
+2876ea37,Process <*> <*> <*> <*> <*> <*> <*>,13
+64f4093a,<*> <*> <*> from <*>,81
+8282002b,"<*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*> matrix coefficients:",2
+b839df9b,"<*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*> <*>,<*>",1
+fe43272c,service 'idmap' died,4
+20f573eb,appDiedLocked: app=ProcessRecord{<*> <*> thread=<*>@<*> fromBinderDied=true <*> reason=null,6
+40571a2f,<*> failed <*> <*> <*> <*>,1
+49b245a5,<*> <*> <*> <*> <*> <*> for <*>,7
+1fac2b91,<*> <*> <*> for <*> <*> <*> <*> <*>,16
+04cd1e5d,"uevent={POWER_SUPPLY_POWER_AVG=<*>, POWER_SUPPLY_VOLTAGE_NOW=<*>, POWER_SUPPLY_POWER_NOW=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT_MAX=<*>, POWER_SUPPLY_TYPE=Battery, POWER_SUPPLY_HEALTH=Good, POWER_SUPPLY_TECHNOLOGY=Li-ion, POWER_SUPPLY_CHARGE_FULL_DESIGN=<*>, SEQNUM=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT=<*>, POWER_SUPPLY_MODEL_NAME=5130732_MOTOROLA_BERLIN_5000MAH_AVERAGED_MASTERSLAVE_APR20TH2021, <*> POWER_SUPPLY_CYCLE_COUNT=<*>, POWER_SUPPLY_CAPACITY=<*>, DEVPATH=<*>:qcom,pmic_glink<*>:qcom,pmic_glink:qcom,battery_charger<*>, <*> <*> <*> POWER_SUPPLY_PRESENT=<*>, POWER_SUPPLY_CHARGE_FULL=<*>, <*> SUBSYSTEM=power_supply, POWER_SUPPLY_VOLTAGE_OCV=<*>, POWER_SUPPLY_TEMP=<*>, ACTION=change, POWER_SUPPLY_NAME=battery, POWER_SUPPLY_VOLTAGE_MAX=<*>, POWER_SUPPLY_CHARGE_COUNTER=<*>, <*>",22
+3d0a07f4,<*> <*> not <*> <*> <*> <*> <*>,10
+45b1b187,<*> of <*> <*> <*> <*> <*> <*>,13
+bd4b6af8,<*> of <*> <*> <*> <*> <*>,3
+bbd15f77,<*> <*> for <*> <*> to <*> <*> <*>,3
+c498fd3c,<*> requested <*> <*> <*>,4
+14b0e7d2,<*> to <*> <*> service <*> <*>,2
+f9906c5c,<*> <*> service <*>,2
+f5b8b6fe,<*> is <*> <*> <*> start <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+f42cee39,<*> is <*>,9
+3b49bdfc,create file <*> <*> <*>,3
+4d0040f2,Background started <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+699497dd,<*> <*> <*> from <*> <*> <*> <*> <*> <*> <*> <*>,1
+c63e93c2,<*> <*> <*> <*> <*> in <*> <*> <*> <*> <*>,8
+3de972bd,<*> <*> is <*> <*> <*> <*> <*>,17
+9413c90a,<*> <*> <*> <*> <*> <*> to <*> <*>,8
+8701ce6b,Brightness [<*>.<*>] reason changing to: <*> <*> <*> <*> <*> <*> <*>,5
+f2cd9c4e,<*> <*> code <*>,1
+81c44f7f,<*> <*> <*> <*> <*> to <*> <*> <*> <*> <*>,6
+51ce3940,<*> <*> <*> by = <*>,18
+9a1ea6c4,Brightness [<*>.<*>] reason changing to: <*> previous reason: <*> <*> <*> <*>,5
+ea7b01a4,<*> <*> off,45
+0ead00e4,<*> <*> off <*> <*> <*>,18
+a9df1950,Display0 turned off...,18
+d9b1134a,<*> <*> <*> <*> to: <*> <*> <*> <*>,41
+3951cff6,<*> <*> for <*>,46
+2b661436,Display device changed <*> <*> <*> <*>,36
+b3b64667,<*> dreamland.,12
+267072db,Dozing... groupId=<*>,6
+e8cbb5d1,Starting <*> <*> <*> <*> <*>,7
+075dd805,"Display device changed: DisplayDeviceInfo{""Tela integrada"": uniqueId=""local:<*>"", <*> x <*>, modeId <*>, defaultModeId <*>, supportedModes [{id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}], supportedReadyForModes [], colorMode <*>, supportedColorModes [<*>, <*>, <*>], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[<*>, <*>, <*>], mMaxLuminance=<*>.<*>, mMaxAverageLuminance=<*>.<*>, mMinLuminance=<*>.<*>}, allmSupported false, gameContentTypeSupported false, density <*>, <*>.<*> x <*>.<*> dpi, appVsyncOff <*>, presDeadline <*>, cutout DisplayCutout{insets=Rect(<*>, <*> - <*>, <*>) waterfall=Insets{left=<*>, top=<*>, right=<*>, bottom=<*>} boundingRect={Bounds=[Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=<*> displayHeight=<*> density={<*>.<*>} cutoutSpec={M -<*>,<*> L <*>,<*> L <*>,<*> L -<*>,<*> Z} rotation={<*>} scale={<*>.<*>}}}}, touch INTERNAL, rotation <*>, type INTERNAL, address {port=<*>, model=<*>}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=<*>, modelYear=null, manufactureDate=ManufactureDate{week=<*>, year=<*>}, connectionToSinkType=<*>}, state <*> frameRateOverride , brightnessMinimum <*>.<*>, brightnessMaximum <*>.<*>, brightnessDefault <*>.<*>, roundedCorners RoundedCorners{[RoundedCorner{position=TopLeft, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=TopRight, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=BottomRight, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=BottomLeft, radius=<*>, center=Point(<*>, <*>)}]}, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}",3
+1aed0b31,<*> component <*>/.notification.DisplayNotifListenerService,6
+3a0da53b,<*> <*> { <*> <*> <*> <*> <*>,9
+c7cb0be5,<*> <*> <*> service <*> <*>,7
+6c554a62,Calling <*> <*> <*> <*> <*> <*> = <*>,7
+60c33ebb,<*> <*> <*> <*> with <*>,3
+540b5ed5,"<*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",10
+4a3b6906,"<*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",10
+fec29a93,<*> <*> <*> = <*> <*> <*>,22
+300f2405,<*> <*> Not <*>,1
+22f6420e,<*> <*> <*> in <*> <*>,3
+b276fa08,<*> on <*> <*> <*> <*> <*> <*> <*>,6
+82d33620,<*> <*> from <*> <*> <*> <*>,6
+71f13883,setInteractive <*>,23
+8c7c4d1c,<*> waking <*> <*>,12
+d84da077,Display <*> <*> <*>,36
+bbd037ec,Brightness [<*>.<*>] reason changing to: <*> previous reason: <*>,6
+c67f423c,<*>.,18
+90f9104f,Setting <*>,36
+dc16cfc2,finishScreenTurningOn..,18
+e5d8bc0d,enableScreen mKeyguardDrawnOnce=true <*> mBootMessageNeedsHiding=false,18
+43383aa8,"Stopping dream: name=ComponentInfo{<*><*>.<*>}, isTest=false, canDoze=true, userId=<*>, reason='finished <*>",1
+c35addb0,powerPress: eventTime=<*> interactive=true count=<*> <*> mShortPressOnPowerBehavior=<*>,7
+1901d542,<*> component <*>,8
+4d133750,<*> <*> <*> to <*> <*> <*> <*> <*>,5
+69634ab3,spBasedDoVerifyCredential: user=<*> hasEnrolledBiometrics=false,5
+f91599fc,<*> <*> <*> with <*> <*> <*> <*>,4
+1a949c2a,<*> finished,9
+b5887c75,<*> <*> received <*> <*> <*> <*>,4
+598f1b0f,<*> <*> <*> on <*> <*>,4
+f7fcca7c,<*> <*> <*> <*> with false,4
+8ecad7b7,<*> <*> not <*> <*> <*> <*> <*> <*> <*> <*> <*>,32
+c691725a,"canAuthenticate: User=<*>, Caller=<*>, Authenticators=<*>",11
+57a0be0d,Package: <*> Sensor ID: <*> Modality: <*> Status: <*>,22
+35254406,getCanAuthenticateInternal Modality: <*> AuthenticatorStatus: <*>,11
+b3c6efef,"<*> <*> <*>, <*> <*>, <*> <*>, <*> <*>",11
+52c819d5,<*> <*> <*> <*> <*> <*> <*> <*> from <*> <*>,4
+51a47f4c,START u0 <*> <*> <*> from <*> <*>,3
+82cab7f4,<*> boot <*> <*> <*> <*>,1
+dffbc932,<*> <*> boot <*> <*> <*>,1
+fb35d096,"<*> <*> <*> <*>, <*> <*> <*> <*> <*>",27
+39574247,<*> <*> <*> pkg=<*> <*>,3
+f016a94c,<*> <*> to <*> <*> <*> <*>,4
+b2870e2a,Failed <*> <*> <*> <*> <*> <*> <*> <*>,2
+b57c9712,<*> is <*> <*>,2
+71cc075e,Cannot <*> <*> <*>,11
+ef81bc48,<*> <*> <*> <*> <*> <*> <*> file <*> <*>,7
+68a3756e,<*> <*> <*> <*> <*> <*> <*> <*> file <*> <*>,8
+d11ca5cc,... <*> more,5
+159ab851,Cannot <*> <*>,1
+17772b52,Ignoring invalid dump <*> <*>,3
+7f7d5fd7,getServiceComponentName(): ComponentInfo{<*><*>.<*>},3
+210fb342,Cannot <*> <*> <*> <*> for <*> <*>,3
+955ab8ea,<*> <*> <*> <*> is <*> <*> <*>,3
+7b8e0b28,<*> <*> mode <*>,5
+e424d5bd,Ignoring <*> <*> <*> process with <*> <*> is <*> <*> <*> <*> <*> <*> <*> <*>,6
+cce16703,"Display device changed: DisplayDeviceInfo{""Tela integrada"": uniqueId=""local:<*>"", <*> x <*>, modeId <*>, defaultModeId <*>, supportedModes [{id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}], supportedReadyForModes [], colorMode <*>, supportedColorModes [<*>, <*>, <*>], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[<*>, <*>, <*>], mMaxLuminance=<*>.<*>, mMaxAverageLuminance=<*>.<*>, mMinLuminance=<*>.<*>}, allmSupported false, gameContentTypeSupported false, density <*>, <*>.<*> x <*>.<*> dpi, appVsyncOff <*>, presDeadline <*>, cutout DisplayCutout{insets=Rect(<*>, <*> - <*>, <*>) waterfall=Insets{left=<*>, top=<*>, right=<*>, bottom=<*>} boundingRect={Bounds=[Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=<*> displayHeight=<*> density={<*>.<*>} cutoutSpec={M -<*>,<*> L <*>,<*> L <*>,<*> L -<*>,<*> Z} rotation={<*>} scale={<*>.<*>}}}}, touch INTERNAL, rotation <*>, type INTERNAL, address {port=<*>, model=<*>}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=<*>, modelYear=null, manufactureDate=ManufactureDate{week=<*>, year=<*>}, connectionToSinkType=<*>}, state ON, frameRateOverride <*> <*> <*> <*> <*>.<*>, <*> <*>.<*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",8
+49adb7db,<*> <*> process pid <*>,3
+3edd035f,<*> <*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+02e045e1,<*> <*> <*> <*> and <*> <*> <*>,1
+11e9fef1,Start <*> <*> <*>,1
+1b4958f9,<*> no <*> found,12
+3d8d0a57,Invalid <*> <*> <*> <*> <*> <*> <*>,1
+4a868c73,Removing <*> <*> <*>,19
+56f689c4,<*> <*> on <*> <*>,1
+a311afd6,<*> <*> <*> is <*> <*> <*> <*>,1
+2fb20f8f,<*> <*> <*> <*> <*> <*> <*> <*> <*> is <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+03cae176,Unknown <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,17
+290e179e,Package <*> <*> <*> <*> that <*> <*> <*>,1
+8ae415f9,Force <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+cf1d6aa6,<*> <*> <*> <*> <*> to <*> <*> <*> <*>,11
+e8482425,<*> <*> is <*> to <*> <*> <*> <*>,1
+74c7cf34,<*> <*> <*> <*> <*> <*> <*> <*> <*> : <*>,8
+6942ac73,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> to <*> <*>,1
+29a67503,Slow <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+a649bab4,Binder <*> <*> <*> <*> <*>,1
+e19b0ad1,Client <*>,1
+ac90c2ea,<*> <*> process <*>,6
+e614004b,<*> <*> <*> is <*> <*>,10
+cd4359d5,Force stopping <*> <*> <*> start <*>,3
+0dfbf118,Force stopping service <*> <*> <*>,18
+c03a9f50,Force stopping service ServiceRecord{<*> u0 <*>,5
+3a1b1f38,<*> <*> <*> process <*> <*>,3
+18092103,"<*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*>",1
+d6fd597a,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,8
+0682d948,<*> <*> <*> <*> = <*>,5
+84a1e965,<*> <*> registered,2
+f3bad1ea,<*> <*> <*> <*> <*> <*> <*> <*> <*> = <*>,2
+9c6d0e05,<*> <*> <*> u0 <*>,5
+61910704,<*> <*> to <*> <*> to <*> <*>,4
+2528f150,<*>,578
+32ba68c5,"handleSandman stop dream, groupId=<*>",5
+6dcd0468,"Stopping dream: name=ComponentInfo{<*><*>.<*>}, isTest=false, canDoze=true, <*> <*> <*> <*> <*>",5
+58dd6766,Calling a method in the system process without a qualified user: <*>:<*> <*>:<*> <*> <*> <*>,3
+ddb9fa83,<*> <*> <*> service <*>,4
+a71a159d,Disabling component <*>,1
+46276489,Optimistic bind failed.,1
+e0f4bcd3,<*> <*> <*> <*> <*> to <*> <*> <*>,19
+b6c78fd9,No <*> <*> <*> <*>,42
+4f886d65,Syncing <*> <*> <*> <*> <*>,54
+831f96eb,Syncing <*> <*> <*> <*>,54
+836331f4,Not <*> <*> <*> <*> <*>,48
+8202d0e1,<*> <*> system <*> <*> <*>,4
+c37e35e1,<*> <*> <*> to <*> <*> <*> <*> <*> <*>,66
+5198d7fa,Explicit health check <*> <*> <*>,138
+c80fd06b,Explicit health check <*> <*> <*> <*>,95
+0f80c40b,Service <*> <*> requests,46
+50d3b720,<*> health check <*> <*>,95
+7a6cc3e1,Received <*> <*> <*> <*>,49
+d2b1abe0,No <*> <*> <*> <*> <*>,53
+12ba0821,<*> <*> <*> <*> <*> to <*> <*>,100
+5c206d99,<*> <*> <*> <*> service <*> <*>,20
+f8916625,<*> to <*> <*> <*> <*> <*> <*> <*>,307
+522b00e8,<*> change <*> <*>,2
+2a7fa8b3,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*>",1
+02761a14,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*>",1
+72323f6b,<*> health check <*> for <*> <*> <*> <*> <*>,3
+0ddc3d81,Syncing <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+22054e5a,<*> <*> <*> <*> <*> null,1
+a3f85fe1,"Display device changed: DisplayDeviceInfo{""Tela integrada"": uniqueId=""local:<*>"", <*> x <*>, modeId <*>, defaultModeId <*>, supportedModes [{id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>, <*>.<*>]}], supportedReadyForModes [], colorMode <*>, supportedColorModes [<*>, <*>, <*>], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[<*>, <*>, <*>], mMaxLuminance=<*>.<*>, mMaxAverageLuminance=<*>.<*>, mMinLuminance=<*>.<*>}, allmSupported false, gameContentTypeSupported false, density <*>, <*>.<*> x <*>.<*> dpi, appVsyncOff <*>, presDeadline <*>, cutout DisplayCutout{insets=Rect(<*>, <*> - <*>, <*>) waterfall=Insets{left=<*>, top=<*>, right=<*>, bottom=<*>} boundingRect={Bounds=[Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=<*> displayHeight=<*> density={<*>.<*>} cutoutSpec={M -<*>,<*> L <*>,<*> L <*>,<*> L -<*>,<*> Z} rotation={<*>} scale={<*>.<*>}}}}, touch INTERNAL, rotation <*>, type INTERNAL, address {port=<*>, model=<*>}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=<*>, modelYear=null, manufactureDate=ManufactureDate{week=<*>, year=<*>}, connectionToSinkType=<*>}, state <*> frameRateOverride <*> <*> <*> <*> <*>.<*>, <*> <*>.<*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+fa83c05e,<*> <*> <*> <*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*>,1
+df16124c,<*> <*> <*> <*> <*> null <*> <*> <*> <*> <*>,1
+b96ba322,<*> <*> <*> <*> <*> <*> <*> <*> u0 <*> <*> <*>,1
+85c202ff,<*> <*> <*> com.whatsapp<*>.whatsapp.Conversation <*> <*> <*> <*>,1
+9d76e333,<*> <*> <*> to <*> <*>,107
+390b5e17,<*> <*> <*> <*>@<*> <*> <*>,1
+d9416486,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*>",1
+033a1439,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*>",1
+0baad95d,<*> <*> <*> <*> for <*> <*> <*>,32
+341b661f,"uevent={POWER_SUPPLY_POWER_AVG=<*>, POWER_SUPPLY_VOLTAGE_NOW=<*>, POWER_SUPPLY_POWER_NOW=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT_MAX=<*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",2
+a91e4990,Writing entropy...,1
+cc0163f9,<*> set <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+1247ce6d,ClientCallback V1_2: port0,1
+3513d1fe,<*> <*> changed: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+faff8d3a,"uevent={POWER_SUPPLY_POWER_AVG=<*>, POWER_SUPPLY_VOLTAGE_NOW=<*>, POWER_SUPPLY_POWER_NOW=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT_MAX=<*>, POWER_SUPPLY_TYPE=Battery, POWER_SUPPLY_HEALTH=Good, POWER_SUPPLY_TECHNOLOGY=Li-ion, POWER_SUPPLY_CHARGE_FULL_DESIGN=<*>, SEQNUM=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT=<*>, POWER_SUPPLY_MODEL_NAME=5130732_MOTOROLA_BERLIN_5000MAH_AVERAGED_MASTERSLAVE_APR20TH2021, <*> POWER_SUPPLY_CYCLE_COUNT=<*>, POWER_SUPPLY_CAPACITY=<*>, DEVPATH=<*>:qcom,pmic_glink<*>:qcom,pmic_glink:qcom,battery_charger<*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",2
+8657b8c0,<*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*> <*> <*>,2
+3f4fc16d,<*> returns <*>,4
+c99c94bc,<*> <*> true,2
+1cef01b8,<*> service <*> <*> pkg=<*> <*> <*> <*>,20
+884120b9,Starting <*> <*> <*> <*> <*> <*> <*>,2
+d29056b1,push <*> <*> <*> via USB,1
+afd7d4d7,displayed usb bottom,1
+c1ba74a4,Received <*> <*> <*> <*> <*>,1
+4876b5a3,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = <*>,3
+ff410dc8,<*> notification,1
+45561dfe,push <*> de <*> via USB <*>,1
+40171c1a,Received <*> <*> <*> <*> <*> <*>,1
+288fa7fa,"uevent={POWER_SUPPLY_POWER_AVG=<*>, POWER_SUPPLY_VOLTAGE_NOW=<*>, POWER_SUPPLY_POWER_NOW=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT_MAX=<*>, POWER_SUPPLY_TYPE=Battery, POWER_SUPPLY_HEALTH=Good, POWER_SUPPLY_TECHNOLOGY=Li-ion, POWER_SUPPLY_CHARGE_FULL_DESIGN=<*>, SEQNUM=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT=<*>, POWER_SUPPLY_MODEL_NAME=5130732_MOTOROLA_BERLIN_5000MAH_AVERAGED_MASTERSLAVE_APR20TH2021, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",8
+fd76b68a,<*> <*> <*> <*> for <*>,43
+9d36721d,Prev times: u=<*> s=<*> Curr times: u=<*> s=<*>,1
+13ed14bb,<*> <*> <*> <*> for <*> <*> <*> <*> <*> <*>,10
+514782d7,<*> <*> <*> <*> for <*> <*> <*> <*>,23
+688c2c91,<*> <*> <*> <*> for <*> <*> <*> <*> <*> <*> <*>,1
+34fed92a,<*> <*> id <*>,356
+c0db619e,Cannot <*> <*> <*> <*>,15
+778d8491,ProcessIbsCmd: Received <*> <*>,172
+d0f76237,<*> <*> for <*> <*> <*>,190
+0b2578ec,<*> <*> is <*>,170
+99d1b903,ProcessIbsCmd: <*> <*>,88
+82a72972,"<*> <*> <*> <*>, <*> <*>",44
+5b0a2bb4,Starting <*> <*> <*> <*>,27
+13704b89,changeCanvasOpacity: opaque=false,2
+2b3111b5,<*> perform <*>,25
+abe5b200,<*> <*> <*> = <*> <*> <*> <*> <*> <*> = <*>,46
+e1db5219,"Davey! <*> Flags=<*>, FrameTimelineVsyncId=<*>, IntendedVsync=<*>, Vsync=<*>, InputEventId=<*>, HandleInputStart=<*>, AnimationStart=<*>, PerformTraversalsStart=<*>, DrawStart=<*>, FrameDeadline=<*>, FrameInterval=<*>, FrameStartTime=<*>, SyncQueued=<*>, SyncStart=<*>, IssueDrawCommandsStart=<*>, SwapBuffers=<*>, FrameCompleted=<*>, DequeueBufferDuration=<*>, QueueBufferDuration=<*>, GpuCompleted=<*>, SwapBuffersCompleted=<*>, DisplayPresentTime=<*>,",15
+e81fe905,<*> <*> <*> <*> <*> to <*>,18
+d0dda59f,Monitor:INACTIVE:FREEZE-CHG:freeze_rule=<*>:DETECT-STANDBY=<*>,3
+038dbc7b,Monitor:ACTIVE:OVERRIDE-CHG:internal_override=<*>:DETECT-STANDBY=<*>,3
+1900cd51,<*> <*> received <*> <*> <*>,10
+6038b3f0,<*> <*> request <*>,11
+a438a118,Monitor:ACTIVE:MON-MSM-STB:battery=<*>:skin-msm-therm-usr=<*>,4
+98450438,<*> <*> for <*> <*>,22
+7c655cc1,Monitor:INACTIVE:MON-MSM-COMB1:battery=<*>:BACK_TEMP=<*>,3
+a9105205,Duration of <*> <*> <*> <*>,8
+1c43f39d,<*> <*> to <*> <*> <*> <*> <*> <*> <*>,403
+9f188a9f,Adding <*> <*> <*> <*>),15
+a876c4ca,GoogleInputMethodService.onFinishInputView():<*>,7
+a010f4dc,<*> <*> <*> <*> <*> <*> <*> in <*>,20
+6c351e58,<*> <*> <*> <*> <*> <*> <*> <*> is <*> <*> <*> <*>,13
+199c28b1,<*> <*> TalkbackStateListener,13
+56365034,VoiceInputManagerWrapper.shutdown():<*> shutdown(),7
+fc2d4dbd,AbstractIme.onDeactivate():<*> LatinIme.onDeactivate(),7
+b36a20db,<*> <*> <*> <*> for <*> <*> <*> <*> <*> <*> <*> <*> <*>,18
+0ab3d0d0,<*> <*> <*> mode <*> <*> <*> <*> <*> <*>,46
+5cf3603f,Returning <*> <*> to <*>,1
+f909c798,<*> for <*> <*> <*> <*>,1
+52440854,<*> <*> <*> on <*> <*> <*>,1
+719d9edd,<*> <*> is <*> <*> <*> <*> <*> <*> <*>,14
+2f9f32b8,Explicit <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,173
+0f59686d,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> on <*> <*> <*>,3
+7d0686e5,<*> Writing <*>,6
+b1d61587,<*> <*> from <*> for <*> <*> <*> <*> <*>,4
+6212bfed,<*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+9a0f49f2,Error opening kernel wakelock stats for: <*> Permission denied,16
+730c99de,type=<*> audit(<*>.<*>:<*>): avc: denied { read } for <*> <*> <*> <*> <*> <*> <*>,26
+9c99ebb7,<*> <*> false,2
+16b8a44a,for index <*>,10
+56212089,<*> <*> <*> <*> of <*> <*>,2
+b58e9e3b,Notifying <*> <*> <*> <*> <*>,10
+ac1cc73a,Process <*> <*> <*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*>,5
+53474698,"STK3A5X ALS_OC: lux:<*>.<*>, last_ps:<*>[<*>], CH0:<*>, CH2:<*>, CH4:<*>, AWAIT:<*>, ACRL:<*>, AGAIN:<*>, INT1:<*>, INT2:<*>, PS:<*>, LED:<*>, flag:<*>, state:<*>, scale:<*>.<*>",38
+cdab44b2,"showSoftInput() view=<*>$SearchAutoComplete{<*> VFED..CL. <*> <*>,<*><*>,<*> #<*> android:id<*> aid=<*>} flags=<*> reason=SHOW_SOFT_INPUT",3
+2db4c134,"<*> <*> inputType=<*>, <*> enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=<*>, privateImeOptions=null, <*> actionLabel=null, <*> <*> initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, <*> hintLocales=[]}}, false)",3
+fde26526,"<*> <*> <*> <*>, <*> <*> <*>",983
+54ffbe59,KeyboardHeightUtil.getKeyboardHeightRatio():<*> systemKeyboardHeightRatio:<*>.<*>; userKeyboardHeightRatio:<*>.<*>.,8
+e72d7eac,<*> <*> : <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = false,6
+ecaa8a98,<*> <*> : <*> = <*> <*> = <*>,6
+fbc21ac8,<*> <*> : <*> = <*>,4
+2c2f0537,Delight5DecoderWrapper.createOrResetDecoder():<*> Decoder reset,1
+425c84a6,VoiceInputManagerWrapper.cancelShutdown():<*> cancelShutdown(),6
+2d282061,VoiceInputManagerWrapper.syncLanguagePacks():<*> syncLanguagePacks(),6
+e8d751fb,SpeechRecognitionFactory.maybeScheduleAutoPackDownloadForFallback():<*> maybeScheduleAutoPackDownloadForFallback(),6
+1ab05df3,<*> <*> <*> updated <*>,6
+0ab60d3d,<*> <*> keyboard <*> <*> <*>,6
+3c8c720c,<*> find <*> <*> <*>,1
+72240179,SuperDelightManager.initializeBundledDelightSuperpacks():<*> initializeBundledDelightSuperpacks(),1
+3dd529bb,LmManager.asyncUpdateEnabledLanguageModels():<*> asyncUpdateEnabledLanguageModels(),1
+2345a516,SuperDelightManager.initializeDelightSuperpacks():<*> initializeDelightSuperpacks(),1
+71ce3e62,<*> <*> <*> : <*> <*> <*>,1
+26d72460,SuperDelightAppsSuperpacksManager.initializeDelightAppsSuperpacks():<*> initializeDelightAppsSuperpacks(),1
+de94b381,SuperDelightManager.initializeOverridesSuperpacks():<*> initializeOverridesSuperpacks(),1
+1ba91882,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>",4
+3acc6ab3,<*> <*> <*> pt_BR <*> <*>,2
+5eb8bb22,<*> <*> <*> <*> for <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,12
+8754fb62,<*> Running <*> <*>,1
+d04bb3ad,<*> <*> <*> is <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,6
+feea7f03,<*> Running <*> language <*> <*>,3
+feb449c0,<*> <*> <*> <*> is <*> <*> <*> <*>,2
+47c4bd52,<*> Running <*> <*> <*> <*> <*>,2
+cd3c448d,<*> <*> default <*>,6
+45cf30d5,<*> <*> : <*>,14
+5cb9ff49,NormalModeController.getKeyboardBodyViewHolderPaddingBottom():<*> currentPrimeKeyboardType:SOFT systemPaddingBottom:-<*>,20
+11ef34e2,<*> Reading <*> <*> <*>,1
+55b9b079,<*> <*> <*> <*> <*> <*> for <*> <*> <*> <*> <*> <*> [<*>],1
+f17088e1,Delight5DecoderWrapper.loadLanguageModel():<*> <*> <*> <*> <*>,7
+e94f57df,<*> <*>:<*>:<*>.<*> <*> <*> <*> <*>,1
+21673a83,<*> <*> <*> <*> not <*> or <*> <*> <*>,1
+09e7ad26,<*> <*> <*> <*> <*> to <*> file <*>,3
+3ec16a12,<*> <*> result <*> <*> <*> <*> <*>,1
+cc344a54,Syncing <*> <*> <*> <*> <*> <*> <*>,2
+4565fa66,EmojiShortcutsLoader.getEmojiShortcuts():<*> <*> pt_BR emoji shortcuts <*>,1
+b1a0cf77,<*> <*> result <*> <*> <*> <*> <*> <*> <*>,1
+c2322d8e,EmojiShortcutsLoader.call():<*> <*> <*> <*> <*> <*>,1
+0a1d54bc,<*> for <*> <*> in <*> <*> <*> <*>,5
+0a8e3958,<*> for <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,7
+56cc1596,<*> <*> delight <*> <*>,1
+08a5fafa,EmojiShortcutsLoader.call():<*> <*> loading emoji shortcuts,1
+777f8149,<*> Running <*> <*> <*>,1
+54cfb495,"<*> <*> <*> <*> <*> found, <*> <*> <*> the <*> <*>",2
+97529733,<*> <*> : <*> <*> <*> <*> <*> <*> <*>,7
+798b1546,<*> <*> <*> <*> <*> for <*> <*> <*> <*>,1
+4f411d11,<*> <*> <*> <*> <*> <*> to <*> <*> <*>,6
+27b3c3a1,<*> <*> <*> <*> <*> to <*> <*> file,1
+96c0f743,SuperDelightMergingStrategy.merge():<*> SuperDelightMergingStrategy#merge(): selected[[main_pt_br_2023101200_1]] synced[[main_pt_br_2023101200_1]],1
+9b122cb9,DataFileManager.addDataWithoutNotify():<*> data pt-BR already exists,1
+9cde8e86,<*> <*> { <*> <*> <*>,28
+ec2c26f0,"GoogleInputMethodService$<*>.onKeyboardViewShown():<*> onKeyboardViewShown: keyboardType=prime, <*>",14
+30697307,"show(ime(), fromIme=true)",6
+8f84db88,Delight5DecoderWrapper.setKeyboardLayout():<*> setKeyboardLayout(),6
+e4253c2d,<*> <*> <*> <*> :,24
+e9b6964d,"BleAdvertisement { version=<*>, socketVersion=<*>, serviceIdHash=null, data=[ <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> ], deviceToken=[ <*> <*> ] } : <*> times.",24
+b4b3bcc1,Total <*> <*> <*>,29
+ed6d10df,<*> <*> <*> Sending <*>,4
+2b0eb9cb,Input channel object '<*> <*> (client)' was disposed without first being removed with the input manager!,13
+546b9b00,StrictMode policy violation; ~duration=<*> ms: <*>,2
+a6be2558,<*> <*> for <*> <*> <*> <*> <*>,7
+eaf96848,<*> <*> command <*> <*>,2
+895b0458,<*> <*> command <*> error: <*> <*>,2
+e3319ce7,<*> <*> <*> <*> <*> from <*> <*> <*> <*>,4
+f365a35d,unregisterTetheringEventCallback:<*>,1
+cd5a1bdb,findOrCreateUserLocked(),3
+8608d2fd,<*> service <*> <*>,18
+eadeb681,<*> not <*> <*> in <*> <*>,8
+d074f9c1,Monitor:ACTIVE:FREEZE-CHG:freeze_rule=<*>:DETECT-STANDBY=<*>,2
+e6ae812b,[fps_normal.c][fp_device_wakelock_enable:<*>]fp_device_wakelock_enable enter! enable:<*> timeout:<*>,529
+00e31703,<*> : <*>,255
+3f5efbc2,<*> enter.,254
+742b3d5d,: <*> <*> <*> <*> <*>,317
+c5df2fdb,: <*> <*> <*>,254
+2162e0b9,: <*> <*> <*> <*> <*> <*> <*>,254
+8121ef75,[packager.c][transfer_data:<*>]transfer_data transporter retval=<*>,254
+7502c42d,<*> <*> result=<*> <*>,254
+817318ef,<*> enter. result=<*>,254
+55ce3055,: <*> <*> <*> <*> <*> <*>,191
+f2ebb1b9,"[captain.c][do_navigation_event_in_flow:<*>]USE_CORE_CONFIG_INI status_fingeron <*>,is_check_click <*>,is_check_double_wait <*>,longlick <*>",21
+9d8f7a27,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> - <*> <*>,1
+c7c9be04,<*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*> <*> <*> <*>,4
+cd11dcb6,"Accessing hidden <*> <*> (max-target-o, reflection, denied)",5
+ffec156b,<*> <*> method <*> <*> <*> <*>,10
+887cc63f,<*> <*> <*> is in <*> <*> <*> <*> <*> to <*>,2
+7377ad0e,onLastStrongRef automatically unlinking death <*> <*> <*>,9
+b08a9bff,<*> <*> from <*> <*> <*> <*> <*>,7
+e663518f,<*> <*> <*> = <*> <*>,4
+38a67d61,<*> <*> <*> = <*>,44
+6551722a,<*> <*> <*> but found <*> <*> <*> <*> <*>,4
+cc3edf28,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+501c89dc,<*> <*> not <*>,4
+8f7cdfb4,<*> <*> <*> for <*> <*> <*> <*> <*> <*> <*>,6
+361c707c,<*> to <*> event <*> <*>,2
+ccdbe1df,<*> <*> <*> <*> <*> = <*>,11
+307f43d0,Duration of <*> <*>,6
+94f9bdbd,<*> <*> <*> <*> to: <*>,36
+2fcd53bb,<*> <*> is <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+66b89e86,Not <*> <*> <*> <*> <*> <*> <*>,2
+17d8b473,Not <*> <*> <*>,3
+f9947b47,<*> <*> <*> is <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,36
+9ded7161,<*> <*> <*> <*> <*> <*> <*>] <*> <*>,3
+5eb50807,isLeEnabled(): ON,4
+f80d5f4c,"<*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*>",9
+1e2d4b28,<*> no <*> <*> on <*> <*> <*>,5
+323c8325,"<*> <*> <*> = <*>, <*> = <*>",5
+2a97ffb4,- RowBase2: <*> <*> <*> <*>,5
+02960e78,chargerType=<*> batteryLevel=<*> totalBatteryCapacity=<*>,5
+563145dd,<*> <*> <*> <*> <*> <*> },9
+2ccea502,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+c44f6039,onLastStrongRef automatically unlinking death <*>,10
+fc1c544c,<*> all <*> <*> <*>,2
+270f5662,[captain.c][do_navigation_event_in_flow:<*>]do_navigation notify long click,4
+80f2b3ab,"Explicit concurrent copying GC freed <*> AllocSpace objects, <*> LOS objects, <*>% free, <*> paused <*> total <*>",99
+4a1168b9,Monitor:INACTIVE:OVERRIDE-CHG:internal_override=<*>:DETECT-STANDBY=<*>,2
+a9452867,Monitor:ACTIVE:MON-MSM-COMB1:battery=<*>:BACK_TEMP=<*>,4
+d321b5ed,<*> <*> dump <*>,2
+99a39e55,[<*>] <*> <*> <*> <*> <*> <*>,11
+9544691a,<*> <*> invalid <*> <*> <*> <*> <*>,4
+ef7038b6,<*> <*> <*> is <*> <*> <*> <*> <*> <*> <*>,3
+a9c61ae0,[<*>] <*> <*> <*> <*> <*> <*> <*> <*>,429
+99466db1,<*> <*> <*> is <*>,3
+063f0987,<*>:<*> <*> <*> <*> <*>,4
+0fc38c7c,<*>$getPublicDumpMessageList$<*>:<*> Dump <*> <*>,8
+3b788b02,<*> dump <*>,2
+4b816f82,No <*> <*> <*> <*> <*> <*> <*> <*>,2
+ff131c7f,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> ],2
+045fbe4e,"operation=CommitToConfigurationOperationCall, opStatusCode=<*> [CONTEXT service_id=<*> ]",2
+703e7364,<*> <*> for <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+71bde075,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+fa9bdcd3,<*> <*> <*> not <*> <*>,2
+b575db1b,#audio# getAudioState,4
+7c323c25,getLocaleToModelSpecsMap,10
+c6dc4d62,(REDACTED) <*> <*> <*> <*> <*>,11
+c825a79b,<*> <*> <*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,400
+b41e56f7,(REDACTED) <*> = <*> <*> <*> <*>,16
+f707fc67,(REDACTED) <*> <*>,22
+9796ce67,<*> dump start,4
+5dfd9273,<*> <*> thread <*> <*> <*> <*> <*> <*> <*>,2
+bddd68de,(REDACTED) <*> <*> <*> <*>,2
+5d9a9f9c,<*> running now.,5
+92f177c1,(REDACTED) <*> for <*> <*> <*> <*> <*> <*> locale: <*> <*> : <*>,2
+1abc754d,isAlwaysOnHotwordAvailable but still checking isVoiceEverywhereEnabled,2
+87e617f2,(REDACTED) <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,6
+8f91aa68,Monitor:ACTIVE:MON-MSM-CPU7:cpu7=<*>:BACK_TEMP=<*>,2
+2b903c4d,Monitor:ACTIVE:MON-MSM-CPU4:cpu4=<*>:BACK_TEMP=<*>,1
+a23837f6,<*> called <*> <*> <*>,2
+31d56ccf,[<*>]processOemHookIndication length=<*>,8
+66180a74,Received <*> <*> <*>,6
+0b6d9acc,<*> ID in <*> <*> <*> is <*>,6
+40f7edfc,onOemHookRawEvent:<*>,6
+c422151f,ignore OemHookRawEvent:HDR mismatch QOEMHOOK,6
+8551d7ce,<*> > Response Processed,2
+52858752,Service <*> <*> <*> <*>,4
+1c8d7b8b,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+c5885c04,subId=<*>,2
+50f9a860,<*> <*> state is <*>,2
+8cc46869,TelecomAccountTelephonyCallback: onServiceStateChanged called.,2
+d89a6b3f,<*> Intent { act=<*> <*> <*> <*> <*> <*>,2
+8ae90caa,<*> <*> <*> <*> <*> <*> false,11
+574659ea,<*> true,85
+e7c535e0,<*> false,79
+5639cdae,"onServiceStateChanged, ss: <*>",2
+91c376bc,<*> <*> <*> with <*>,2
+455b66c0,<*> <*> data,4
+ea215204,(REDACTED) <*> <*> <*> <*> <*> <*>,8
+9e3567d3,(REDACTED) <*> <*> = <*>,1
+5cc035b6,<*> <*> <*> <*> is <*>,3
+7716a94e,(REDACTED) <*> <*> <*>,8
+f60cd416,ActivityTrigger activityPauseTrigger,17
+d79a8ffc,<*> <*> false <*> <*>,17
+4f69feef,<*> <*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*> <*>,34
+ce139796,<*> <*> <*>: <*> <*> <*>,21
+b37dbd1e,onStartedActivityChange: componnent: <*> entered launcher screen? <*>,11
+9a8ae9d5,onResumedActivityChange: entered? true componnent: <*>,17
+e32c9d4f,<*> <*> all <*>,17
+d5f8e5bf,<*> <*> mode,16
+400d9939,reset:,16
+970fae95,Starting <*>,4
+27dfc2e4,<*> to <*> <*> <*>,45
+af83adfd,Done setting <*>,4
+a731801a,<*> to <*> <*>,3
+1200d0d4,Launching fragment <*>,3
+499d805e,<*> : <*> <*> <*> <*>,4
+1358116d,<*> not <*> <*> <*> for <*> <*>,8
+cd816b9f,dumpstate <*> <*> finished <*> <*> <*> <*> <*>,1
+62427b58,<*> <*> is <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,6
+c7ad334a,<*> <*> <*> with <*> <*>,3
+09d9b46f,<*> <*> process <*> in <*> <*> <*> <*>,5
+ae909857,<*> registered,3
+b7277e04,<*> <*> is: <*>,14
+e28bee65,No process <*> for service <*>,1094
+f965458f,No process <*><*> for service <*>,21
+661cbcf2,No process <*> <*> <*> <*> <*> <*>,40
+b4d77713,ClassLoader referenced unknown path:,2
+4ffa8c58,<*> <*> for <*> <*> <*> <*> <*> <*> <*>,13
+a919e21e,<*> : get <*> <*> <*>,8
+b7ac4824,"<*> <*> <*>, <*> <*> <*>",4
+c0a090fe,Executed frag manager pendingTransactions,3
+5a72e471,Binding <*>,4
+d341bfdc,No <*> <*> <*> <*> <*> <*>,5
+a3ea286e,<*> <*> <*> <*>: <*>,12
+c91d80ad,Setting <*> <*> <*> from <*> to <*>,6
+1e633787,Proxy object connected,4
+e54bb185,Displayed <*> <*>,8
+960fc93a,Fully drawn <*>/.SubSettings: <*>,3
+e6f86e40,GoogleInputMethodService.onFinishInput():<*>,17
+4563c798,"GoogleInputMethodService.onStartInput():<*> <*> inputType=<*>, <*> enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=<*>, privateImeOptions=null, <*> actionLabel=null, <*> <*> initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)",9
+456529ed,<*> on <*> <*> with <*> <*>,10
+fa6e9a79,<*> <*> <*> in <*>,10
+4483a148,<*> <*> <*> requested <*> <*> <*> <*>,8
+d147229b,<*> <*> <*>: <*> <*> <*> <*> <*> <*> <*> <*> <*>,26
+84eaaf62,<*> <*> <*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,13
+d18278a5,Using <*>,1
+1ae02058,argv[<*>]=diag_mdlog,1
+d3b90881,argv[<*>]=--filemsm=<*>.cfg,1
+da6cbe6c,argv[<*>]=--output=<*>,1
+0a60c311,argv[<*>]=--optimized,1
+362f36b0,argv[<*>]=--qmdl2_v2,1
+d5911c8d,argv[<*>]=--size=<*>,1
+918a4d3b,argv[<*>]=--number=<*>,1
+111b2535,argv[<*>]=--qdss=<*>,1
+1a8a6c50,<*> <*> - <*> <*>,1
+e3aa7c70,<*> command = <*>,7
+11781f7e,<*> <*> <*> <*> to <*> <*> <*> <*>,5
+793199ae,"<*> <*> <*> <*> <*> <*>, <*> <*>",1
+1a1b1158,diag: <*> <*> <*> <*> <*> <*> <*> <*>,3
+fcbdc9f3,diag_mdlog: <*> <*>,2
+85ac7d35,diag: <*> <*> <*> pkt <*>,2
+ea202c98,diag: <*> <*> <*> <*> <*> <*> for <*> <*>,1
+dac16c43,diag: <*> <*> <*> <*> <*> <*> <*>,4
+f03dc65c,diag: <*> <*> <*> <*>,2
+5558ecc6,diag: <*> <*>,2
+5404b984,Adding <*> <*> <*> <*>,3
+e80c7a6e,<*> <*> <*> <*> <*> <*> <*> <*> <*>',5
+a0d817a1,diag: <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+04b22a22,REMOTE PROCESSOR MASK <*>,1
+d63d2696,"<*> <*> <*> = <*>, <*> <*>",1
+0e13302b,diag: <*> to <*> <*> <*> <*> <*> to <*> <*> <*>,2
+7c83bf34,diag: <*> <*> <*> <*> <*>,4
+be00e253,diag: <*> <*> to <*> <*>,2
+30734c14,logging switched,1
+6f95cb16,Output dirs <*> --- <*>,1
+68876c01,diag: <*> <*> to <*> <*> <*>,1
+d02f6ffb,"diag: <*> <*> <*> for <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>",1
+0c2d2229,diag: queue_push_cntlq: Sending cntl pkt of len: <*> to perif: <*> with port: node [<*>: <*>],264
+68cc08ca,diag: <*> Sending <*> pkt of len: <*> to perif: <*> with port: node [<*>: <*>],27
+853e78ea,"pid=<*> tid=<*> tftp-server : INF :[tftp_server.c, <*>] <*> <*> <*> <*> <*> <*> <*>",377
+9ac963c5,pid=<*> tid=<*> tftp-server : INF <*> <*>] <*> <*> <*> <*>,377
+337a5433,"pid=<*> tid=<*> tftp-server : INF :[tftp_server.c, <*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",377
+10cd5d10,pid=<*> tid=<*> tftp-server : INF <*> <*>] <*> <*> <*> <*> <*> <*> <*>,377
+131a03d8,pid=<*> tid=<*> tftp-server : INF <*> <*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+b4326d93,"pid=<*> tid=<*> tftp-server : INF :[tftp_server.c, <*>] RRQ <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",377
+ed3792e1,"pid=<*> tid=<*> tftp-server : INF :[tftp_server.c, <*>] RRQ <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",754
+750de7d1,"pid=<*> tid=<*> tftp-server : INF :[tftp_server.c, <*>] RRQ <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",377
+b8191c6e,"pid=<*> tid=<*> tftp-server : INF :[tftp_server.c, <*>] RRQ <*> <*> <*>",377
+69c7987e,"pid=<*> tid=<*> tftp-server : INF :[tftp_server.c, <*>] RRQ <*> <*> <*> <*>",377
+0aa41a05,Reading <*> <*> <*> <*>,1
+db76b535,diag: <*> <*> <*> <*> <*> for <*> <*> <*>,4
+69d74698,circular_logging_inited...,1
+bfccf2bd,creating new file <*>,3
+331327ab,<*> <*> <*><*> <*> <*>,1
+fe86e87a,Saving <*> <*> <*> <*> on <*>,1
+186b0aa0,<*> <*> <*>),1
+38c0d9fa,<*> control socket,2
+0c94f9bd,<*> thread <*>,2
+49887d78,Duration of <*> <*> <*>,12
+8bbe5ab6,"diag: <*> <*> <*> <*> <*> <*> <*> <*> perif: <*> <*> <*> <*> <*>, <*> <*>, <*> <*>",3
+b8f95a87,<*> process <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+6803413f,(REDACTED) <*> <*> <*> <*> <*> <*> <*> %s,2
+1c440eef,Back button event: <*>,4
+3c08025f,<*> Received <*> <*>,2
+ad363b80,"GoogleInputMethodService.onStartInput():<*> <*> inputType=<*>, <*> enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=<*>, privateImeOptions=null, <*> actionLabel=null, <*> <*> initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, <*> hintLocales=[]}}, false)",2
+73593edf,<*> <*> process <*> uid <*> <*> <*> <*> <*>,7
+cd7706e1,<*> <*> <*> <*> to <*> <*> <*>,5
+eab2d82b,<*> <*> <*> <*> <*> <*> Capabilities: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,8
+d26958fb,Process <*> <*> <*> (<*>),2
+b2920f30,<*> service...,3
+1ff65180,Starting <*> <*> <*>,2
+bdabe094,<*> Not <*> <*> <*>,15
+d3e6ddc6,<*> <*> <*> <*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+a95711f5,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> <*>,6
+1ecf1d3e,<*> <*> <*> denied,6
+aeb8d14e,<*> <*> complete,2
+aab1a072,<*> <*> <*> in <*> <*> <*> <*> <*>,1
+83f2e5d2,<*> <*> <*> <*>: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+9e8f2c0b,<*> <*> bugreport <*> <*>,2
+dced1d3f,<*> <*> <*> is <*> <*> <*> <*> <*> <*> <*> <*>,2
+27a1e38a,<*> <*> <*> <*> <*> no <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+944fab5b,<*> <*> null,14
+841cff98,<*> <*> <*> <*> <*> no <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+16addeb4,<*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+a063ec66,<*> <*> <*> <*> <*> <*> for <*> <*> <*> <*>,1
+f45c58a5,<*> with <*> <*>,1
+d588defd,do_vibrate: <*> stream_to_socket: <*> progress_updates_to_socket: <*> do_screenshot: <*> is_remote_mode: <*> show_header_only: <*> telephony_only: <*> wifi_only: <*> do_progress_updates: <*> fd: <*> bugreport_mode: <*> <*> <*> <*> <*> <*>,1
+9e2ac8ad,<*> <*> = <*> <*> <*> <*> <*> <*>,30
+cd7b960d,<*> <*> <*> <*> in <*> <*> <*> <*> <*>,2
+8a98e0a4,<*> lock <*>,2
+480b5521,<*> <*> <*> <*> <*> <*> bugreport <*> <*> <*>,2
+37924cb7,<*> <*> <*> <*> name: <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+55ac0a3f,<*> <*> <*> file <*>,2
+362f6f95,Vibrator <*> <*> <*>,2
+783b0eae,<*> <*> package <*> <*>,2
+d97de5b2,<*> <*> <*> <*> to <*> <*> <*> to <*> <*> <*>,4
+22ee0082,<*> on <*>,2
+56f4c323,<*> mode=<*> <*>,2
+4ae46843,contextUser=<*>,2
+d8c8fbc0,assetPaths=,2
+6c71b860,<empty> and <*>.apk,4
+3f05ea97,<*>.apk,42
+9d3cdb88,<*>.<*>,4
+e90b2489,<*> <*> <*> <*> <*> <*> <*> <*> for <*> <*> <*> <*>,2
+3c70ae5d,*** command <*> <*> <*> <*> <*> <*>,2
+425ca706,<*> <*> is <*> <*> <*> user <*>,2
+c18a925b,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",101
+c4064daf,Binder,19
+5afadc2a,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",262
+de32144c,"[<*>,<*>,com.whatsapp,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",9
+57b913b8,"Interaction with: <*> <*><*>.<*> (server), <*> <*> <*> <*> <*> <*> <*>",6
+ad00451f,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,,<*>,<*>,<*>,<*>,<*>,<*>]",8
+ea54cc5c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,,<*>,<*>,<*>,-<*>,<*>,<*>,<*>,<*>]",4
+ecb9e8de,"Interaction with: <*> <*> (server), three-finger (server), PointerEventDispatcher0 (server),",39
+934b10dd,"[<*>,-<*>]",9
+b6562ff7,"[<*>,<*>,<*>,<*>]",122
+7e0d4bc4,"[<*>,<*>]",30
+45719315,"[<*>,<*>,<*>]",178
+b0ebb3ea,"[<*>,<*>,<*>,<*>/.Settings,<*>,NULL,NULL,<*>,<*>]",2
+34b9bedb,"[<*>,<*>,<*><*>.<*>,userLeaving=true,pauseBackTasks,<*>]",7
+79c23c3f,"[<*>,<*>,<*>,<*>,pre-top-activity,{<*><*>.<*>}]",3
+66d62501,"[<*>,<*>,topStateChangedWhenResumed,<*>]",55
+fb3fe5c3,"[<*>,<*>,performPause,<*>]",36
+7f30e982,"[<*>,<*>,<*><*>.<*>,makeInvisible,<*>]",5
+f67541db,"[<*>,<*>,<*>,window_time_0,<*>,<*>]",49
+4d751abb,[Focus <*> <*> <*> <*>,78
+b8974feb,"[<*>,<*>,<*>,<*>/.Settings,<*>]",2
+ce73040c,"[<*>,<*>/.Settings,minimalResumeActivityLocked,<*>]",2
+5690b85a,"[<*>,<*>,performCreate,<*>]",26
+183ff739,"<*> provider,{<*><*>.<*>}]",36
+38c6a841,"[<*>,<*>,handleStartActivity]",34
+c817745f,"[<*>,-<*>,]",13
+1e9663bf,"[<*>,<*>,RESUME_ACTIVITY,<*>]",36
+1f0b776f,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",24
+5780d961,"[<*>,<*>,<*>,<*>,service,{<*><*>.<*>}]",39
+587136d4,"[<*>,<*>,<*>,<*>,<*>,isParalleledControllers:false,<*>,<*>]",10
+67770ee2,[Focus <*> <*> <*>,72
+64f70de1,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",18
+3ac5fc1d,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+27d88bc6,"[<*>,<*>,<*>/.Settings,<*>]",4
+ecf05d65,[Focus <*> <*> <*> <*> <*> <*> <*> <*> <*>,41
+48d53fd9,<*> <*> <*> <*> { <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,144
+abff8f09,"[<*>,<*>,<*><*>.<*>,processStoppingAndFinishingActivities,true]",8
+e2f76283,"[<*>,<*>,<*><*>.<*>,<*>]",10
+89d79dcf,"[<*>,<*>,STOP_ACTIVITY_ITEM]",23
+19c5dcc6,"[settings<*><*>,<*>]",29
+e2568703,<*> <*> <*> <*><*>.<*> <*> <*> <*> <*> <*>,32
+a0a54081,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,homepage_search_bar,<*>,<*>]",2
+937646fd,"[<*>,<*>/.Settings,positionChildAt,<*>]",2
+382da112,"[<*>,<*>,<*>,<*>/.search.SearchActivity,<*>,NULL,NULL,<*>,<*>]",3
+9b198ebb,"[<*>,<*>,<*>/.Settings,userLeaving=true,resumeTopActivityInnerLocked,<*>]",2
+bd993675,"[<*>,<*>,<*>,<*>,<*>,<*>]",111
+03edab82,"[<*>,<*>,<*>/.Settings,makeInvisible,<*>]",4
+3504e024,"[<*>,<*>,<*>,<*>/.search.SearchActivity,<*>]",6
+94accf4d,"[<*>,<*>/.search.SearchActivity,minimalResumeActivityLocked,<*>]",3
+28250233,"[<*>,<*>,<*>/.Settings,makeVisibleIfNeeded,true]",2
+8013bb0d,[Focus <*> <*> <*> <*> <*> <*> <*> <*>,17
+d8918405,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+904e7c37,"[<*>,<*>,<*>/.search.SearchActivity,<*>]",8
+78ef194d,"[<*>,<*>,<*>/.Settings,processStoppingAndFinishingActivities,true]",2
+04312a0a,"[<*>,<*>,<*>:projection]",3
+d82e6d03,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,NULL]",666
+5d8e88a5,"[<*>,<*>,<*>,<*>:shared,service,{<*><*>.<*>}]",3
+1fc2b5a6,"[<*>,<*>,<*>:shared]",4
+a1fee9ed,"[<*>,<*>,<*>,<*>:car,service,{<*><*>.<*>}]",1
+57d97eab,"[<*>,<*>,<*>:car]",3
+0d8a42f5,"[<*><*>-<*>-<*>-<*>,<*>,<*>,<*>,<*>]",2
+9aa6cb57,"[<*>,<*>/.search.SearchActivity,positionChildAt,<*>]",5
+eddb5605,"[<*>,<*>,<*>,<*>/.search.SearchResultTrampoline,<*>,NULL,NULL,<*>,<*>]",5
+58b43544,"[<*>,<*>,<*>/.search.SearchActivity,userLeaving=true,resumeTopActivityInnerLocked,<*>]",5
+55d00e36,"[<*>,<*>,<*>,<*>/.search.SearchResultTrampoline,<*>]",5
+f2ee80a5,"[<*>,<*>/.search.SearchResultTrampoline,minimalResumeActivityLocked,<*>]",5
+8392311b,"[<*>,<*>/.search.SearchResultTrampoline,positionChildAt,<*>]",5
+cbb9dce5,"[<*>,<*>,<*>,<*>/.SubSettings,<*>,NULL,NULL,<*>,<*>]",6
+c0b12824,"[<*>,<*>,<*>/.search.SearchResultTrampoline,userLeaving=true,resumeTopActivityInnerLocked,<*>]",5
+96ad7b76,"[<*>,<*>,<*>,<*>/.search.SearchResultTrampoline,app-request,<*>]",5
+e0402975,"[<*>,<*>,<*>/.search.SearchResultTrampoline,completeFinishing,<*>]",5
+d04bc970,"[<*>,<*>,<*>/.search.SearchActivity,makeInvisible,<*>]",5
+0e46595a,"[<*>,<*>,<*>,<*>/.SubSettings,<*>]",11
+7f14b4ae,"[<*>,<*>/.SubSettings,minimalResumeActivityLocked,<*>]",6
+ee94b676,"[<*>,<*>,<*>/.search.SearchResultTrampoline,processStoppingAndFinishingActivities,true]",5
+b31f059b,"[<*>,<*>,<*>,<*>/.search.SearchResultTrampoline,finish-imm:idle,<*>]",5
+0c338374,"[<*>,<*>,<*>,<*>,<*>,development.DevelopmentSettingsDashboardFragment<*>,<*>,<*>]",53
+182707f9,"[<*>,<*>,<*>,<*>,<*>,development.DevelopmentSettingsDashboardFragment<*>,<*>,-<*>]",14
+d008dccc,"[<*>,<*>,performDestroy]",19
+e1318469,"[<*>,<*>,<*>/.SubSettings,<*>]",10
+4672a158,"[<*>,<*>,<*>/.search.SearchActivity,processStoppingAndFinishingActivities,true]",6
+3b115ec2,"[<*>,<*>,<*>,<*>:titan,broadcast,{<*><*>.<*>}]",1
+caa1de5d,"[<*>,<*>,<*>:titan]",2
+f0ecb167,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> <*> <*>,22
+ab6d4e26,"[<*>,<*>,<*>,<*>,broadcast,{<*><*>.<*>}]",44
+ce98ca91,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,avrcp_notification,<*>,<*>]",4
+a872a397,<*> #<*>],110
+e6e7b8c4,"[<*>,<*>,<*>,<*>,<*>]",122
+999fb377,"[<*>,<*>:car,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+ff419388,<*> <*> <*> <*> { <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,41
+7fd1d80b,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>,<*>,<*>]",29
+a186a5b2,"[<*>,<*><*>.<*>:<*>,<*>]",2
+bab8b44e,"[<*>,<*>:shared,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+45ffd5ec,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> <*> <*> <*> <*>,16
+93907896,"[<*>,carrier_config]",6
+608f5fba,"[notification-policy,<*>]",64
+e814f843,"[<*>,<*>:projection,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+76a99cac,"[<*>,<*>,<*>,-<*>,<*>]",2
+1aefa992,"[<*>,<*>/.btservice.AdapterService,<*>]",2
+907d466e,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",14
+64875568,"[<*>,<*>:titan,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+80abfb67,"[jobs,<*>]",32
+3b9ed287,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> <*> <*> <*>,31
+2b6b3554,"[<*>,com.whatsapp,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",3
+f87f39c5,"[<*>,uri_grants]",1
+edac75bb,"[sync-accounts,<*>]",2
+06e2b18a,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",14
+922ab479,<*> shortcut=null contentView=null vibrate=null sound=null <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+8ac40a97,<*> shortcut=null contentView=null vibrate=null sound=null <*> <*> <*> <*> <*>,121
+f701a366,<*> shortcut=null contentView=null vibrate=null sound=null <*> <*> <*> <*> <*> <*>,1
+67cd65f2,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>::a:TIMELINE_INSIGHTS_SUMMARY:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+b1361ea2,"[<*>|<*>|<*>|<*>::a:TIMELINE_INSIGHTS_SUMMARY:<*>|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",1
+53cb1532,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>::SUMMARY::<*>,<*>,<*>,<*>,OtherChannel,<*>,<*>,<*>,<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+53257af2,"[<*>|<*>|<*>|<*>::SUMMARY::<*>|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",1
+545a01ce,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:CHIME_COMMENT:<*>,<*>,<*>,<*>,<*>:COMMENTS,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+614dccc3,"[<*>,<*>,<*>,note_interruptive,<*>,<*>,<*>,<*>]",177
+d6df17dc,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:CHIME_ACCESS_REQUEST:<*>,<*>,<*>,<*>,<*>:ACCES-<*>,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+d8b30d74,"[<*>,<*>,<*>:projection,<*>,<*>]",2
+03be4117,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:CHIME_SHARE:<*>,<*>,<*>,<*>,<*>:SHARES,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+0982e91a,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+25d30c31,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,^nc_1_mail_larissadasilvape-<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",38
+c597e3c3,"[<*>|<*>|<*>|gig:<*>:^sq_ig_i_personal|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",38
+97524143,"[<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,NULL]",9
+2874f11e,"[<*>,<*>,<*>,-<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,NULL]",9
+42e78cac,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,^nc_1_mail_larissadasilvape-<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",31
+2d5e4b1f,"[<*>|<*>|-<*>|gig:<*>:^sq_ig_i_personal|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",31
+129456d6,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,^nc_1_mail_lsp@<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INB-<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",41
+21e778db,"[<*>|<*>|<*>|gig:-<*>:CLASSIC_INBOX_ALL_MAIL|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",41
+b910f73a,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,enable_adb,<*>,<*>]",1
+557f8243,"[<*>,<*>,<*>:privileged_process0,<*>,<*>]",3
+05db573d,"[<*>,<*><*>.<*>,<*>]",19
+c4e888e8,"[<*>,<*>,<*>:instant_app_installer,<*>,<*>]",2
+6dab5b04,"[<*>,<*>,<*>:titan,<*>,<*>]",2
+20ae3484,"[package-user<*>,<*>]",14
+ca13f1b6,"[<*>,<*>,<*>,com.dominospizza,broadcast,{com.dominospizza<*>.dominos.LocaleChangeReceiver}]",1
+ed18b79e,"[<*>,<*>,com.dominospizza]",1
+47b9cb46,"[<*>,<*>,com.dominospizza,<*>,<*>]",1
+a29550ec,"[<*>,<*>,<*>,<*>,ResolveInfo{<*> <*> m=<*>}]",3
+bc5a0279,"[<*>,<*>,<*>:shared,<*>,<*>]",3
+282ec7c8,"[<*>,<*>,<*>:car,<*>,<*>]",2
+202c097c,type=<*> audit(<*>.<*>:<*>): avc: denied { read } for <*> <*> <*> ino=<*> <*> <*> <*> permissive=<*> <*>,6
+4d0ba53f,type=<*> audit(<*>.<*>:<*>): avc: <*> { <*> } for <*> <*> <*> ino=<*> <*> <*> <*> <*>,46
+b44e2f55,<*> shortcut=null contentView=null vibrate=null sound=null <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+ceb52954,<*> shortcut=null contentView=null vibrate=null sound=null <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,150
+a35dabe9,"[<*>,<*>,<*>,<*>:car,broadcast,{<*><*>.<*>}]",2
+a4ced92d,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,^nc_1_mail_larissadasilvape-<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",22
+d4356dc6,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,^nc_1_mail_larissadasilvape-<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",28
+e8f4d0eb,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,^nc_1_mail_lsp@<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INB-<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",49
+5161fb0b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,gig:-<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,^nc_1_mail_lsp@<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INB-<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",51
+80deff5c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,gig:-<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,^nc_1_mail_lsp@<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INB-<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",44
+7f311ba6,"[<*>|<*>|-<*>|gig:-<*>:CLASSIC_INBOX_ALL_MAIL|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",44
+9649e0f5,"[<*>,<*>,<*>:car,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+b8d1849f,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,show_all_anrs,<*>,<*>]",1
+e4a69e3f,"[<*>,<*>/.SubSettings,positionChildAt,<*>]",2
+e41a9cc8,"[<*>,<*>,<*>/.SubSettings,userLeaving=true,resumeTopActivityInnerLocked,<*>]",2
+f35b08e5,"[<*>,<*>,<*>/.SubSettings,makeInvisible,<*>]",3
+90d8e7ef,"[<*>,<*>,<*>/.SubSettings,processStoppingAndFinishingActivities,true]",8
+b9a0c714,"[<*>,<*>,<*>,<*>/.search.SearchActivity,app-request,<*>]",1
+cbb7d0c8,"[<*>,<*>,<*>/.search.SearchActivity,userLeaving=false,finish,<*>]",1
+160a96bd,"[<*>,<*>,<*>/.search.SearchActivity,completeFinishing,<*>]",1
+345b12de,"[<*>,<*>/.SubSettings,resumeTopActivityInnerLocked,<*>]",3
+fd2dc4ff,"[<*>,<*>,ACTIVITY_RESULT]",4
+ad2bb747,"[<*>,<*>,performRestartActivity]",14
+c46903e1,"[<*>,<*>,topWhenResuming,<*>]",15
+2704e400,"[<*>,<*>,<*>,<*>/.search.SearchActivity,finish-imm:idle,<*>]",1
+91e5ad68,"[<*>,<*>,LIFECYCLER_STOP_ACTIVITY]",9
+f35cbab6,"[<*>,<*>:car,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",3
+48a25396,"[<*>,<*>:shared,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",3
+e4eb4c3f,"[<*>,<*>:projection,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",2
+04f75fd6,"[<*>,<*>,pausing,<*>]",2
+c0e0f682,"[<*>,<*>,handleRelaunchActivity]",2
+4d48c494,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,bugreport,<*>,<*>]",3
+15881ba4,"[<*>,<*>,<*>:shared,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+94c6b278,"[<*>,<*>,<*>:projection,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+ccc128a6,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,bugreports,<*>,<*>]",1
+7528f7dc,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,quick_settings_tiles,<*>,<*>]",1
+43df6642,"[<*>,<*>,<*>,<*>:server_recovery_process_scheduled,broadcast,{<*><*>.<*>}]",1
+25ee3396,"[<*>,<*>,<*>:server_recovery_process_scheduled]",1
+0951ee1c,"[<*>,<*>,<*>:server_recovery_process_scheduled,<*>,<*>]",1
+e1ee239b,"[<*>,<*>,<*>,<*>/.SubSettings,app-request,<*>]",4
+8f71dbcd,"[<*>,<*>,<*>/.SubSettings,userLeaving=false,finish,<*>]",4
+eee46ce9,"[<*>,<*>,<*>/.SubSettings,completeFinishing,<*>]",4
+e335b3fd,"[<*>,<*>,<*>,<*>/.SubSettings,finish-imm:idle,<*>]",4
+0158b843,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> ino=<*> <*> <*> <*> permissive=<*>,25
+5b84eec6,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> ino=<*> <*> <*> tclass=dir permissive=<*>,18
+104ee6e6,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,autofill_logging_level,<*>,<*>]",1
+0ab77de0,"[<*>,<*>,com.whatsapp,<*>,Q59xYHTaQ6r3XF9AothOkT2WBCm95FAUYDclQMOhtdQ=",6
+55f695d4,<*> <*> contentView=null vibrate=null sound=null <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,8
+2382d02f,"[<*>,<*>,com.whatsapp,<*>,H6TNv9ytnmzbzzYvJzbZCx1k1<*>=",7
+98deb726,<*> <*> contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,6
+79f0ffb1,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,Q59xYHTaQ6r3XF9AothOkT2WBCm95FAUYDclQMOhtdQ=",13
+49f3af2f,",<*>,com.whatsapp,<*>,group_chat_defaults_2,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",6
+0efbe261,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,H6TNv9ytnmzbzzYvJzbZCx1k1<*>=",18
+0ca5ab8a,",<*>,com.whatsapp,<*>,individual_chat_defaults_1,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",10
+9c9ae72b,"[<*>,<*>/.search.SearchActivity,resumeTopActivityInnerLocked,<*>]",3
+780a88db,"[<*>,<*>,<*>,note_peek,<*>,<*>]",4
+0c031d8f,"[<*>|com.whatsapp|<*>|null|<*>,<*>]",6
+e7c8310d,"[<*>,<*>,<*>,note_load,<*>,<*>,<*>,<*>]",15
+c9974552,",<*>,<*>,<*>,com.whatsapp,<*>,group_chat_defaults_2,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",10
+a2cdb1f0,"[<*>,<*>,<*>,note_freshness,<*>,<*>,<*>,<*>]",98
+67c669bb,[<*>|com.whatsapp|<*>|Q59xYHTaQ6r3XF9AothOkT2WBCm95FAUYDclQMOhtdQ=,13
+a5bb536b,"|<*>,<*>,<*>,<*>,<*>,<*>]",21
+9c9a268c,",<*>,<*>,<*>,com.whatsapp,<*>,individual_chat_defaults_1,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",11
+1e2c96a4,[<*>|com.whatsapp|<*>|H6TNv9ytnmzbzzYvJzbZCx1k1<*>=,14
+f0e367b9,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.whatsapp,<*>,individual_chat_defaults_1,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,<*>,<*>,msg,<*>,<*>,<*>,<*>,<*>,<*>]",10
+ed2acdef,"[<*>|com.whatsapp|<*>|null|<*>,<*>,<*>,<*>,<*>,<*>]",10
+81103ab6,"[<*>,<*>,<*>,panel_open,<*>,<*>]",2
+da8b1245,"[<*>,<*>,<*>,panel_open_peek,<*>,<*>]",1
+bb4c160d,<*> <*> { <*> } for <*> uid=<*> <*> <*> <*> <*> permissive=<*>,30
+21826285,"[<*>,<*>,<*>/.SubSettings,userLeaving=false,sleep,<*>]",1
+2c84b446,"[<*>,<*>,<*>/.SubSettings,completePauseLocked,<*>]",1
+64df1f93,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",90
+14b8232c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",19
+44a1bfb5,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",22
+5225bf9d,"[<*>,<*>,<*>,setKeyguardShown]",20
+ebf47660,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,<*>]",2
+1ad51aa3,"[<*>,<*>,<*>,screen_timeout,<*>,<*>,<*>,<*>]",6
+5d88bf53,"[<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>]",6
+60cc750b,"[<*>,no activity]",7
+ae8114ec,"[<*>,.qtidataservices,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",1
+15a7c6cc,"[<*>,.dataservices,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",1
+bd05a89f,"[<*>,system,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",1
+ebd9476e,"[<*>,<*>,<*>,power_consecutive_short_tap_count,<*>,<*>,<*>,<*>]",7
+d6d00c9a,"[<*>,<*>,<*>,power_double_tap_interval,<*>,<*>,<*>,<*>]",7
+7e9d9f64,"[ACTION_DOWN,<*>,<*>]",7
+f4a8473d,"[<*>,platform_compat]",3
+cff9a1cc,"[display-state,<*>]",8
+4ec203dd,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:CHIME_COMMENT:<*>,<*>,<*>,<*>,<*>,<*>,<*>:COMMENTS,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",14
+0baba8e0,"[<*>|<*>|<*>|-<*>::a:CHIME_COMMENT:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",14
+3b364f1c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:CHIME_ACCESS_REQUEST:<*>,<*>,<*>,<*>,<*>,<*>,<*>:ACCES-<*>,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",14
+fe7c01d7,"[<*>|<*>|<*>|-<*>::a:CHIME_ACCESS_REQUEST:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",14
+8ca00af9,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,a:GMSCORE_STORE_RENDERER:<*>:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",6
+c06e3e41,"[<*>|<*>|<*>|a:GMSCORE_STORE_RENDERER:<*>:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",22
+38186e6a,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,<*>,<*>,^nc_1_mail_lsp@<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INB-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",34
+d127f4fc,"[<*>|<*>|<*>|gig:-<*>:CLASSIC_INBOX_ALL_MAIL|<*>,<*>,<*>,<*>,<*>,<*>]",34
+df6099e5,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:CHIME_SHARE:<*>,<*>,<*>,<*>,<*>,<*>,<*>:SHARES,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",14
+9ad57017,"[<*>|<*>|<*>|-<*>::a:CHIME_SHARE:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",14
+4ae8b606,"[<*>,<*>,<*>,dozing_minutes,<*>,<*>,<*>,<*>]",6
+339f3e99,"[ACTION_UP,<*>,<*>]",7
+1230f54b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+96b883ab,"[<*>|<*>|<*>|ranker_group|<*>|ranker_group,<*>,<*>,<*>,<*>,<*>]",2
+b2d306c5,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>:sms:<*>,<*>,<*>,<*>,<*>,<*>,bugle_default_channel,<*>,<*>,<*>,bugle_notification_group_key,<*>,<*>,<*>,<*>,<*>,<*>,<*>,msg,<*>,<*>,<*>,<*>,<*>,<*>]",14
+d3f611a5,"[<*>|<*>|<*>|<*>:sms:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",14
+7afb6ad7,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,FDN,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",16
+20dad2cf,"[<*>|<*>|<*>|null|<*>,<*>,<*>,<*>,<*>,<*>]",26
+7bbada8a,"[<*>,com.whatsapp/.messaging.MessageService]",3
+07786fe0,"[<*>,<*>,<*>,keyguardGoingAway]",4
+f35f8d20,"[<*>,unlocked]",2
+bbd3f814,unlocked,1
+7a0f1182,-<*>,4
+4545d6f5,"[<*>,<*>,<*>,<*>,bringingFoundTaskToFront]",3
+9b98fb60,"[<*>,<*><*>.<*>,bringingFoundTaskToFront,<*>]",3
+df470446,"[<*>,<*>,<*>,<*><*>.<*>,<*>,NULL,NULL,<*>,<*>]",5
+ca56fe57,"[<*>,<*>,<*>/.SubSettings,userLeaving=true,pauseBackTasks,<*>]",1
+409dc025,"[<*>,<*><*>.<*>,resumeTopActivityInnerLocked,<*>]",8
+1a2e663f,"[<*>,<*>,<*>,<*><*>.<*>,<*>]",10
+4e431128,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+53451367,"[<*>,<*><*>.<*>,minimalResumeActivityLocked,<*>]",2
+bf7eb730,"[<*>,<*>,<*>,<*>:sandboxed_process0:<*>:<*>,,{<*><*>.<*>:<*>}]",27
+00adbea0,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>]",27
+32ed0bd1,"[<*>,<*>,<*>,<*>:privileged_process0,service,{<*><*>.<*>}]",2
+aa19e6be,"[<*>,<*>,<*>:privileged_process0]",2
+5b35da68,"[<*>,<*>:sandboxed_process0:<*>:<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",6
+30080ec0,"[<*>,<*>:privileged_process0,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+ad7746a1,"[<*>,<*>,<*>,com.whatsapp/.Main,<*>,NULL,NULL,<*>,<*>]",1
+f4c03473,"[<*>,<*>,<*>,com.whatsapp/.Main,<*>]",1
+fd86a41e,"[<*>,com.whatsapp/.Main,minimalResumeActivityLocked,<*>]",1
+338fd468,"[<*>,com.whatsapp/.Main,positionChildAt,<*>]",1
+c483fc73,"[<*>,<*>,<*>,com.whatsapp/.HomeActivity,NULL,NULL,NULL,<*>,<*>]",2
+93aab816,"[<*>,<*>,com.whatsapp/.Main,userLeaving=true,resumeTopActivityInnerLocked,<*>]",1
+24ebfd7a,"[<*>,<*>,<*>,com.whatsapp/.Main,app-request,<*>]",1
+53dfa3c2,"[<*>,<*>,com.whatsapp/.Main,completeFinishing,<*>]",1
+d88a1574,"[<*>,<*>,<*>,com.whatsapp/.HomeActivity,<*>]",3
+0e13a2aa,"[<*>,com.whatsapp/.HomeActivity,minimalResumeActivityLocked,<*>]",2
+5eec68a5,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.whatsapp,<*>,<*>,<*>,com.whatsapp,<*>,<*>,<*>,<*>,<*>,<*>]",2
+c928b6d4,"[<*>,<*>,com.whatsapp/.HomeActivity,<*>]",5
+0e7e2228,"[<*>,<*>,com.whatsapp/.Main,processStoppingAndFinishingActivities,true]",1
+0a09c7d6,"[<*>,<*>,<*>,com.whatsapp/.Main,finish-imm:transit,<*>]",1
+8c5581a1,"[<*>,com.whatsapp/.HomeActivity,positionChildAt,<*>]",1
+e14e7277,"[<*>,<*>,<*>,com.whatsapp/.Conversation,NULL,NULL,NULL,<*>,<*>]",1
+a715ce1c,"[<*>,<*>,com.whatsapp/.HomeActivity,userLeaving=true,resumeTopActivityInnerLocked,<*>]",1
+4171da7b,"[<*>,<*>,com.whatsapp/.HomeActivity,makeInvisible,<*>]",3
+342c0889,"[<*>,<*>,<*>,com.whatsapp/.Conversation,<*>]",3
+1ced543d,"[<*>,com.whatsapp/.Conversation,minimalResumeActivityLocked,<*>]",2
+b89d441b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.whatsapp,<*>,individual_chat_defaults_1,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,msg,<*>,<*>,<*>,<*>,<*>,<*>]",2
+52098601,"[<*>|com.whatsapp|<*>|null|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",3
+4938c204,",<*>,<*>,<*>,<*>,NULL]",5
+0516c5aa,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,Q59xYHTaQ6r3XF9AothOkT2WBCm95FAUYDclQMOhtdQ=",3
+710e8071,"|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",6
+fe16490a,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,H6TNv9ytnmzbzzYvJzbZCx1k1<*>=",3
+eefe4612,"[<*>,<*>,com.whatsapp/.Conversation,<*>]",3
+bfc7f2b0,"[<*>,<*>,com.whatsapp/.HomeActivity,processStoppingAndFinishingActivities,true]",3
+a314222f,<*> not <*>,29
+07bccc23,"[<*>,<*>:background,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",6
+2994d3f7,"[<*>,<*>,<*>,com.whatsapp/.Conversation,app-request,<*>]",1
+23a69e26,"[<*>,<*>,com.whatsapp/.Conversation,userLeaving=false,finish,<*>]",2
+ea2b92c8,"[<*>,<*>,com.whatsapp/.Conversation,completeFinishing,<*>]",2
+bde05699,"[<*>,com.whatsapp/.HomeActivity,resumeTopActivityInnerLocked,<*>]",1
+28db94de,"[<*>,<*>,<*>:privileged_process0,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+ff048ed7,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",10
+8a186e5b,"[<*>,<*>,com.whatsapp/.Conversation,processStoppingAndFinishingActivities,true]",3
+0fee1644,"[<*>,<*>,<*>,com.whatsapp/.Conversation,finish-imm:idle,<*>]",2
+2a38b15b,"[<*>,<*>,com.whatsapp/.HomeActivity,userLeaving=true,pauseBackTasks,<*>]",1
+afe347c5,"[sync-status,<*>]",8
+74835d2d,<*> shortcut=null contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> <*>,4
+928e4b8a,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,bugreports,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+53dce8f5,"[<*>,<*>,<*><*>.<*>,userLeaving=false,sleep,<*>]",3
+04ec2a25,"[<*>,<*>,<*><*>.<*>,completePauseLocked,<*>]",3
+ba95cdef,"[<*>,<*>:rcs,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+e524dafd,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+da9be5c3,"[<*>,<*>:interactor,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+a3dde23e,"[<*>,s:alarm]",6
+24302e24,net,10
+ef906689,unknown,3
+7e9de27d,"[-<*>,,<*>,<*>]",8
+3442544a,"[<*>,s:early]",3
+c2bcea61,"[<*>,<*>,<*>,<*>:instant_app_installer,service,{<*><*>.<*>}]",1
+3ba7b08d,"[<*>,<*>,<*>:instant_app_installer]",2
+217bb5bc,"[<*>,<*>:instant_app_installer,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",2
+061dc374,"[<*>,<*>:privileged_process0,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+174c5b35,"[<*>,,<*>,<*>]",1
+42132118,"[gmail-ls,<*>,<*>,-<*>]",4
+351d5aec,"[<*>,<*>,<*>:provider]",1
+59563083,<*> periodic job original latest run time: <*>,1
+3dca4a6e,"[package,<*>]",6
+dbdd7656,"[package-session,<*>]",12
+f0b679f7,"[<*>,<*>:instant_app_installer,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+ebc66eb6,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,<*>,maintenance-v2,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+1e705c40,<*> shortcut=null contentView=null vibrate=null sound=null <*> <*> <*> <*>,3
+60127d6b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,<*>,maintenance-v2,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+4d8e9884,"[<*>|<*>|-<*>|null|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",3
+085c78bb,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+ff0c6c72,"[<*>,<*>,<*>:search,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",7
+a7f6b844,"[<*>,<*>,<*>:background,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+40008185,"[<*>,<*>,<*>:provider,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+d0b9ecb6,"[<*>,<*>,<*>:instant_app_installer,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+c0bef488,"[<*>,<*>,<*>:mya_ce,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+977a525d,"[<*>,<*>,<*>:interactor,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+fa346080,"[<*>,<*>,<*>:rcs,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+9493e9da,"[<*>,<*>,.qtidataservices,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+aa6792a6,"[<*>,<*>,.dataservices,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+cbaf2f77,"[<*>,<*>,system,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+2ee10e3c,"[<*>,<*>:provider,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+a5d12724,"[<*>,batteryproperties]",1
+45f5d00c,<*> <*> <*> state <*>,2
+adbd9704,<*> <*> <*> <*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*>,7
+1e4adecb,"[<*>,removeChild,<*>]",7
+7fb98117,bg,20
+35c84eae,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+ec09617e,"[<*>|<*>|<*>|<*>|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",1
+cae50b9a,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,a:GMSCORE_STORE_RENDERER:<*>:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+18e4c28b,"[<*>|<*>|<*>|a:GMSCORE_STORE_RENDERER:<*>:<*>|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",3
+de89045d,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>]",1
+07dabf6f,"[<*>|<*>|<*>|ranker_group|<*>|ranker_group,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",1
+6a11bd43,"[<*>,<*>:search,anon,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+bf25aa44,"[<*>/.<*>,<*>]",4
+b99be07a,"[<*>,slice]",1
+316581fd,"[<*>/.backup.BackupTransportService,<*>]",4
+e5a4155b,"[<*>,<*>,<*>:search,<*>,<*>]",1
+bc740649,"[<*>,<*><*>.<*>$KeepAliveService,<*>]",1
+b82b7eff,"[<*>,<*>,<*>,<*>:webview_service,service,{<*><*>.<*>}]",1
+76b576fb,"[<*>,<*>,<*>:webview_service]",1
+2c4cef80,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,gig:-<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,<*>,<*>,^nc_1_mail_lsp@<*>,<*>,<*>,<*>,gig:-<*>:CLASSIC_INB-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",12
+9e72a79b,"[<*>|<*>|-<*>|gig:-<*>:CLASSIC_INBOX_ALL_MAIL|<*>,<*>,<*>,<*>,<*>,<*>]",12
+2af0c9c3,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> ino=<*> <*> <*> <*> permissive=<*> <*>,2
+19d8fa63,"[<*>,simphonebook]",1
+e95b3e7c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ch_marketplace_announcements,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+6eeaa5fd,"[<*>,<*>:<*>,<*>,<*>]",2
+36b2ef22,"[<*>,<*>:webview_service,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",2
+6b28d0f9,"[<*>,<*>:<*>]",3
+69052c8b,"[-<*>,SUCCESSFUL,<*>,<*>]",2
+7bc584f6,"[CheckinTask:SentRequest,<*>]",1
+6b24ed55,"[CheckinTask:ReceivedResponse,<*>]",1
+27c8f755,"[CheckinTask:duration,<*>]",1
+b8c91f91,"[<*>,<*>,<*>,<*>:aab,broadcast,{<*><*>.<*>}]",1
+eb76afaf,"[<*>,<*>,<*>:aab]",1
+7f3fc706,"[<*>,<*>,<*>,<*>:search,broadcast,{<*><*>.<*>}]",1
+7c1a19fc,"[<*>,<*>,<*>:search]",1
+dfd636da,"[<*>,<*>,<*>,<*>:shared,broadcast,{<*><*>.<*>}]",1
+d3f2ddaf,<*> shortcut=null contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+3d3a4360,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,a:GMSCORE_STORE_RENDERER:<*>:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+900bd7ee,"[<*>|<*>|<*>|a:GMSCORE_STORE_RENDERER:<*>:<*>|<*>,<*>]",2
+d33bbdda,"[<*>,<*>/.chimera.PersistentBoundBrokerService,<*>]",2
+161be2a4,"[<*>,<*>/.geotimezone.GeoTimeZoneService,<*>]",2
+4c2ba2ea,"[<*>,<*>/.<*>,<*>]",35
+7f5b2339,"[<*>,<*>/.gcm.GcmService,<*>]",2
+31bbfdce,"[<*>,<*>/.chimera.PersistentInternalApiService,<*>]",1
+aba5c6b8,"[<*>,<*>/.chimera.PersistentApiService,<*>]",2
+c48d6880,"[<*>,<*>/.chimera.PersistentApiServiceNoInstantApps,<*>]",2
+54def77f,"[<*>,<*>/.chimera.PersistentIntentOperationService,<*>]",2
+314a05bd,"[<*>,<*>/.thunderbird.EmergencyPersistentService,<*>]",2
+302eda0e,"[<*>,<*>/.chimera.PersistentDirectBootAwareApiService,<*>]",2
+8f15dcb2,"[<*>,<*>/.chimera.GmsIntentOperationService,<*>]",1
+29c8be27,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+3f944409,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,a:GMSCORE_STORE_RENDERER:<*>:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",16
+86dc7517,"[<*>,suspend_control_internal]",1
+e96f50d9,"[<*>,wifi]",2
+7a1ebf84,"[<*>,location]",1
+086360aa,"[<*>,legacy_permission]",1
+811804e2,"[<*>,<*>,<*>,com.whatsapp,broadcast,{com.whatsapp<*>.whatsapp.AlarmBroadcastReceiver}]",1
+65604864,"[<*>,<*>,com.whatsapp]",2
+faf62925,"[<*>,<*>:search,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",3
+2b367e4f,"<*> on, but BluetoothLeScanner == <*>",1
+6e28a504,"[<*>,content_capture]",1
+3ed98e95,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ch_marketplace_announcements,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",8
+fa91a518,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.whatsapp,<*>,individual_chat_defaults_1,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,msg,<*>,<*>,<*>,<*>,<*>,<*>]",1
+58e2a998,"[<*>,motion]",1
+b315f1f6,"[<*>,<*>,<*>,com.whatsapp/.Conversation,<*>,NULL,content:/<*>.<*><*>,<*>,<*>]",1
+3eedb20a,"[<*>,<*>,com.whatsapp/.Conversation,makeInvisible,<*>]",1
+172ae12e,"[<*>,<*>,com.whatsapp/.Conversation,userLeaving=false,sleep,<*>]",1
+776fe255,"[<*>,notification interaction]",2
+53430116,notification interaction,1
+3b80ea55,"[<*>,<*>,<*>,note_click_longevity,<*>,<*>,<*>,<*>]",1
+29d0ecab,"[<*>,<*>,<*>,-<*>]",12
+96fc5d43,"[<*>,com.whatsapp/.Conversation,resumeTopActivityInnerLocked,<*>]",1
+3f7064e9,"[<*>,<*>,<*>,<*>:titan,service,{<*><*>.<*>}]",1
+008a3267,"[<*>,<*>:aab,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+bd5aba10,"[<*>,<*>:titan,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+2e31e9fb,"[<*>,<*>,<*>,com.whatsapp/.Conversation,finish-activity,<*>]",1
+130e6bf5,<*> adjustFocusToNextFocusableTask],3
+ce9a518b,"[<*>,<*><*>.<*>,finish-top adjustFocusToNextFocusableTask,<*>]",1
+11a8201e,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.whatsapp,<*>,silent_notifications_3,<*>,<*>,<*>,group_key_messages,<*>,<*>,<*>,<*>,<*>,msg,<*>,<*>,<*>,<*>]",1
+514725ba,[Focus <*> <*>,1
+9eaf4ded,"[<*>,<*>,<*>,<*>,RecentsAnimation.onAnimationFinished()]",1
+702b469d,"[<*>,<*>,com.whatsapp/.HomeActivity,userLeaving=false,pauseBackTasks,<*>]",1
+5f25416b,"[<*>,<*>,<*>,com.whatsapp/.HomeActivity,remove-task,<*>]",1
+8ae5e121,"[<*>,<*>,<*>,com.whatsapp/.HomeActivity,finish-imm:finishIfPossible,<*>]",1
+fbf0a06a,<*> task],2
+30f52382,"[<*>,<*>,com.whatsapp,<*>,<*>]",1
+9b1be941,"[<*>,com.whatsapp/.messaging.MessageService,<*>]",1
+77d108dc,"[<*>,com.whatsapp<*>.<*>,<*>]",1
+00088c76,"[<*>,<*>,<*>,<*><*>.<*>,remove-task,<*>]",1
+ee217308,"[<*>,<*>,<*>,<*><*>.<*>,finish-imm:finishIfPossible,<*>]",1
+148b9ffd,"[<*>,<*>,<*>,<*>/.SubSettings,remove-task,<*>]",1
+78944bd1,"[<*>,<*>,<*>,<*>/.SubSettings,finish-imm:finishIfPossible,<*>]",1
+63a45798,"[<*>,<*>,<*>,<*>/.search.SearchActivity,remove-task,<*>]",1
+6db2aa18,"[<*>,<*>,<*>,<*>/.search.SearchActivity,finish-imm:finishIfPossible,<*>]",1
+07229bd5,"[<*>,<*>,<*>,<*>/.Settings,remove-task,<*>]",1
+749af27f,"[<*>,<*>,<*>,<*>/.Settings,finish-imm:finishIfPossible,<*>]",1
+74caaa07,"[<*>,<*>,<*>:provider,<*>,<*>]",1
+bd97b10c,"[<*>,<*>,<*>,com.whatsapp,service,{com.whatsapp<*>.<*>}]",1
+103d66b0,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+347c9010,"[<*>,<*>,<*>:webview_service,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+8bea61a8,"[<*>,<*>,<*>:aab,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+85c4ee1f,"[<*>,<*>,<*>:titan,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+147ff5c7,"[<*>,<*>,<*>,<*>,Li-ion]",2
+dc7b160f,"[<*>,charging]",2
+0a5202c7,charging,1
+65b1c5bb,"[batterystats,<*>]",4
+c0ac5dde,"[<*>,<*>,<*>:aab,<*>,<*>]",1
+d766fe6b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>]",1
+96af0e8d,"[<*>,<*>,<*>,<*>:instant_app_installer,broadcast,{<*><*>.<*>}]",1
+8ae65ff7,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,-<*>]",2
+b5da209c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,android,<*>,USB,<*>,<*>,<*>,<*>,<*>,<*>]",2
+bf735cbd,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,android,<*>,DEVELOPER_IMPORTANT,<*>,<*>,<*>,<*>,<*>,<*>]",1
+fedb47cb,"[-<*>|android|<*>|null|<*>,<*>]",2
+4fd86708,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,android,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+e6151ec7,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,android,<*>,DEVELOPER_IMPORTANT,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",6
+d2ae90a8,"[-<*>|android|<*>|null|<*>,<*>,<*>,<*>,<*>,<*>]",8
+10c65cb0,"[<*>,<*>,<*>,<*>/.usb.UsbDebuggingActivity,NULL,NULL,NULL,<*>,<*>]",1
+7a0fc263,"[<*>,<*>,<*>,<*>/.usb.UsbDebuggingActivity,<*>]",1
+f9c1879e,"[<*>,<*>/.usb.UsbDebuggingActivity,minimalResumeActivityLocked,<*>]",1
+ab1fd994,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,android,<*>,<*>,<*>,<*>,<*>,<*>]",1
+bc64dad4,"[<*>,<*>,<*>/.usb.UsbDebuggingActivity,<*>]",1
+01fd1056,"[<*>,<*>,<*>,<*>/.usb.UsbDebuggingActivity,app-request,<*>]",1
+172811ee,"[<*>,<*>,<*>/.usb.UsbDebuggingActivity,userLeaving=false,finish,<*>]",1
+8159c34c,"[<*>,<*>,<*>,<*>/.usb.UsbDebuggingActivity,finish-idle,<*>]",1
+3c3434d3,"[<*>,<*>,<*>,<*><*>.<*>,app-request,<*>]",1
+9b54d242,"[<*>,<*>,<*><*>.<*>,userLeaving=false,finish,<*>]",1
+faba16b3,"[<*>,<*>,<*>,<*><*>.<*>,finish-idle,<*>]",1
+1d20d6f4,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,android,<*>,USB,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+0c00d8b5,"[-<*>|android|<*>|null|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",1
+788a6a24,"[<*>,<*>,<*>:webview_service,<*>,<*>]",1
+e96ab7ab,"[<*>,<*>,<*>,<*>,-<*>,-<*>,<*>,-<*>,-<*>]",1
+57726511,<*> - <*>,3
+ac88ea77,Interaction with: <*> <*> <*> <*>,1
+52e0269b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,^nc_1_mail_larissadasilvape-<*>,<*>,<*>,<*>,gig:<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",2
+f645f7bd,"[<*>|<*>|<*>|gig:<*>:^sq_ig_i_personal|<*>,<*>,<*>,<*>,<*>,<*>]",2
+45e8c741,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,bugreports,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+6a5c5c8b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::SUMMARY::<*>,<*>,<*>,<*>,<*>,<*>,<*>:COMMENTS,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+80b136c7,"[<*>|<*>|<*>|-<*>::SUMMARY::<*>|<*>,<*>,<*>,<*>,<*>,<*>]",2
+df108c61,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,HibernationJobService,<*>,<*>,<*>,<*>,<*>,permission reminders,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+0f218381,"[<*>|<*>|<*>|HibernationJobService|<*>,<*>,<*>,<*>,<*>,<*>]",2
+20867e65,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,android,<*>,USB,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+a3a814ee,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+ceba5eee,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,enable_verbose_vendor_logging,<*>,<*>]",1
+b2829a3a,"Interaction with: <*> <*><*>.<*> (server), <*> (server),",2
+b6c4da92,"[<*>,<*>,<*>,key_back_press,<*>,<*>]",2
+90659b03,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,62
+0ac70082,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,50
+d0a960e6,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,18
+878eded2,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,59
+863b4fe7,[<*>] <*> <*> <*> <*>,852
+9fa6f8cd,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,33
+cb139ded,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,59
+27f5fe5a,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,62
+6665ecc4,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,31
+6ac8c273,[<*>] <*> <*>,72
+73ee506e,[<*>] <*>,154
+690286f8,[<*>]> <*> [PHONE0],288
+fe64f80e,<*> <*> [PHONE0],127
+b578fe92,<*> serial <*>,120
+aa2c1930,[<*>]< <*> <*> <*> <*> <*>,60
+05d22d62,<*> <*> <*> <*> NetworkRegistrationInfo{ <*> <*> <*> roamingType=NOT_ROAMING <*> rejectCause=<*> <*> <*> <*> <*> <*> <*> <*> <*>,60
+b9cf724b,[<*>]< <*> <*> <*>,62
+23d866b7,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,92
+8720a4ae,No <*> <*> <*> <*> <*> <*> <*>,126
+8cbbf0c3,<*> <*> <*> <*> NetworkRegistrationInfo{ <*> <*> <*> roamingType=NOT_ROAMING <*> rejectCause=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,60
+bdffa2b1,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,32
+9ac65707,<*> <*> <*> <*> NetworkRegistrationInfo{ <*> <*> <*> roamingType=NOT_ROAMING <*> rejectCause=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,32
+20f11b7b,<*> on,28
+4aff6803,[<*>]stopNetStatPoll,53
+c6cdb8c0,[<*>] <*> <*> <*>,336
+c4fced4b,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,9
+7cfc3250,processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=-<*> level=<*>}],9
+8c2401fd,<*> <*> = <*> <*> <*> <*> <*>,26
+523510b3,"handleCountryDetected: countryIsoCode=br, mLatestNitzSignal=null",25
+d76d1e63,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,60
+c8c63fef,<*> =false,83
+bb1a3bf8,getSubInfoRecord <*>,96
+a2d27efa,[<*>]> <*> [PHONE1],86
+a0f016e4,processCellInfo: cell <*>,4
+60279f3d,handleCountryUnavailable: mLatestNitzSignal=null,4
+d2913185,"doTimeZoneDetection: countryIsoCode=null, nitzSignal=null, suggestion=TelephonyTimeZoneSuggestion{mSlotIndex=<*>, mZoneId='null', mMatchType=<*>, mQuality=<*>, mDebugInfo=[getTimeZoneSuggestion: nitzSignal=null, countryIsoCode=null, Detection reason=handleCountryUnavailable()]}, reason=handleCountryUnavailable()",4
+42c93e6a,<*> <*> <*> <*> <*> <*> in <*> <*>,2
+4006d610,[getActiveSubscriptionInfoForSimSlotIndex]+ slotIndex=<*> <*> iccId=<*>[****] simSlotIndex=<*> carrierId=<*> displayName=H2O carrierName=Somente chamadas de emerg├¬ncia nameSource=<*> iconTint=-<*> number=[****] dataRoaming=<*> iconBitmap=<*>@<*> mcc=<*> mnc=<*> countryIso=us isEmbedded=false nativeAccessRules=null cardString=<*>[****] cardId=<*> isOpportunistic=false groupUUID=null isGroupDisabled=false profileClass=-<*> ehplmns=null hplmns=null subscriptionType=<*> groupOwner=null carrierConfigAccessRules=null <*>,16
+6043eac4,[getActiveSubscriptionInfoForSimSlotIndex]+ slotIndex=<*> <*>,11
+083d608d,<*> <*> - <*>,11
+ffc6bf69,received <*> <*>,30
+5f5012f3,onNetworkStateChanged,57
+feebce68,handleMessage: Event: <*>,41
+a9bc3bed,[<*>]DcPhoneStateListener: oem msgId=<*> secondId=<*>,42
+555f8ed5,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,75
+43269f53,[<*>] <*> <*> : <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+bc359466,"<*> <*> <*> mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), <*> duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), <*> mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, <*> isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=PS <*> <*> roamingType=NOT_ROAMING <*> rejectCause=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+75ab0ab2,ServiceState.getRadioTechnology() DEPRECATED will be removed *******,22
+38cfc0c1,"isImsCapabilityAvailable, capability=<*>, regTech=<*>, isAvailable=false",14
+3f2052b9,<*> subId=<*> <*>,10
+fd55c1b6,getImsRegistrationTechnology =-<*>,15
+b906d56f,[<*>]shouldRestrictDataForEcbm: isInEcm=false isInImsEcm=false,21
+843cf44e,"<*> country:br emergencyNumbers: *<*>,<*>,<*>",92
+f99c806c,<*> <*> invalid,51
+3b97bf6c,<*> <*> <*> iccId=<*>[****] simSlotIndex=<*> carrierId=<*> displayName=H2O carrierName=Somente chamadas de emerg├¬ncia nameSource=<*> iconTint=-<*> number=[****] dataRoaming=<*> iconBitmap=<*>@<*> mcc=<*> mnc=<*> countryIso=us isEmbedded=false nativeAccessRules=null cardString=<*>[****] cardId=<*> isOpportunistic=false groupUUID=null isGroupDisabled=false profileClass=-<*> ehplmns=null hplmns=null subscriptionType=<*> groupOwner=null carrierConfigAccessRules=null <*> <*>,13
+cfce3372,<*> for <*> <*> <*>,16
+ca24db9b,getUiccProvisionStatus,12
+8783c800,<*> <*> <*> <*> <*> <*> <*> [PHONE0],26
+cf19175b,[<*>]< <*> <*> <*> <*>,40
+ea6793c0,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,26
+e5b978cd,<*> request <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,14
+2b6fc7ea,"<*> NetworkRequest [ <*> id=<*>, [ <*> <*> <*> <*> RequestorUid: <*> RequestorPkg: <*> UnderlyingNetworks: Null] ] <*> <*>",2
+87978fb1,<*> <*> <*> <*> <*> <*> <*>) <*> <*>,10
+15500565,<*> <*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+1968c35d,[<*>]hasMatchedTetherApnSetting: APNs=[],3
+c8b28b98,<*> Callback <*>,1
+75330bd5,[getSubId]- <*>,1
+b39fb069,<*> <*> [PHONE1],50
+85c7bf12,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = <*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,17
+54cbf05c,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,17
+17b0d916,[<*>] <*> <*> <*> service <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,17
+4b36c912,[setDisplayName]+ displayName:H2O subId:<*> nameSource:<*>,2
+3625eef3,validateSubId subId: <*>,2
+29aac050,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>",2
+06a56451,[IccProvider] <*>,7
+3418244b,[IccProvider] <*> <*> <*>,14
+8f0a8614,[IccPbInterfaceManager] <*> <*>,7
+71a3e34e,[<*>]> <*> <*> <*>,144
+90cc96de,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,14
+ee4426ad,Loading <*> <*> <*>,7
+60d73a21,[IccPbInterfaceManager] <*> <*> <*> <*> <*> <*> <*> <*>,7
+05a83fe9,"<*> <*> <*> mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(IWLAN), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=PS transportType=WLAN registrationState=HOME roamingType=NOT_ROAMING accessNetworkTechnology=IWLAN rejectCause=<*> emergencyEnabled=false availableServices=[DATA] cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo : mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=<*> mSystemIsInPrl=<*> mDefaultRoamingIndicator=<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null} <*> <*> <*> <*> <*>",2
+fe21d9ec,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+9fd9bc27,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> <*> <*> <*> <*> mAdditionalPlmns={} mCsgInfo=null} <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+0dc6b1c1,[<*>]< <*> [PHONE1],65
+2557517d,[<*>]< <*> [PHONE0],65
+2037ce10,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*>,64
+23296685,[<*>]> SET_SIGNAL_STRENGTH_REPORTING_CRITERIA <*>,512
+ab5b94a0,[<*>]< <*> <*>,256
+21ce1584,[<*>]< SET_SIGNAL_STRENGTH_REPORTING_CRITERIA <*>,256
+67fdd4b7,[<*>]screen <*>,24
+8d6d118e,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,16
+4b7e73ca,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,64
+40392e66,"[UNSL]< <*> <*> EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>] [PHONE0]",16
+a44c7e06,<*> <*> <*>: <*> <*> <*> <*> <*> <*> <*> <*>,23
+cb539044,"<*> <*> <*> EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>]",32
+b5cadb57,"[UNSL]< <*> <*> EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>] <*>",16
+516a8048,<*> Dump <*>,2
+046a4381,[SIMRecords<*>] getUseSimCFInSharedPref: status=<*>,8
+f0fa4e59,getCallForwardingIndicator: <*> <*>,8
+bc6abcea,<*> <*> <*> <*> info <*> <*>,8
+04b5e0d1,<*> <*> <*> <*> types,8
+48fbdbd2,<*> <*> <*> -<*>,9
+26c99172,getStaticPhoneCapability: mStaticCapability mMaxActiveVoiceSubscriptions=<*> mMaxActiveDataSubscriptions=<*> mNetworkValidationBeforeSwitchSupported=false mDeviceNrCapability [],1
+9744a213,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+b0303c2d,processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=-<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+9fcbd689,[<*>] <*> <*> <*> <*> <*> <*> <*>,3
+b40cfe0f,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,12
+20fecd28,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> <*> <*> <*> <*> mAdditionalPlmns={} mCsgInfo=null} <*> <*> <*> <*> <*> <*>,1
+e3c09e7f,<*> <*> <*> <*> NetworkRegistrationInfo{ <*> <*> <*> roamingType=NOT_ROAMING <*> rejectCause=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,11
+9a5778c9,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,10
+96a86365,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,13
+89a21a15,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+7bda3fb1,[<*>] <*> <*> : <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,8
+ee63a0c6,"<*> <*> <*> mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), <*> duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), <*> mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, <*> isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=PS transportType=WLAN <*> roamingType=NOT_ROAMING accessNetworkTechnology=IWLAN rejectCause=<*> emergencyEnabled=false <*> cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ <*> transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING <*> rejectCause=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",8
+175feead,[<*>]cleanUpConnectionsOnUpdatedApns: detach=false,1
+df53946e,<*> all data <*>,1
+5a152e17,"[<*>]setupDataOnAllConnectableApns: nwTypeChanged mcx:[state=IDLE,enabled=false] xcap:[state=IDLE,enabled=false] hipri:[state=IDLE,enabled=false] fota:[state=IDLE,enabled=false] ims:[state=IDLE,enabled=false] cbs:[state=IDLE,enabled=false] ia:[state=IDLE,enabled=false] emergency:[state=IDLE,enabled=false] mms:[state=IDLE,enabled=false] supl:[state=IDLE,enabled=false] dun:[state=IDLE,enabled=false] default:[state=IDLE,enabled=true] enterprise:[state=IDLE,enabled=false]",1
+a374227d,[<*>]isConnectable() call trySetupData,1
+0539d90e,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+fd48ad91,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+c3676242,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+390dc93e,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,9
+e57a8a44,[<*>]< <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+a6f12cea,processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> mAdditionalPlmns={} mCsgInfo=null} <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+0eb0a0cd,<*> <*> a s <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,11
+335c9824,Starting <*> <*>,1
+04c539da,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = <*> <*> <*> <*> <*> <*> <*>,1
+2e97525f,Mobalt: start logging <*> <*>,2
+d5bf77d7,<*> <*> Scheduling <*> <*>,1
+a6269510,"<*> <*> <*> <*>, <*> <*> <*> <*> <*> <*>",2
+12a89b0c,<*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+8f09bd75,scheduleProvisioningForEligibleSims,1
+1b15d097,<*> <*> fd,84
+3a27b6a2,libdebuggerd_client: <*> dumping process <*>,171
+7e4668d1,<*> intercept for <*> <*> <*> <*> <*>,86
+3658e74f,launchResult=<*> willAnimate=true isOnKeyguard=false,1
+3c5687b7,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*>",1
+c7b0dcd3,<*> null,4
+f3896a78,file: <*>.android.shell<*>.<*><*><*><*><*><*><*><*><*>.zip,2
+bc070ba2,screenshots: [<*>.android.shell<*>.png],2
+78e2cc15,progress: <*>,2
+51948fcd,<*> <*> de <*> <*>,2
+8571af04,<*> false <*> <*>,2
+54162f99,shareDescription:,2
+fc4d0061,shareTitle: <*> no <*> no <*>,1
+3e1ea273,handleMessage(): <*> <*>,1
+9dddd96c,"<*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*>",1
+0ecf0c3c,shareTitle:,1
+92b86099,Not <*> <*> file <*> <*> <*> <*> <*> <*> <*>,1
+9ed5d25a,Name didn't <*> <*>,1
+43513f9f,share intent: <*>,2
+608a10b0,share intent: <*> <*> <*> <*> <*>,1
+7c7d6aff,Removing <*> <*>,1
+678dba30,<*> <*> <*> <*> <*> is <*>,2
+e64f6abd,stopProgress(<*>): cancel notification,2
+ffdd6062,<*> <*> <*> valid <*> <*>,1
+90c4ae58,<*> <*> <*> <*> <*> <*> <*> <*> flags=<*> <*> <*> <*> <*>,1
+4af05694,"<*> <*> <*> <*>, <*>",3
+fcc8c924,OpenGL ES Shader Compiler Version: <*>,3
+9a26843b,<*> <*> :,12
+a4d7bcb0,<*> <*> : <*> <*> <*> <*>,3
+d6077f06,"PFP: <*>, ME: <*>",3
+226db90c,<*> not <*> <*> <*> <*> <*> <*> <*> <*>,1
+3f2db1d4,Remote <*> <*>,1
+2cf81200,<*> started,1
+7e2b3bf7,----- <*> <*> at <*> <*> <*>,1
+3df03c33,Cmd line: <*>:sandboxed_process0:<*>:<*>,1
+3164558f,Build <*> <*>,2
+b811e786,ABI: 'arm64',1
+e59c940c,<*> all <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+6751e088,DALVIK THREADS (<*>):,1
+18acc534,<*> prio=<*> <*> <*>,13
+b4c2a00f,| <*> <*> <*> <*> <*> <*>,12
+edba700a,| <*> <*> <*> <*> <*>,13
+6530a772,| <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,24
+71cfbbbd,| <*> <*>,23
+6389a285,native: #<*> pc <*> <*> <*> <*> <*>,118
+3591df59,<*> daemon prio=<*> tid=<*> Waiting,3
+39340a35,- <*> on <*> <*> <*>,3
+bed0fc45,- <*> <*> <*> <*>,2
+3906770c,- <*> <*> <*> <*>),1
+01ad8f88,native: #<*> pc <*> <*> <*> <*> <*> <*> <*>,110
+f370d7a5,(no managed stack frames),6
+b8882298,"""Signal Catcher"" daemon prio=<*> tid=<*> Runnable",1
+f1b8f330,native: #<*> pc <*> <*> <*> <*> <*> <*>,1
+f0cfbb20,<*> prio=<*> <*> <*> <*> <*> <*>,1
+109c1818,native: #<*> pc <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+353ba4df,<*> daemon prio=<*> tid=<*> <*>,1
+5088260c,native: #<*> pc <*> <*>/~~Y_SZxNbkLa5ptzufJzn7xA==<*>.<*>==<*>.apk (offset <*>) <*> (BuildId: <*>),1
+32b0f3ec,<*> prio=<*> (not attached),5
+b96c68a1,| <*> <*> <*>,12
+1e0c1f8f,Zygote <*> <*> <*> <*> <*>,1
+b232868d,<*> registered <*> <*>,1
+50193b35,<*> <*>: <*> <*> <*>,3
+f1609a9f,Done <*> <*> <*>,1
+2d0e3748,Intern table: <*> strong; <*> weak,1
+b3befa38,Libraries: <*>/~~Y_SZxNbkLa5ptzufJzn7xA==<*>.<*>==<*>.apk!<*>.so libandroid.so libaudioeffect_jni.so libcompiler_rt.so libframework-connectivity-jni.so libicu_jni.so libjavacore.so libjavacrypto.so libjnigraphics.so libmedia_jni.so libopenjdk.so libqti_performance.so librs_jni.so librtp_jni.so libsoundpool.so libstats_jni.so libwebviewchromium_loader.so (<*>),1
+574dbe0f,"Heap: <*>% free, 2179KB<*>; <*> objects",1
+5cbf9186,Image spaces:,1
+5117eb7a,<*>.android.art<*>.art,2
+499a4b55,Dumping <*> <*> <*>,1
+0e1cfb80,<*> Sum: <*> Avg: <*>,34
+abf19608,Process <*> <*> <*> <*> <*> <*> <*> <*>,1
+fc216649,Done <*> <*>,2
+e645e610,concurrent copying <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+c43d6da7,<*> <*> <*> Avg: <*> <*> <*> <*> <*>,1
+5c239f52,Freed-bytes histogram: <*>:<*>,1
+39bd0993,concurrent copying <*> time: <*> <*> time: <*>,1
+d9ec547c,concurrent copying <*> <*> <*> with <*> <*> <*>,1
+b715a841,concurrent copying <*> <*><*> <*> <*> <*> <*> <*> <*> <*>,1
+93230dd4,concurrent copying <*> <*> <*> <*> <*> <*>,1
+0bc9a7ef,Average <*> GC <*> <*> <*> <*> <*> <*> <*> <*>,2
+45fb6c12,<*> <*> <*> <*> <*> <*> <*> <*> over <*> <*> <*>,2
+4b86e46a,<*> bytes <*> <*>,2
+f511a25c,Cumulative <*> moved <*>,2
+7a2d4c6f,<*> <*> allocated <*> <*> <*> <*> <*>,2
+5a637c81,Mean GC size throughput: <*> per cpu-time: <*>,1
+612d615f,<*> <*> object <*> <*> <*>,1
+4a6a3cbe,<*> <*> of <*> <*>,1
+4cc53149,Free memory <*>,1
+5f799216,<*> <*> <*> GC <*>,1
+cec29a17,<*> memory <*> <*> <*>,1
+a8b00189,Total <*> <*>,1
+0e0e64ad,<*> memory <*>,1
+f11734e6,Zygote <*> size <*>,1
+d3959b5b,Total <*> <*> <*> <*>,4
+c38c4ca0,<*> <*> <*> for <*> <*> <*> <*>,11
+e28a0bff,<*> <*> <*> GC <*> <*> <*> <*> <*>,1
+fb39728c,<*> bytes <*> <*> <*> <*>,1
+52decd37,Total <*> <*> <*> <*> <*> <*>,1
+50f21a6c,<*>/~~vlAbA3WBt3uT4Suu00tX9g==<*>.<*>==<*>.odex: speed-profile,1
+e76c3112,<*>.<*>: verify,3
+f418cd23,Current JIT <*> <*> size <*> <*> <*> <*> <*> <*>,1
+16295935,Current JIT data <*> size <*> <*> <*> <*> <*> <*>,1
+cddda99e,<*> <*> <*> <*> <*> <*> <*> of <*> <*> <*> <*>,2
+9bb1fa20,Current JIT <*> <*> <*>,1
+fae19aeb,Current JIT <*> <*>,1
+21846943,<*> <*> of <*> <*> <*> <*> <*>,3
+608e566f,<*> <*> of <*> <*> <*> <*>,2
+d8ed57a9,<*> <*> for <*> <*> <*> <*>,3
+b1519a40,<*> <*> <*> <*> Avg: <*>,1
+97863912,*** <*> <*> <*> <*>,1
+08593ad6,Metadata:,1
+2f75579b,timestamp_since_start_ms: <*>,1
+c65f7ec5,Metrics:,1
+d0d9c08a,<*> <*> = <*> <*> <*>,8
+54170558,*** <*> dumping <*> <*> <*> <*>,1
+8bdb867d,----- <*> <*> <*>,1
+3ab7c7c3,<*> to <*> <*> <*> to <*>,1
+9f007b93,Animation <*>,1
+b01eb819,<*> <*> <*> <*> <*> <*> = <*> <*>,3
+f4644d79,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> (has <*> <*> <*> <*>,1
+50f616d6,Using <*> <*>,5
+ac399a2a,Not <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+25464250,onStartedActivityChange: componnent: <*> entered launcher screen? true,6
+c189020c,<*> <*> <*> <*> in <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+510d1db0,<*> <*> received,2
+b2bc53da,"handleSortedAppTargets, sortedAppTargets #<*>: <*>",4
+2e5a14c3,<*> <*> <*> <*> from <*>,2
+cdf93c6c,List built querying services,2
+8171cbce,<*> <*> <*> <*> <*> <*> ComponentInfo{<*><*>.<*>},3
+c11961eb,Add <*> <*> <*> <*> <*> <*>,1
+21eb9874,<*> <*> <*> <*> <*> not <*>,3
+f6c9c8a1,<*> <*> <*> by <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,10
+224ebf5f,SHORTCUT_MANAGER_SHARE_TARGET_RESULT,2
+9b906b25,<*> <*> <*> by <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,5
+ee1912ca,LIST_VIEW_UPDATE_MESSAGE;,3
+41672843,"unbindRemainingServices, <*> left",2
+dee77330,<*> for <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+17ced70d,<*> <*> call,1
+4b5a1ac5,Returning <*> <*> <*> <*>,1
+c1e49ca7,<*> <*> <*> <*> <*> ms,1
+a2269055,<*> to <*> <*> <*> <*> <*> <*> <*> <*>,4
+d6e32616,wfdhdcphalservice starting...,1
+576cf078,<*> <*> to <*> <*> of <*> <*> <*> <*> <*> <*> <*>,1
+da27bcaa,libminijail[<*>]: allowing syscall: <*>,5
+e69a43a6,libminijail[<*>]: <*> <*> <*> <*>,1
+80899edd,<*> to <*> <*> <*> <*>,2
+647888a2,START u0 {act=<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+9e611233,<*> is <*> <*> <*> <*> to <*> <*> <*>,3
+8d9affb6,<*> <*> <*> by <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,4
+bc4ebbf6,"GoogleInputMethodService.onStartInput():<*> <*> inputType=<*>, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=<*>, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-<*>, initialSelEnd=-<*>, initialCapsMode=<*>, label=null, <*> fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)",3
+916b9b35,<*> <*> <*> <*> <*> <*> <*> <*> was <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+9ea58461,<*> enabled,2
+86e02029,Scheduling <*> <*> <*> <*> <*>,2
+b1f2f8dd,<*> for <*> <*>,2
+00c4f184,<*> <*> <*> = <*> <*> <*> <*>,1
+b02fec73,Registering <*> <*>,1
+7fe1a1d6,<*> for <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+e15adcaa,Constraints <*> <*> <*> <*> <*> <*>,2
+df9f056e,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",6
+16d3716b,<*> <*> <*> generation=<*>),2
+a354afe0,[<*>] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+c2a4eb34,"showSoftInput() <*> VFED..CL. <*> <*>,<*><*>,<*> #<*> <*> aid=<*>} flags=<*> reason=SHOW_SOFT_INPUT",1
+a986439d,"GoogleInputMethodService.onStartInput():<*> <*> inputType=<*>, <*> <*> <*> <*> imeOptions=<*>, privateImeOptions=null, <*> actionLabel=null, <*> <*> initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, <*> hintLocales=[]}}, false)",1
+7754ddf1,"<*> <*> inputType=<*>, <*> <*> <*> <*> imeOptions=<*>, privateImeOptions=null, <*> actionLabel=null, <*> <*> initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, <*> hintLocales=[]}}, false)",1
+9325bdc9,"<*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*>",3
+c21f726c,AndroidSpellCheckerService.initialize():<*> <*>,2
+10c7c73f,<*> onContentChanged(),2
+b88f420f,<*> <*> <*> <*>:<*> <*> <*> <*> <*>,1
+9f2ab1b0,"<*> <*> <*> <*> <*>, <*> <*> <*>",1
+f4d9c267,"<*> <*> <*> <*> <*>, <*> <*>",1
+98dbc153,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> by <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+a97d6757,Extending system_exposed_libraries: <*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>,4
+f9fcbd1f,<*> on <*> <*>,2
+5feae827,"<*> <*> <*>, <*> <*>",6
+51c054bc,Exception <*> <*> class,1
+b83b5958,<*> <*> <*> <*> <*> <*> <*> <*> file <*> <*> <*>,1
+7ef7152f,[<*><*>.<*>:ERROR:cronet_context.cc(<*>)] Invalid QUIC hint host: <*>,6
+ba5faf75,AbstractContentDataManager.startImportContentTask():<*> startImportContentTask(),1
+7938bcea,AbstractContentDataManager$ImportContentTask.doInBackground():<*> doInBackground(),1
+ef6426b1,<*> <*> <*> <*> <*> <*> = <*>,6
+d63b2b1a,<*> <*> : <*> <*> <*>,1
+959b7d15,<*> <*> : <*> <*> <*> <*> <*> <*>,1
+57a520ca,<*> <*> : <*> <*> <*> <*> <*>,1
+5b8505da,<*> <*> : <*> = <*> <*> <*> <*> <*>,1
+c1512046,Start <*> <*>,2
+b68265a7,<*> incident report,1
+bcaf81c4,Start incident report section <*> <*> <*>,6
+9f6494ca,<*> <*> status <*>,136
+c2d797a0,<*> Reading VINTF information.,4
+9e9fa8a5,<*> Successfully processed VINTF information,4
+8caa2954,*** command 'lshal <*> <*> <*> <*> <*> <*>,1
+5c2849e3,<*> <*> not <*> <*> <*> <*> <*> <*>,300
+02365f03,*** command 'lshal debug -E <*> failed: exit code <*>,300
+66e51a7c,Invalid <*> <*>,1
+aa4824c5,"<*> Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED <*> LinkDnBandwidth>=44877Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: <*>:<*>:<*>:<*>:<*>:<*>, MAC: <*>:<*>:<*>:<*>:<*>:<*>, IP: <*>.<*>, Security type: <*>, Supplicant state: COMPLETED, Wi-Fi standard: <*>, RSSI: -<*>, Link speed: <*> Tx Link speed: <*> Max Supported Tx Link speed: 866Mbps, Rx Link speed: <*> Max Supported Rx Link speed: 866Mbps, Frequency: 5220MHz, Net ID: -<*>, Metered hint: false, score: <*>, isUsable: true, CarrierMerged: false, SubscriptionId: -<*>, IsPrimary: -<*>, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>> SignalStrength: -<*> UnderlyingNetworks: Null]",2
+056cde5f,<*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*>,5
+3db2dc9d,<*> state is: <*>,1
+5b57f07b,<*> incident report section <*> <*> <*>,6
+20758ace,Observed non-standard <*>.whatsapp<*> <*>,2
+f712a080,isAppCloneUserPair failed. <*> <*> and <*>,2
+fbc26a66,<*> for <*> <*>: false,2
+ba146807,(REDACTED) <*> <*> <*> <*> <*> <*> <*>,3
+1645151e,(REDACTED) <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+f5346818,Error <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+e434a11b,<*>: <*> <*> <*> <*> <*> <*> <*>,3
+86db3b06,<*> <*> <*> <*> <*> read <*> <*>,1
+82593b48,Start incident report section <*> <*> <*> <*> <*>,8
+a505f06d,[logcat -b <*> -L] <*> <*> with <*> <*> <*>,6
+7ea73406,warning in section <*> (-<*>) <*> <*> <*> <*>,7
+c0566238,<*> incident report section <*> <*> <*> <*> <*>,8
+e6f1a649,[logcat -b radio -L] <*> <*> with <*> <*> <*>,1
+de996875,Start incident report section <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+e116620e,>>>>>> START <*> uid <*> <<<<<<,1
+673d05bb,Using <*> <*> <*>,1
+fc081952,Leaving <*> <*> <*>,1
+4cd8cfbd,<*> <*> <*> check <*> <*> <*> <*> <*> <*> <*>,2
+fa1c522d,<*> <*> <*> <*> <*> <*> for <*> <*> <*> to <*> <*> <*> <*> <*> <*> <*>,1
+1c1db568,<*> <*> <*> <*> <*> <*> <*> file <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+45846342,<*> <*> on <*> <*> <*> <*>,1
+c62b1932,InitDefaultPublicLibraries for_preload=<*>: libandroid.so:libaaudio.so:libamidi.so:libbinder_ndk.so:libc.so:libcamera2ndk.so:libdl.so:libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libicu.so:libicui18n.so:libicuuc.so:libjnigraphics.so:liblog.so:libmediandk.so:libm.so:libnativehelper.so:libnativewindow.so:libOpenMAXAL.so:libOpenSLES.so:libRS.so:libstdc++.so:libsync.so:libvulkan.so:libwebviewchromium_plat_support.so:libz.so,1
+1b8a7204,<*> <*> <*> <*> file <*> <*>,1
+52c37fa2,<*> <*> <*> file <*> <*>,1
+cef2b781,<*> <*> check <*> <*> <*> <*> <*>,1
+592b68ff,<*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,3
+cc9a7df3,Calling <*> <*> <*>,1
+0050844e,"Args: [-l,run,persisted_logs,--limit,10MB]",1
+d49384f1,<*> <*> <*> <*> not <*>,2
+8a389e3c,Shutting down VM,1
+49476e1b,Error <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+0b42dd61,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> to <*>,1
+6875db83,"GoogleInputMethodService.onStartInput():<*> <*> inputType=<*>, <*> <*> <*> <*> imeOptions=<*>, privateImeOptions=null, <*> actionLabel=null, <*> <*> initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)",2
+a899bb66,"<*> <*> inputType=<*>, <*> <*> <*> <*> imeOptions=<*>, privateImeOptions=null, <*> actionLabel=null, <*> <*> initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)",2
+06c9f638,<*> <*> <*> <*> is <*> for <*> <*> <*> <*> <*>,1
+6b5fa67f,<*> <*> <*> <*> <*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+3a1eed13,<*> for <*> <*> <*> <*> <*>,12
+4c11b681,AudioManager <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,281
+461a1b9b,AudioManager Player: AudioPlaybackConfiguration piid:<*> deviceId:<*> type:<*> u<*>:<*><*> state:idle attr:AudioAttributes: <*> content=CONTENT_TYPE_SONIFICATION flags=<*> tags= bundle=null sessionId:<*>,1
+ccbbc688,AudioManager <*> <*> <*> <*> <*>,25
+bd632858,AudioManager <*> <*> <*>,23
+5e02d606,"NuPlayerDriver(<*>) created, clientPid(<*>)",1
+0d44c858,<*> remote,1
+0faa96b3,AudioManager Player: AudioPlaybackConfiguration piid:<*> deviceId:<*> type:<*> u<*>:<*><*> <*> attr:AudioAttributes: <*> content=CONTENT_TYPE_SONIFICATION flags=<*> tags= bundle=null sessionId:<*>,3
+2a36889a,start,1
+4d5363dd,<*> false <*> <*> <*> <*> <*> <*> <*>,2
+551a8d73,"<*> <*> <*> {state=<*>, position=-<*>, buffered position=<*>, speed=<*>.<*>, updated=<*>, actions=<*>, custom actions=[], active item id=-<*>, <*> <*> <*>",2
+ee8be0fa,<*> no <*>,10
+de24e83b,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> active <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+f64a494f,<*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+939a17e2,getHeadsetService(): returning <*>@<*>,2
+13fac04a,<*> <*> <*> of <*> connected <*> <*>,20
+6ebab85b,"<*> <*> <*> {state=<*>, position=-<*>, buffered position=<*>, speed=<*>.<*>, updated=<*>, actions=<*>, custom actions=[], active item id=-<*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",10
+b8ffa4e2,Exit <*>,12
+caf871e1,Enter sendPlayPosNotificationRsp,10
+7ec5d713,<*> of <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+cd0cebda,"<*> <*> <*>, <*> <*> <*> <*> <*>",1
+7459b476,adev_get_parameters:is_hw_dec_session_available,1
+d6318aea,<*> input <*>,1
+d64a3f8f,<*> input <*> <*> <*> <*> <*>,1
+761fae72,<*> returns,1
+c743cef7,<*> <*> <*> -,1
+4fcae177,(<*>) <*> <*>,1
+27280df6,allocate(<*>),1
+39fdafea,<*> up <*> as <*> <*> <*>,1
+75ddfa25,read media type: audio<*>,1
+9a0a8102,<*> failed <*> <*> <*> <*> <*>,2
+cbb184dd,},5
+82e38a46,(<*>) <*> <*> (<*>),1
+58d1bf95,(<*>) <*> <*> <*> <*>,1
+7cf2922b,<*>: <*> <*> <*>,1
+d1f9c7b4,flushMediametrics,2
+d59595fc,<*> failed <*> <*>,1
+e8987f5a,<*> -- <*> <*> <*> = <*>,4
+4472a112,"<*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+599574ba,<*> <*> is <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+74b02619,(<*>) <*>,4
+bb038a82,<*> <*> <*> <*> <*> with <*> <*> <*> <*> <*> <*> <*> <*>,1
+dafadd4a,<*> <*> : <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,7
+f7d33fa2,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>% <*> <*> <*>, <*> <*>",3
+535c4d1a,<*> <*> <*> <*> <*> with <*> <*> <*> <*> <*> <*> <*>,1
+56086e09,[<*>#<*>] <*> <*> <*> <*> <*> <*> <*> <*>,1
+7de7be60,[<*>#<*>] <*> <*> <*> <*> <*>,1
+8ed6ab7e,<*> output <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+333d6ea5,Reconfiguring <*> <*> <*> <*> <*>,1
+be3561ef,<*> is <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+31d26e23,<*> <*> after <*> <*> <*> <*>,1
+6aea7894,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> } <*> <*> <*> <*> <*>,1
+98ee6277,<*> <*> <*> not <*>,1
+987271b1,<*> <*> { <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+ebd3ad32,"setVolume: mRelativePercentage:<*>.<*>, left:<*>.<*>, right:<*>.<*>",2
+f0c5924f,<*> <*> <*> <*> <*> <*> <*> to <*> <*> <*>,2
+c6ce14c0,EffectCreate() create_effect,2
+f6958fe4,Create Dolby Listener Effect.,1
+cbf19475,create <*> <*>,1
+9e0d90fb,<*> <*> effect <*> <*>,1
+690e3af5,effectGetDescriptor,2
+3fac6495,effectCommand,8
+799ae6f5,effectCommand <*> <*> <*>,5
+1145078d,"<*> output <*>, <*> <*>, <*> <*>",2
+9f32221d,<*> called with <*> <*> <*>,1
+8d9b1be6,start_output_stream: enter: <*> <*> <*> <*>,1
+c11dd2d6,"<*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",2
+4fc25645,"<*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+732fb33c,<*> <*> <*> <*> <*> <*> updated <*> <*> <*> <*> <*> <*> <*>,1
+7ddf4552,check_usecases_codec_backend:<*>: <*> <*> <*>,1
+22423cdd,check_usecases_codec_backend:<*>: <*> <*> <*> <*> <*> usecase <*> <*> <*> <*>,1
+db0a8628,<*> <*> <*> <*> to <*> <*>,1
+f2547cf8,<*> snd_device(<*>: <*>,4
+cd1aa785,<*> <*> status on <*> = <*> <*>),2
+ee9bb12b,"<*> device <*> <*> <*> <*> for <*> <*>, <*> <*>",4
+23a2e1cf,Apply path: <*>,3
+b827d9ef,<*> set <*> <*> <*> <*>,2
+8dbeeef0,"<*> <*> <*> <*> <*> <*> for <*> <*>, <*> <*>",4
+f4f6fcc1,audio_extn_utils_send_app_type_cfg: <*> vi-feedback,1
+e490a529,<*> <*> not <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+795251b9,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+f3a273c0,<*> -> <*>,33
+b75e4f4a,<*> -> <*> <*> <*> <*>,3
+f3a7d097,<*> fnn usecase <*> <*>,1
+1d119a54,<*> <*> <*> data <*>,1
+2a26dc8e,<*> -> <*> <*>,3
+8d3d419b,<*> -> <*> <*> <*>,2
+42fdcb57,<*> <*> <*> : <*> <*> <*> <*> <*> <*>,2
+92298850,<*> <*> <*> and <*> <*> <*>,1
+1cf39305,audio_extn_utils_send_app_type_cfg: <*> speaker,1
+57399c77,<*> <*> <*> and <*> <*> <*> <*>,1
+d24d4d6b,Apply path: <*> <*>,1
+ee23bdaa,<*> done,1
+f216a22d,<*> <*> <*> <*> is <*> <*>,2
+31e491bf,platform_set_channel_map mixer_ctl_name:Playback Channel Map9,1
+f4a6665c,<*> <*> <*> <*>.<*> <*> <*> <*> <*>,1
+e40c3de0,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*>) <*> <*>,1
+5f210b0a,start_output_stream: exit,1
+5978cfd9,Command EFFECT_CMD_SET_VOLUME,1
+7a5068dd,<*> <*> <*> <*> <*> of <*>,4
+5c987f28,<*> <*> <*> (<*>) <*> <*>,1
+35fefc4a,<*> <*> and <*> <*> path: <*> <*>,1
+1be937b8,audio_extn_utils_release_snd_device:snd_device =<*>,2
+a0dcf5b5,<*> <*> and <*> <*> path: <*>,1
+73a61143,release(handle=<*>),1
+b99df30d,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",8
+9385daf1,<*> incident report section <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+57c6c0f8,Start incident report section <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+16ed487a,DEBUG: elapsed <*> / <*>,1
+382555d3,Calling <*> <*> <*> <*> <*>,2
+f00ac380,<*> <*> screenshot,1
+6f991163,<*> <*> <*> as <*>,1
+42b192a2,<*> <*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+09f744a1,<*> <*> on <*>,2
+039bcc3e,"AddAnrTraceDir(): dump_traces_file=<*>.android.shell<*>, anr_traces_dir=<*>",1
+bab52e0d,*** command <*> <*> <*> <*> <*> <*> <*>,1
+a2a54199,<*> incident report section <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+65a725db,Start incident report section <*> <*> <*> <*> <*> <*> <*> <*>,1
+3dcb41b6,<*> <*> not <*> <*>,3
+4fa119bc,<*> <*> <*> <*> <*> in <*> <*> <*> <*>,2
+fd4c8705,<*> incident report section <*> <*> <*> <*> <*> <*> <*> <*>,1
+3de8fd5d,<*> <*> to <*> <*> <*>,3
+7c1f6c8a,<*> <*> <*> <*> <*> open <*> the <*>,1
+8513d7a7,Start <*> <*> <*> <*> <*> <*> <*> <*>,29
+d5c80189,Finish incident report section <*> 'dumpsys <*> --proto <*>,8
+ca10a21a,Start <*> <*> <*> <*> <*> <*> <*>,22
+228744aa,Finish incident report section <*> 'dumpsys <*> --proto',21
+140985f9,<*> incident report section <*> 'dumpsys <*> <*>,1
+d8383c80,<*> <*> <*> is <*> <*> <*> <*> device.,1
+70b4f527,<*> <*> state <*>,2
+c0a06957,notifyResetComplete(<*>),1
+a9ed7a91,resetDrmState: mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false,2
+5ff444e0,cleanDrmObj: mDrmObj=null mDrmSessionId=null,2
+b7949bf4,<*> <*> size <*> <*> <*> <*> | <*>,1
+53985a6c,InitLlndkLibrariesProduct: libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libRS.so:libandroid_net.so:libbinder_ndk.so:libc.so:libcgrouprc.so:<*>:<*>:<*>:libdl.so:libft2.so:liblog.so:libm.so:libmediandk.so:libnativewindow.so:libneuralnetworks.so:libselinux.so:libsync.so:libvndksupport.so:libvulkan.so,1
+498e3bf8,<*> <*> for <*> <*> <*> <*> <*> <*> <*> <*>,1
+c9f68ec8,InitVndkspLibrariesProduct: <*>:<*>:<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:libRSCpuRef.so:libRSDriver.so:libRS_internal.so:libbacktrace.so:libbase.so:libbcinfo.so:libblas.so:libc++.so:libcompiler_rt.so:libcutils.so:libdmabufheap.so:libgralloctypes.so:libhardware.so:libhidlbase.so:libhidlmemory.so:libion.so:libjsoncpp.so:liblzma.so:libprocessgroup.so:libunwindstack.so:libutils.so:libutilscallstack.so:libz.so,1
+2dd88094,<*> <*> to <*> <*> <*> <*> <*> <*>,1
+5a73daeb,<*> <*> after <*> <*>,1
+39e8f0ef,Get <*> <*> <*> <*> <*> <*> <*> <*>,4
+d3ecfeac,<*> <*> <*> <*> <*> <*> <*> null,4
+e79f506d,<*> <*> from <*> <*>,2
+114c4516,ACTION_TOGGLE_RECENTS latency=-<*>,1
+66d5a6e7,ACTION_START_RECENTS_ANIMATION latency=<*>,1
+afe42c29,Permission <*> <*> from <*> <*>,2
+64034fea,"flush:<*>, <*><*>",1
+4ec5d209,"send_sync_sensor_request:<*>, <*> sync <*>",1
+bc10d0f0,<*> <*> completed,1
+439f2900,"batch:<*>, <*><*>, period=<*>, max_latency=<*>",1
+4673b3be,<*> <*> is <*> to <*> <*> <*> <*> <*>,1
+1b65355e,"batch:<*>, <*><*>, period=<*>, max_latency=<*> <*> <*>",1
+021cb6f8,Finish incident report section <*> 'dumpsys <*> <*> <*>,1
+4efce86f,Finish incident report section <*> 'dumpsys dropbox --proto <*>,20
+bd3c1151,DumpsysSection: Can't lookup service: contexthub,1
+d86f8d79,<*> <*> <*> <*> <*> <*> <*> <*> <*> file <*> <*>,1
+10d9b042,<*> <*> <*> <*> <*> <*> <*> file <*> <*> <*> <*>,1
+5134a1d9,done,1
+54ed0858,Done <*> <*> <*> <*>,1
+e637e57c,WorkDirectory::getReports,1
+c3364c64,"handle_sns_client_event:<*>, mot_disprot_event: now=<*> ts=<*>, type=<*>, status=<*>",4
+e408264a,<*> <*> a <*> <*> <*>,1
+7a57c762,<*> work <*> <*>,1
+cb7dff2c,[LOWI-Scan] <*> <*> <*> <*> <*>,2
+ec736371,[LOWI-Scan] <*> <*> <*> <*> <*> <*> <*> <*>,3
+2f80ec45,<*> not <*> <*>,1
+c954bd47,<*> empty <*> <*> <*>,2
+57e12ccf,Monitor:ACTIVE:MON-MSM-CPU0:cpu0=<*>:BACK_TEMP=<*>,1
+29dbbd95,[LOWI-Scan],15
+89d2f234,[LOWI-Scan] <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,15
+d87939ae,[LOWI-Scan] <*> <*>,12
+c9f9a68e,[LOWI-Scan] <*> <*> <*>,15
+ef110bee,<*> <*> <*> event,2
+c9b9e4cc,"[LOWI-Scan] <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",4
+58c0087b,<*> <*> <*> <*> <*> <*> = <*> <*> <*> <*> <*> <*> <*> <*>,4
+00306c65,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>, <*> <*> <*> <*> <*> <*>, <*> <*>",1
+fa2f5010,<*> -- <*>,1
+81af34b8,"[LOWI-Scan] <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",8
+bf866d85,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>, <*> <*> <*> <*> <*> <*> <*>",4
+ba6c0bf8,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>, <*> <*> <*> <*> <*> <*>",9
+3532c24d,<*> <*> <*> <*> <*> <*> = <*> <*> <*> <*> <*> <*> <*>,11
+3f55994f,"[LOWI-Scan] <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",3
+d5895252,"<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+3bf8db0d,<*> <*> <*> <*> null <*>,1
+4ded2346,[LOWI-Scan] <*> <*> in <*> <*> <*> <*> <*> <*>,1
+fbfb7827,"[LOWI-Scan] <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*>",1
+7cd09550,[LOWIScanResultReceiver] <*> passive <*> <*>,1
+ef835aff,<*> <*> - <*> <*> <*>,1
+78efdddd,"[LOWIEventReceiver] handleEvent:FROM:NA, TO:NA, REQ:NA, IREQ:NA, REQ_ID:<*>, RESP:NA, INFO:NA",1
+19cb242f,<*> <*> <*> <*> or <*> <*> <*> <*>,1
+59fbe7f9,<*> <*> of <*> to <*> <*>,1
+51a304e8,<*> <*> <*> current <*> <*> <*>,1
+8153d42c,<*> <*> <*> a <*> <*> <*>,1
+0f3b9ccd,Starting <*> <*> <*> <*> <*> <*>,1
+e8b743ec,(REDACTED) <*> <*> to <*> <*> <*> <*> to <*> <*>,3
+57b9fc25,do_vibrate: <*> stream_to_socket: <*> progress_updates_to_socket: <*> do_screenshot: <*> is_remote_mode: <*> show_header_only: <*> telephony_only: <*> wifi_only: <*> do_progress_updates: <*> fd: <*> bugreport_mode: <*> <*> <*> <*> <*> <*> <*>,1
+c594a324,<*> <*> <*> <*> broadcast <*> <*> <*> <*> <*> <*> <*> <*>,1
+bd535796,Freezing log buffers,1
+2c1bb1be,mOrientation=<*>,1
+76e605e9,<*> <*> <*> <*> |,1
+b40fc66f,"<*> <*> <*> <*> <*> <*> <*> <*>, <*> <*>, <*> <*> <*>",1
+1f1acbef,<*> u0 <*> <*> has <*> <*> <*> <*> <*> <*>,1
+3fe5b2dd,<*> = <*> <*> = <*>,2
+6d65a98e,getCurrentUserContext: contextUser=<*> currentUser=<*>,3
+b175a98e,adev_set_parameters: enter: <*>,1
+b19b1cc4,<*> <*> with <*> <*> <*> <*>,1
+9256ea3f,"onMobileStateChanged,: MobileState:[airplaneModeEnabled: false; dataSubscriptionName: Somente chamadas de emerg├¬ncia; dataContentDescription: ; activityIn: false; activityOut: false; noSim: false; roaming: false; multipleSubs: false; isSimError: false]",1
+28e57ddf,*** command <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+1feefe3e,Adding dir <*> (recursive: <*>),1
+3d836e58,command <*> generated error <*>,85
+09fb302a,<*> <*> fd <*> <*> <*> <*>,19
+6ad0da31,<*> <*> of process <*> <*> <*> <*> <*>,19
+80998482,<*> <*> <*> <*> or <*>,1
+27e27b01,<*> <*> : <*> = <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+c378b05f,<*> <*> <*> <*> <*> <*> in <*>,6
+a1df1f93,<*> <*> <*> <*> <*> <*> <*> <*> <*> <*> : <*> = <*> <*>,6
+f05c4cc6,"<*> <*> [], <*> <*> <*> <*> <*> <*>",2
+5e09b5b0,<*> <*> keyboard <*> <*>,2
+99bddbb7,<*> <*> loading input method <*> <*> <*> <*>,1
+853589cb,<*> <*> <*> <*> <*> <*> <*> false,1
+389460d4,"GoogleInputMethodService.onStartInput():<*> onStartInput(EditorInfo{EditorInfo{packageName=<*>, inputType=<*>, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=<*>, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-<*>, initialSelEnd=-<*>, initialCapsMode=<*>, label=null, fieldId=<*>, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, <*>",1
+8cd52a76,<*> <*> to <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+dfc86618,<*> <*> <*> to: <*>,2
+e21a6372,<*> <*> <*> height <*> <*> <*>,2
+47b5fea8,<*> <*> load <*> <*> <*> <*>,1
+89697dad,<*> Set <*> <*> <*> <*> <*> <*>,1
+9dbfd002,Syncing <*> <*> <*> <*> <*> <*> <*> <*>,1
+dc46427f,DictionarySuperpacksManager$<*>.onEnabledInputMethodEntriesChanged():<*> onEnabledInputMethodEntriesChanged,1
+277acc53,"<*> <*> <*> <*> variant=qwerty, hasLocalizedResources=true, <*> imeDef.stringId=ime_portuguese_brazil, imeDef.className=<*>, imeDef.languageTag=pt-BR}",1
+21a14e11,<*> <*> from <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+f7e1a775,"Syncing <*> <*> <*> <*> <*> <*>, <*> <*> <*>",1
+7d32a3f7,<*> to <*> <*> for <*> <*> <*> <*> <*> <*>,2
+0bc3c14f,<*> <*> <*> <*> <*> to <*> file,1
+be12a11a,<*> for service <*> on <*>,1
+34fb687e,"<*> <*> <*> <*> not <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>, <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>",1
+32d5adfc,Disconnecting <*> and <*> state,1
+72bba0c1,Disconnecting <*> <*> <*> <*>,1
+77ca9982,Disconnecting <*>,1
+da12b15a,<*> service <*>,1
+079fd8b4,onDestroy,1
+575172c9,tearDown(),3
+49962fb3,<*> <*> <*> <*> <*> <*> <*> <*> <*>),1
+a7642cb0,<*> <*> destroyed,1
+163648d8,VoiceInputManagerWrapper.shutdownVoiceInternal():<*> shutdownVoiceInternal(),1
+785e8022,<*> for service <*> on <*> <*> <*> <*> <*>,1
+63f16f8e,<*> on <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,1
+d18d1ead,*** command <*> <*> <*> <*> <*> failed: <*> <*> <*>,1

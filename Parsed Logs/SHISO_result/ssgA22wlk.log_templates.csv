@@ -1,0 +1,24 @@
+EventId,EventTemplate,Occurrences
+3389dae3,*,2003
+d5968584,*telephony-radio* (partial),1026
+4e4b905a,*telephony-radio*,3
+7a690d26,* (partial),959
+cd025981,time_detector,1
+73f00906,prevent full-screen wakelock in EnqueueNotificationRunnable (partial),59
+64633af2,prevent full-screen wakelock in EnqueueNotificationRunnable,59
+0ce40bc5,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> UsageStatisticsImpl::logMessageSentOrReceivedInSiloExecution -> log_message_sent_or_received -> WorkQueueImpl#queueWorkItemAndReturnFuture -> log_message_sent_or_received (partial),2
+c1f7db37,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> UsageStatisticsImpl::logMessageSentOrReceivedInSiloExecution -> log_message_sent_or_received -> WorkQueueImpl#queueWorkItemAndReturnFuture -> log_message_sent_or_received,2
+b6bb5041,AOD_DRAW (draw),2
+fb0b8541,DozeScreenState (draw),2
+fc6cb739,Window:NotificationShade (draw),4
+0d42326f,Window:EdgeLightingWindow (draw),6
+645012a1,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification (partial),2
+502f4d86,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ExecuteActionRunnable#runImpl -> BackgroundWorkerRunnable#runImpl -> RequestSmartSuggestionsAction -> ExecuteActionRunnable#runImpl -> ReceiveP2pSuggestionsAction -> ReceiveP2pSuggestionsAction.executeActionAsync -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification (partial),2
+88259a4f,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification,2
+259e1931,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ExecuteActionRunnable#runImpl -> BackgroundWorkerRunnable#runImpl -> RequestSmartSuggestionsAction -> ExecuteActionRunnable#runImpl -> ReceiveP2pSuggestionsAction -> ReceiveP2pSuggestionsAction.executeActionAsync -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification,2
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),5
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,5
+67af68c3,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork() (partial),4
+385a3e89,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork(),4
+d7956295,"WindowManager (screen-bright,on-after-release)",4
+929e4cf5,DreamManagerService (doze),1

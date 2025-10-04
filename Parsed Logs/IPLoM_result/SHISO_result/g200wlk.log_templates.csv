@@ -1,0 +1,38 @@
+EventId,EventTemplate,Occurrences
+a94347ac,MotoDisplayWakeLock,94
+f380d814,MotoDisplayWakeLock (partial),93
+7a690d26,* (partial),1426
+8b5c835e,*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain,3
+3389dae3,*,375
+3389dae3,*,468
+04cd0834,Doze,1
+7a690d26,* (partial),255
+3389dae3,*,48
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),12
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,11
+d5968584,*telephony-radio* (partial),165
+fc8c8dd6,*alarm* (partial),5
+e3adca82,com.android.server.stats.StatsCompanionService$PullingAlarmListener (partial),2
+5cf44adf,*location* (partial),10
+4e4b905a,*telephony-radio*,474
+14e9711f,*alarm*,30
+3389dae3,*,387
+42710fe9,*gms_scheduler*:internal,14
+929e4cf5,DreamManagerService (doze),1
+ed1da152,*gms_scheduler*:internal (partial),11
+861d1305,IntentOp:.u.e.InstallationIntentOperation (partial),3
+242f171c,IntentOp:c.g.a.g/.c.PersistentIntentOperationService (partial),2
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,32
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),31
+7fcb5214,IntentOp:c.g.a.g/.c.GmsIntentOperationService,10
+3389dae3,*,2
+929e4cf5,DreamManagerService (doze),3
+ca94f536,show keyguard,2
+d7956295,"WindowManager (screen-bright,on-after-release)",1
+4ca381e5,show keyguard (partial),2
+3389dae3,*,65
+0aca88b2,RILJ_ACK_WL,2
+3389dae3,*,5
+4fd4578c,GOOGLE_C2DM,1
+67af68c3,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork() (partial),4
+385a3e89,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork(),4

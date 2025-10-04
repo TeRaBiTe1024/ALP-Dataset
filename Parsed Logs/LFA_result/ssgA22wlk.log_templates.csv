@@ -1,0 +1,81 @@
+EventId,EventTemplate,Occurrences
+96c9f283,NetworkStats,109
+9dcabd27,*telephony-radio* <*>,1026
+3b257378,*telephony-radio*,1026
+1bbb8efa,<*> (partial),959
+e053ade6,prevent full-screen wakelock in EnqueueNotificationRunnable <*>,59
+cb425459,time_detector,25
+e594f5e2,NetworkTimeUpdateService,1
+2c3c1795,NlpWakeLock,64
+e2b93ec1,GCM_WORK,55
+e3c5f70c,SyncLoopWakeLock,25
+ece5e176,prevent full-screen wakelock in EnqueueNotificationRunnable,59
+5f9b6d18,RILJ_ACK_WL,187
+54373163,GCM_READ,55
+f19e2ca1,GCM_CONN_ALARM,1
+fb934ef1,GOOGLE_C2DM,35
+65afd62f,androidx.core:wake:com.instagram.android/com.instagram.notifications.push.fcm.FcmListenerService,1
+0f8562f6,*alarm*,42
+0bd9ca5b,NitzSignalInputFilterPredicateFactory,48
+d10889ff,com.android.server.stats.StatsCompanionService$PullingAlarmListener,13
+4bc83936,GCM_HB_ALARM,9
+bbc2e9c9,*gms_scheduler*:internal,11
+c9f7f006,*telephony-sem-radio*,123
+5152d133,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+78a27c86,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+cd23728f,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService,16
+0f5ade84,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+81ee9922,Icing,4
+fd166b35,bugle_datamodel_executor_wakelock,4
+9fa8f864,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+835058e7,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+a94c42a8,<*> (draw),14
+60768b53,AOD_DRAW,2
+74b61f0d,Doze,8
+b4f7a2ae,Window:EdgeLightingWindow,6
+26fdd11c,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>,2
+205f0cd9,Window:NotificationShade,4
+5f9f1872,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation,7
+31cb8ce9,DozeScreenState,2
+b1b4e3b1,*vibrator*,6
+d0fdad3e,GsmInboundSmsHandler,2
+e9d511c0,EdgeLighting:edge,2
+5637a93b,AOD_EnsureWorkingTime,3
+2fbad66e,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*>,4
+e1f04206,<*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*>,4
+19325c94,motion_service,4
+5ecccea2,PhoneWindowManager.mPowerKeyWakeLock,3
+1b29865d,Wakeful StateMachine: GeofencerStateMachine <*>,5
+09c1a9dc,Wakeful StateMachine: GeofencerStateMachine,5
+509a9688,DreamManagerService,3
+e2433f99,*job*/c.g.a.a.m/.s.d.a.e.ActionJobService,6
+6cbc7547,UlrDispSvcFastWL,4
+60c6ecd1,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService,1
+145b8d87,*gms_scheduler*/c.g.a.g/.s.PlatformStatsCollectorService,1
+a135255b,*gms_scheduler*/c.g.a.g/.t.s.s.TrustedTimeMaintenanceTaskService,1
+88a4e65a,*gms_scheduler*/c.g.a.g/.c.s.NotificationLoggingTask,1
+b582b7d5,GnpBroadcastReceiver,8
+4618ef29,*job*/c.s.a.d/c.s.a.w.s.s.AppUpdateService,2
+6e50fa42,*job*/c.s.a.s/a.w.i.b.s.SystemJobService,8
+21ac5823,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob,2
+c2f38f42,*job*/c.s.a.n/a.w.i.b.s.SystemJobService,4
+89897317,NlpCollectorWakeLock,6
+fc17e584,*job*/c.s.a.d/c.s.a.w.l.LoggerService,2
+1ce0384a,*job*/c.s.a.d/.s.FreeStatusCheckService,2
+4677481b,*launch*,21
+01a62ebd,*job*/c.o.a.s/a.w.i.b.s.SystemJobService,2
+b088eee8,wake:com.google.firebase.iid.WakeLockHolder,2
+6b652127,fiid-sync,1
+83438790,GCoreFlp,5
+81f93427,AudioMix,2
+79e76a0a,WindowManager <*>,4
+7a35664d,WindowManager,4
+f4435560,*job*/c.s.a.a.r/.d.m.i.MetadataLoaderJobService,2
+731fb8ef,*job*/c.g.a.p.m.m/c.a.p.m.MediaService,2
+84e635a0,ActivityManager-Sleep,1
+c805c3a9,DreamManagerService <*>,1
+0e3b04f3,startDream,1
+f8ce84ad,Scrims,1
+44785059,*job*/c.a.c/c.w/WhatsApp:android,6
+d524e8b3,*job*/c.w/.AlarmService,2
+646b4b83,*sync*/com.android.contacts/com.whatsapp/WhatsApp,1

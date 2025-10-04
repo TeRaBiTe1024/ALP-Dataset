@@ -1,0 +1,80 @@
+EventId,EventTemplate,Occurrences
+bd108789,NetworkStats,109
+01add6cf,<*> (partial),1985
+4e4b905a,*telephony-radio*,1026
+73f00906,prevent full-screen wakelock in EnqueueNotificationRunnable (partial),59
+cd025981,time_detector,25
+3f65bc0d,NetworkTimeUpdateService,1
+03b55498,NlpWakeLock,64
+b44ae528,GCM_WORK,55
+f3598e67,SyncLoopWakeLock,25
+64633af2,prevent full-screen wakelock in EnqueueNotificationRunnable,59
+0aca88b2,RILJ_ACK_WL,187
+3e9981ae,GCM_READ,55
+c9f3220c,GCM_CONN_ALARM,1
+4fd4578c,GOOGLE_C2DM,35
+a6fb40ef,androidx.core:wake:com.instagram.android/com.instagram.notifications.push.fcm.FcmListenerService,1
+14e9711f,*alarm*,42
+271722f9,NitzSignalInputFilterPredicateFactory,48
+967d95fb,com.android.server.stats.StatsCompanionService$PullingAlarmListener,13
+f7464522,GCM_HB_ALARM,9
+42710fe9,*gms_scheduler*:internal,11
+7082e793,*telephony-sem-radio*,123
+0ce40bc5,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> UsageStatisticsImpl::logMessageSentOrReceivedInSiloExecution -> log_message_sent_or_received -> WorkQueueImpl#queueWorkItemAndReturnFuture -> log_message_sent_or_received (partial),2
+c1f7db37,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> UsageStatisticsImpl::logMessageSentOrReceivedInSiloExecution -> log_message_sent_or_received -> WorkQueueImpl#queueWorkItemAndReturnFuture -> log_message_sent_or_received,2
+16501530,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService,16
+645012a1,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification (partial),2
+69535586,Icing,4
+8862b859,bugle_datamodel_executor_wakelock,4
+502f4d86,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ExecuteActionRunnable#runImpl -> BackgroundWorkerRunnable#runImpl -> RequestSmartSuggestionsAction -> ExecuteActionRunnable#runImpl -> ReceiveP2pSuggestionsAction -> ReceiveP2pSuggestionsAction.executeActionAsync -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification (partial),2
+88259a4f,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ReceiveSmsMessageHelper.insertMessageInBugleDb -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification,2
+7d241497,<*> (draw),14
+a08d2855,AOD_DRAW,2
+04cd0834,Doze,8
+0f7e6e64,Window:EdgeLightingWindow,6
+259e1931,SmsDeliverReceiver Receive broadcast -> ReceiverDoInBackground -> SmsDeliverReceiver.doInBackground -> SmsDeliverProcessordeliver#receiveSms -> SmsDeliverProcessor#deliverReceiveSms#transform -> ExecuteActionRunnable#runImpl -> BackgroundWorkerRunnable#runImpl -> RequestSmartSuggestionsAction -> ExecuteActionRunnable#runImpl -> ReceiveP2pSuggestionsAction -> ReceiveP2pSuggestionsAction.executeActionAsync -> create_notification -> WorkQueueImpl#queueWorkItemAndReturnFuture -> create_notification,2
+2fe8f58b,Window:NotificationShade,4
+3165aaef,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation,7
+587eb709,DozeScreenState,2
+8398adf0,*vibrator*,6
+0ccdab93,GsmInboundSmsHandler,2
+aafb1c53,EdgeLighting:edge,2
+2948d09b,AOD_EnsureWorkingTime,3
+67af68c3,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork() (partial),4
+385a3e89,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork(),4
+c3bcc738,motion_service,4
+f083762a,PhoneWindowManager.mPowerKeyWakeLock,3
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),5
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,5
+f14e19a1,DreamManagerService,3
+a4dd8aab,*job*/c.g.a.a.m/.s.d.a.e.ActionJobService,6
+6215e638,UlrDispSvcFastWL,4
+1c1cb425,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService,1
+2fb1ae4e,*gms_scheduler*/c.g.a.g/.s.PlatformStatsCollectorService,1
+c0fbb9a4,*gms_scheduler*/c.g.a.g/.t.s.s.TrustedTimeMaintenanceTaskService,1
+b4d2dc8b,*gms_scheduler*/c.g.a.g/.c.s.NotificationLoggingTask,1
+4c0ceb4c,GnpBroadcastReceiver,8
+efeb9a25,*job*/c.s.a.d/c.s.a.w.s.s.AppUpdateService,2
+9e1e4ea0,*job*/c.s.a.s/a.w.i.b.s.SystemJobService,8
+a0420945,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob,2
+e0b30614,*job*/c.s.a.n/a.w.i.b.s.SystemJobService,4
+acf0b878,NlpCollectorWakeLock,6
+5f615136,*job*/c.s.a.d/c.s.a.w.l.LoggerService,2
+2dffbd74,*job*/c.s.a.d/.s.FreeStatusCheckService,2
+10feb835,*launch*,21
+697b89ab,*job*/c.o.a.s/a.w.i.b.s.SystemJobService,2
+4f0a434a,wake:com.google.firebase.iid.WakeLockHolder,2
+1483ed2f,fiid-sync,1
+e06004e6,GCoreFlp,5
+5f42c2b8,AudioMix,2
+d7956295,"WindowManager (screen-bright,on-after-release)",4
+69d9b836,WindowManager,4
+a49fa1c6,*job*/c.s.a.a.r/.d.m.i.MetadataLoaderJobService,2
+b332967b,*job*/c.g.a.p.m.m/c.a.p.m.MediaService,2
+8a211458,ActivityManager-Sleep,1
+929e4cf5,DreamManagerService (doze),1
+bc76bc23,startDream,1
+8cce89f2,Scrims,1
+52b68e14,*job*/c.a.c/c.w/WhatsApp:android,6
+948d1a23,*job*/c.w/.AlarmService,2
+3a2feb8d,*sync*/com.android.contacts/com.whatsapp/WhatsApp,1

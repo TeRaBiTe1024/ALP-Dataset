@@ -1,0 +1,251 @@
+EventId,EventTemplate,Occurrences
+E0,"('*telephony-radio*', '(partial)')",274
+E1,"('RILJ_ACK_WL', '(partial)')",5
+E2,"('Scrims', '(partial)')",5
+E3,"('IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation', '(partial)')",21
+E4,"('UlrDispSvcFastWL', '(partial)')",16
+E5,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#0', '(partial)')",12
+E6,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#10', '(partial)')",12
+E7,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#13', '(partial)')",8
+E8,"('com.google.android.deskclock:AlarmAsyncTask', '(partial)')",3
+E9,"('fiid-sync', '(partial)')",3
+E10,"('deviceidle_going_idle', '(partial)')",3
+E11,"('NlpWakeLock', '(partial)')",49
+E12,"('GCM_CONN_ALARM', '(partial)')",18
+E13,"('*job*/c.g.a.a.w.o/.ProvisioningDataService#6', '(partial)')",4
+E14,"('IntentOp:.u.e.InstallationIntentOperation', '(partial)')",4
+E15,"('*job*/c.g.a.a.p/c.g.a.l.s.a.BackgroundTaskJobService#1043', '(partial)')",4
+E16,"('*job*/c.g.a.d/a.w.i.b.s.SystemJobService#15', '(partial)')",4
+E17,"('*job*/c.g.a.g/.j.GoogleMailWidgetAndShortcutSwitchJob$GoogleMailWidgetAndShortcutSwitchJobService#2000018', '(partial)')",4
+E18,"('*job*/c.g.a.g/c.a.e.j.BootCompletedJob$BootCompletedJobService#2000021', '(partial)')",4
+E19,"('ChimeBroadcastReceiver', '(partial)')",4
+E20,"('*job*/c.g.a.g/a.w.i.b.s.SystemJobService#555000004', '(partial)')",4
+E21,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-369', '(partial)')",4
+E22,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-237', '(partial)')",4
+E23,"('*job*/c.g.a.g/a.w.i.b.s.SystemJobService#14', '(partial)')",4
+E24,"('*job*/c.g.a.h/.HardwareInfoService#0', '(partial)')",4
+E25,"('*job*/c.g.a.a.m/.s.d.a.e.ActionJobService#124', '(partial)')",4
+E26,"('*job*/c.g.a.p/.PhenotypeJobService#1', '(partial)')",4
+E27,"('*job*/c.g.a.v/a.w.i.b.s.SystemJobService#9', '(partial)')",4
+E28,"('*job*/c.g.o.t/.SendNIService#1984', '(partial)')",4
+E29,"('*job*/c.g.p.l/.u.RestoreStateJobIntentService#1000', '(partial)')",4
+E30,"('*job*/c.g.a.p/.PhenotypeJobService#2', '(partial)')",4
+E31,"('*job*/c.g.a.a.t/.n.SoftwareDropService#20001', '(partial)')",4
+E32,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9131', '(partial)')",4
+E33,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9136', '(partial)')",4
+E34,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-49', '(partial)')",4
+E35,"('*job*/c.g.a.p.g/c.g.a.a.a.c.a.f.LauncherIconStateVerificationService#234835806', '(partial)')",4
+E36,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9140', '(partial)')",4
+E37,"('*job*/c.g.a.c/.PhenotypeCommitterService#10', '(partial)')",4
+E38,"('*job*/a/c.a.s.a.c.ContactsIndexerMaintenanceService#16942831', '(partial)')",4
+E39,"('*job*/a/c.a.s.s.DiskStatsLoggingService#1145656139', '(partial)')",4
+E40,"('*job*/a/c.a.s.p.DynamicCodeLoggingService#203142925', '(partial)')",4
+E41,"('*job*/a/c.a.s.PruneInstantAppsJobService#765123', '(partial)')",4
+E42,"('*job*/a/c.a.s.p.DynamicCodeLoggingService#2030028', '(partial)')",4
+E43,"('*job*/a/c.a.s.d.BrightnessIdleJob#3923512', '(partial)')",4
+E44,"('*job*/a/c.a.s.n.w.ReportWatchlistJobService#882313', '(partial)')",4
+E45,"('*job*/c.g.a.n/c.a.n.i.RegularMaintenanceJobService#3345678', '(partial)')",4
+E46,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#5', '(partial)')",4
+E47,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#6', '(partial)')",4
+E48,"('*job*/c.g.a.p.m.m/c.a.p.m.IdleService#-200', '(partial)')",4
+E49,"('*job*/c.g.a.p.m.m/c.a.p.m.s.j.StableUriIdleMaintenanceService#-500', '(partial)')",4
+E50,"('*job*/c.g.a.a/c.g.a.a.m.a.e.s.EchoJobService#315933870', '(partial)')",4
+E51,"('*job*/c.g.a.a/c.g.a.a.m.a.e.s.EchoJobService#405939170', '(partial)')",4
+E52,"('*job*/c.g.a.a/c.g.a.a.m.a.s.p.c.PixelSearchCronJobService#360265855', '(partial)')",4
+E53,"('*job*/a/c.a.s.BinaryTransparencyService$UpdateMeasurementsJobService#168242978', '(partial)')",4
+E54,"('*job*/a/c.a.s.p.BackgroundDexOptJobService#801', '(partial)')",4
+E55,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9087', '(partial)')",4
+E56,"('*job*/a/c.a.s.b.BlobStoreIdleJobService#191934935', '(partial)')",4
+E57,"('*job*/c.g.a.c/.CheckinService#9', '(partial)')",4
+E58,"('*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService#1011', '(partial)')",4
+E59,"('*job*/a/c.a.s.c.InactiveAssociationsRemovalService#92464686', '(partial)')",4
+E60,"('*job*/c.g.a.i.l/c.g.a.l.i.t.JobSchedulerImpl$TaskRunnerJobService#1534697245', '(partial)')",4
+E61,"('*job*/c.g.a.i.l/c.g.a.l.i.t.JobSchedulerImpl$TaskRunnerJobService#-1481937176', '(partial)')",4
+E62,"('*job*/a/c.a.s.p.d.DataMaintenanceService#204561367', '(partial)')",4
+E63,"('*job*/a/c.a.s.p.BackgroundDexOptJobService#800', '(partial)')",4
+E64,"('*job*/c.a.p.d/.DownloadIdleService#-100', '(partial)')",4
+E65,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9143', '(partial)')",4
+E66,"('*job*/c.g.a.a.n.f/.m.MediaStoreContentChangeListenerService#7100', '(partial)')",4
+E67,"('*job*/c.g.a.a.p/c.g.a.l.s.m.MediaMonitorJobSchedulerService#1034', '(partial)')",4
+E68,"('*job*/c.g.a.p/.InstalledAppJobService#4096', '(partial)')",4
+E69,"('CMWakeLock', '(partial)')",10
+E70,"('*gms_scheduler*/c.g.a.g/.p.g.PayGcmTaskService', '(partial)')",10
+E71,"('NetworkStats', '(partial)')",8
+E72,"('*job*/c.g.e/.s.StartOtaService#3', '(partial)')",8
+E73,"('*job*/c.g.a.c/c.g.a.a.c.s.ShortcutJobService#7', '(partial)')",8
+E74,"('*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob#106', '(partial)')",8
+E75,"('*job*/c.g.a.s.i/.m.s.i.b.IndexingJobService#14', '(partial)')",8
+E76,"('*gms_scheduler*:internal', '(partial)')",64
+E77,"('bugle_datamodel_executor_wakelock', '(partial)')",9
+E78,"('Icing', '(partial)')",23
+E79,"('*alarm*', '(partial)')",65
+E80,"('Doze', '(partial)')",9
+E81,"('Doze:KeyguardIndication', '(partial)')",61
+E82,"('*job*/c.g.a.a.p/.d.i.DatabaseProcessorJobService#1033', '(partial)')",28
+E83,"('nearby:ENWearableDeviceManager', '(partial)')",11
+E84,"('*job*/c.g.a.a.w/a.w.i.b.s.SystemJobService#9', '(partial)')",2
+E85,"('*job*/c.g.a.a.w/a.w.i.b.s.SystemJobService#10', '(partial)')",2
+E86,"('*job*/c.g.a.d/c.a.d.i.IndexingJobService#4369', '(partial)')",2
+E87,"('*job*/c.g.a.f/.s.AllowedAppListCleaningJobService#5000', '(partial)')",2
+E88,"('cpm_tasks', '(partial)')",2
+E89,"('IntentOp:.a.f.FrpUpdateIntentOperation', '(partial)')",2
+E90,"('IntentOp:.c.c.InitConfigOperation', '(partial)')",2
+E91,"('messaging_service_start_wakelock', '(partial)')",2
+E92,"('messaging_service_work_wakelock', '(partial)')",2
+E93,"('IntentOp:.r.n.RefreshNotificationsIntentOperation', '(partial)')",2
+E94,"('IntentOp:.r.n.ScheduleTimeRemindersIntentOperation', '(partial)')",2
+E95,"('*gms_scheduler*/c.g.a.g/.t.g.TapAndPayGcmTaskService', '(partial)')",2
+E96,"('*job*/a/c.a.s.ZramWriteback#811', '(partial)')",2
+E97,"('deviceidle_maint', '(partial)')",2
+E98,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-87', '(partial)')",2
+E99,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9074', '(partial)')",2
+E100,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9145', '(partial)')",2
+E101,"('RingtonePlayer', '(partial)')",2
+E102,"('*job*/c.g.a.p.m.m/c.a.p.m.MediaService#-300', '(partial)')",2
+E103,"('ChimeExecutorApi::com.google.android.calendar', '(partial)')",1
+E104,"('dream:dream', '(partial)')",1
+E105,"('com.android.server.stats.StatsManagerService', '(partial)')",1
+E106,"('AnyMotionDetector', '(partial)')",1
+E107,"('shannonims:unsolicited', '(partial)')",1
+E108,"('*gms_scheduler*/c.g.a.g/c.g.a.c.s.ContextManagerLogsUploadBoundService', '(partial)')",1
+E109,"('*gms_scheduler*/c.g.a.g/.c.GmsInternalBoundBrokerService', '(partial)')",1
+E110,"('wake:CollectionChimeraSvc', '(partial)')",6
+E111,"('Checkin', 'Service')",2
+E112,"('SysUI:BroadcastSender', '(partial)')",230
+E113,"('*job*/a/c.a.s.n.NotificationHistoryJobService#237039804', '(partial)')",14
+E114,"('*dexopt*', '(partial)')",454
+E115,"('dream:doze', '(doze)')",1
+E116,"('*location*:GnssLocationProvider', '(partial)')",36
+E117,"('GCoreFlp', '(partial)')",36
+E118,"('AudioMix', '(partial)')",146
+E119,"('*vibrator*', '(partial)')",26
+E120,"('*launch*', '(partial)')",21
+E121,"('*telephony-radio*',)",275
+E122,"('IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation',)",23
+E123,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#0',)",13
+E124,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#10',)",13
+E125,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#13',)",9
+E126,"('NlpWakeLock',)",50
+E127,"('RILJ_ACK_WL',)",5
+E128,"('Scrims',)",5
+E129,"('UlrDispSvcFastWL',)",16
+E130,"('com.google.android.deskclock:AlarmAsyncTask',)",3
+E131,"('fiid-sync',)",3
+E132,"('deviceidle_going_idle',)",3
+E133,"('GCM_CONN_ALARM',)",18
+E134,"('*job*/c.g.a.a.w.o/.ProvisioningDataService#6',)",4
+E135,"('IntentOp:.u.e.InstallationIntentOperation',)",4
+E136,"('*job*/c.g.a.a.p/c.g.a.l.s.a.BackgroundTaskJobService#1043',)",4
+E137,"('*job*/c.g.a.d/a.w.i.b.s.SystemJobService#15',)",4
+E138,"('*job*/c.g.a.g/.j.GoogleMailWidgetAndShortcutSwitchJob$GoogleMailWidgetAndShortcutSwitchJobService#2000018',)",4
+E139,"('*job*/c.g.a.g/c.a.e.j.BootCompletedJob$BootCompletedJobService#2000021',)",4
+E140,"('*job*/c.g.a.g/a.w.i.b.s.SystemJobService#555000004',)",4
+E141,"('ChimeBroadcastReceiver',)",4
+E142,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-369',)",4
+E143,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-237',)",4
+E144,"('*job*/c.g.a.g/a.w.i.b.s.SystemJobService#14',)",4
+E145,"('*job*/c.g.a.h/.HardwareInfoService#0',)",4
+E146,"('*job*/c.g.a.a.m/.s.d.a.e.ActionJobService#124',)",4
+E147,"('*job*/c.g.a.p/.PhenotypeJobService#1',)",4
+E148,"('*job*/c.g.a.v/a.w.i.b.s.SystemJobService#9',)",4
+E149,"('*job*/c.g.o.t/.SendNIService#1984',)",4
+E150,"('*job*/c.g.p.l/.u.RestoreStateJobIntentService#1000',)",4
+E151,"('*job*/c.g.a.p/.PhenotypeJobService#2',)",4
+E152,"('*job*/c.g.a.a.t/.n.SoftwareDropService#20001',)",4
+E153,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9131',)",4
+E154,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9136',)",4
+E155,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-49',)",4
+E156,"('*job*/c.g.a.p.g/c.g.a.a.a.c.a.f.LauncherIconStateVerificationService#234835806',)",4
+E157,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9140',)",4
+E158,"('*job*/c.g.a.c/.PhenotypeCommitterService#10',)",4
+E159,"('*job*/a/c.a.s.a.c.ContactsIndexerMaintenanceService#16942831',)",4
+E160,"('*job*/a/c.a.s.s.DiskStatsLoggingService#1145656139',)",4
+E161,"('*job*/a/c.a.s.p.DynamicCodeLoggingService#203142925',)",4
+E162,"('*job*/a/c.a.s.PruneInstantAppsJobService#765123',)",4
+E163,"('*job*/a/c.a.s.p.DynamicCodeLoggingService#2030028',)",4
+E164,"('*job*/a/c.a.s.d.BrightnessIdleJob#3923512',)",4
+E165,"('*job*/a/c.a.s.n.w.ReportWatchlistJobService#882313',)",4
+E166,"('*job*/c.g.a.n/c.a.n.i.RegularMaintenanceJobService#3345678',)",4
+E167,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#5',)",4
+E168,"('*job*/c.g.a.a/a.w.i.b.s.SystemJobService#6',)",4
+E169,"('*job*/c.g.a.p.m.m/c.a.p.m.IdleService#-200',)",4
+E170,"('*job*/c.g.a.p.m.m/c.a.p.m.s.j.StableUriIdleMaintenanceService#-500',)",4
+E171,"('*job*/c.g.a.a/c.g.a.a.m.a.e.s.EchoJobService#315933870',)",4
+E172,"('*job*/c.g.a.a/c.g.a.a.m.a.e.s.EchoJobService#405939170',)",4
+E173,"('*job*/c.g.a.a/c.g.a.a.m.a.s.p.c.PixelSearchCronJobService#360265855',)",4
+E174,"('*job*/a/c.a.s.BinaryTransparencyService$UpdateMeasurementsJobService#168242978',)",4
+E175,"('*job*/a/c.a.s.p.BackgroundDexOptJobService#801',)",4
+E176,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9087',)",4
+E177,"('*job*/a/c.a.s.b.BlobStoreIdleJobService#191934935',)",4
+E178,"('*job*/c.g.a.c/.CheckinService#9',)",4
+E179,"('*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService#1011',)",4
+E180,"('*job*/a/c.a.s.c.InactiveAssociationsRemovalService#92464686',)",4
+E181,"('*job*/c.g.a.i.l/c.g.a.l.i.t.JobSchedulerImpl$TaskRunnerJobService#1534697245',)",4
+E182,"('*job*/c.g.a.i.l/c.g.a.l.i.t.JobSchedulerImpl$TaskRunnerJobService#-1481937176',)",4
+E183,"('*job*/a/c.a.s.p.d.DataMaintenanceService#204561367',)",4
+E184,"('*job*/a/c.a.s.p.BackgroundDexOptJobService#800',)",4
+E185,"('*job*/c.a.p.d/.DownloadIdleService#-100',)",4
+E186,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9143',)",4
+E187,"('*job*/c.g.a.a.n.f/.m.MediaStoreContentChangeListenerService#7100',)",4
+E188,"('*job*/c.g.a.a.p/c.g.a.l.s.m.MediaMonitorJobSchedulerService#1034',)",4
+E189,"('*job*/c.g.a.p/.InstalledAppJobService#4096',)",4
+E190,"('WindowManager/displayId:0',)",4
+E191,"('CMWakeLock',)",10
+E192,"('*gms_scheduler*/c.g.a.g/.p.g.PayGcmTaskService',)",10
+E193,"('NetworkStats',)",8
+E194,"('*job*/c.g.e/.s.StartOtaService#3',)",8
+E195,"('*job*/c.g.a.c/c.g.a.a.c.s.ShortcutJobService#7',)",8
+E196,"('*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob#106',)",8
+E197,"('*job*/c.g.a.s.i/.m.s.i.b.IndexingJobService#14',)",8
+E198,"('*alarm*',)",66
+E199,"('*gms_scheduler*:internal',)",64
+E200,"('bugle_datamodel_executor_wakelock',)",10
+E201,"('Icing',)",23
+E202,"('Doze',)",9
+E203,"('*job*/c.g.a.a.p/.d.i.DatabaseProcessorJobService#1033',)",28
+E204,"('nearby:ENWearableDeviceManager',)",11
+E205,"('Doze:KeyguardIndication',)",61
+E206,"('*job*/c.g.a.a.w/a.w.i.b.s.SystemJobService#9',)",2
+E207,"('*job*/c.g.a.a.w/a.w.i.b.s.SystemJobService#10',)",2
+E208,"('*job*/c.g.a.d/c.a.d.i.IndexingJobService#4369',)",2
+E209,"('*job*/c.g.a.f/.s.AllowedAppListCleaningJobService#5000',)",2
+E210,"('cpm_tasks',)",2
+E211,"('IntentOp:.a.f.FrpUpdateIntentOperation',)",2
+E212,"('messaging_service_start_wakelock',)",2
+E213,"('messaging_service_work_wakelock',)",2
+E214,"('IntentOp:.r.n.RefreshNotificationsIntentOperation',)",2
+E215,"('IntentOp:.r.n.ScheduleTimeRemindersIntentOperation',)",2
+E216,"('IntentOp:.c.c.InitConfigOperation',)",2
+E217,"('*gms_scheduler*/c.g.a.g/.t.g.TapAndPayGcmTaskService',)",2
+E218,"('*job*/a/c.a.s.ZramWriteback#811',)",2
+E219,"('deviceidle_maint',)",2
+E220,"('*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService#-87',)",2
+E221,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9074',)",2
+E222,"('*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain#9145',)",2
+E223,"('RingtonePlayer',)",2
+E224,"('*job*/c.g.a.p.m.m/c.a.p.m.MediaService#-300',)",2
+E225,"('ChimeExecutorApi::com.google.android.calendar',)",1
+E226,"('dream:dream',)",1
+E227,"('com.android.server.stats.StatsManagerService',)",1
+E228,"('AnyMotionDetector',)",1
+E229,"('shannonims:unsolicited',)",1
+E230,"('*gms_scheduler*/c.g.a.g/.c.GmsInternalBoundBrokerService',)",1
+E231,"('*gms_scheduler*/c.g.a.g/c.g.a.c.s.ContextManagerLogsUploadBoundService',)",1
+E232,"('wake:CollectionChimeraSvc',)",6
+E233,"('SysUI:BroadcastSender',)",230
+E234,"('*job*/a/c.a.s.n.NotificationHistoryJobService#237039804',)",14
+E235,"('*dexopt*',)",454
+E236,"('dream:doze',)",2
+E237,"('*location*:GnssLocationProvider',)",36
+E238,"('GCoreFlp',)",36
+E239,"('AudioMix',)",145
+E240,"('*vibrator*',)",26
+E241,"('*launch*',)",21
+E242,"('Wakeful', 'StateMachine:', 'GeofencerStateMachine', '(partial)')",8
+E243,"('wake:com.google.android.gms/.auth.account.be.accountstate.LoginAccountsChangedIntentService', '-', '<*>', '(partial)')",2
+E244,"('wake:com.google.android.gms/.chimera.GmsIntentOperationService', '-', '<*>', '(partial)')",2
+E245,"('Wakeful', 'StateMachine:', 'GeofencerStateMachine')",8
+E246,"('wake:com.google.android.gms/.auth.account.be.accountstate.LoginAccountsChangedIntentService', '-', '<*>')",2
+E247,"('Checkin', 'Service', '(partial)')",2
+E248,"('wake:com.google.android.gms/.chimera.GmsIntentOperationService', '-', '<*>')",2
+E249,"('WindowManager/displayId:0', '(screen-bright,', 'on-after-release)')",4

@@ -1,0 +1,139 @@
+EventId,EventTemplate,Occurrences
+E0,"('NetworkStats',)",109
+E1,"('*telephony-radio*',)",1026
+E2,"('time_detector',)",25
+E3,"('SyncLoopWakeLock',)",25
+E4,"('NetworkTimeUpdateService',)",1
+E5,"('GCM_CONN_ALARM',)",1
+E6,"('androidx.core:wake:com.instagram.android/com.instagram.notifications.push.fcm.FcmListenerService',)",1
+E7,"('*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService',)",1
+E8,"('*gms_scheduler*/c.g.a.g/.s.PlatformStatsCollectorService',)",1
+E9,"('*gms_scheduler*/c.g.a.g/.t.s.s.TrustedTimeMaintenanceTaskService',)",1
+E10,"('*gms_scheduler*/c.g.a.g/.c.s.NotificationLoggingTask',)",1
+E11,"('fiid-sync',)",1
+E12,"('ActivityManager-Sleep',)",1
+E13,"('startDream',)",1
+E14,"('Scrims',)",1
+E15,"('*sync*/com.android.contacts/com.whatsapp/WhatsApp',)",1
+E16,"('NlpWakeLock',)",64
+E17,"('GCM_WORK',)",55
+E18,"('GCM_READ',)",55
+E19,"('RILJ_ACK_WL',)",187
+E20,"('GOOGLE_C2DM',)",35
+E21,"('*alarm*',)",42
+E22,"('NitzSignalInputFilterPredicateFactory',)",48
+E23,"('com.android.server.stats.StatsCompanionService$PullingAlarmListener',)",13
+E24,"('GCM_HB_ALARM',)",9
+E25,"('*gms_scheduler*:internal',)",11
+E26,"('*telephony-sem-radio*',)",123
+E27,"('*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService',)",16
+E28,"('Icing',)",4
+E29,"('bugle_datamodel_executor_wakelock',)",4
+E30,"('Window:NotificationShade',)",4
+E31,"('motion_service',)",4
+E32,"('UlrDispSvcFastWL',)",4
+E33,"('*job*/c.s.a.n/a.w.i.b.s.SystemJobService',)",4
+E34,"('WindowManager',)",4
+E35,"('AOD_DRAW',)",2
+E36,"('DozeScreenState',)",2
+E37,"('GsmInboundSmsHandler',)",2
+E38,"('EdgeLighting:edge',)",2
+E39,"('DreamManagerService',)",3
+E40,"('*job*/c.s.a.d/c.s.a.w.s.s.AppUpdateService',)",2
+E41,"('*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob',)",2
+E42,"('*job*/c.s.a.d/c.s.a.w.l.LoggerService',)",2
+E43,"('*job*/c.s.a.d/.s.FreeStatusCheckService',)",2
+E44,"('*job*/c.o.a.s/a.w.i.b.s.SystemJobService',)",2
+E45,"('wake:com.google.firebase.iid.WakeLockHolder',)",2
+E46,"('AudioMix',)",2
+E47,"('*job*/c.s.a.a.r/.d.m.i.MetadataLoaderJobService',)",2
+E48,"('*job*/c.g.a.p.m.m/c.a.p.m.MediaService',)",2
+E49,"('*job*/c.w/.AlarmService',)",2
+E50,"('Doze',)",8
+E51,"('GnpBroadcastReceiver',)",8
+E52,"('*job*/c.s.a.s/a.w.i.b.s.SystemJobService',)",8
+E53,"('Window:EdgeLightingWindow',)",6
+E54,"('*vibrator*',)",6
+E55,"('*job*/c.g.a.a.m/.s.d.a.e.ActionJobService',)",6
+E56,"('NlpCollectorWakeLock',)",6
+E57,"('*job*/c.a.c/c.w/WhatsApp:android',)",6
+E58,"('IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation',)",7
+E59,"('AOD_EnsureWorkingTime',)",3
+E60,"('PhoneWindowManager.mPowerKeyWakeLock',)",3
+E61,"('*launch*',)",21
+E62,"('GCoreFlp',)",5
+E63,"('*telephony-radio*', '(partial)')",1026
+E64,"('NetworkStats', '(partial)')",107
+E65,"('NetworkTimeUpdateService', '(partial)')",1
+E66,"('GCM_CONN_ALARM', '(partial)')",1
+E67,"('androidx.core:wake:com.instagram.android/com.instagram.notifications.push.fcm.FcmListenerService', '(partial)')",1
+E68,"('*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService', '(partial)')",1
+E69,"('*gms_scheduler*/c.g.a.g/.s.PlatformStatsCollectorService', '(partial)')",1
+E70,"('*gms_scheduler*/c.g.a.g/.t.s.s.TrustedTimeMaintenanceTaskService', '(partial)')",1
+E71,"('*gms_scheduler*/c.g.a.g/.c.s.NotificationLoggingTask', '(partial)')",1
+E72,"('fiid-sync', '(partial)')",1
+E73,"('ActivityManager-Sleep', '(partial)')",1
+E74,"('startDream', '(partial)')",1
+E75,"('Scrims', '(partial)')",1
+E76,"('*sync*/com.android.contacts/com.whatsapp/WhatsApp', '(partial)')",1
+E77,"('time_detector', '(partial)')",25
+E78,"('SyncLoopWakeLock', '(partial)')",25
+E79,"('GCM_WORK', '(partial)')",55
+E80,"('GCM_READ', '(partial)')",55
+E81,"('NlpWakeLock', '(partial)')",64
+E82,"('RILJ_ACK_WL', '(partial)')",187
+E83,"('GOOGLE_C2DM', '(partial)')",35
+E84,"('*alarm*', '(partial)')",42
+E85,"('NitzSignalInputFilterPredicateFactory', '(partial)')",48
+E86,"('com.android.server.stats.StatsCompanionService$PullingAlarmListener', '(partial)')",13
+E87,"('GCM_HB_ALARM', '(partial)')",9
+E88,"('*gms_scheduler*:internal', '(partial)')",11
+E89,"('*telephony-sem-radio*', '(partial)')",124
+E90,"('GsmInboundSmsHandler', '(partial)')",2
+E91,"('AOD_DRAW', '(draw)')",2
+E92,"('DozeScreenState', '(draw)')",2
+E93,"('EdgeLighting:edge', '(partial)')",2
+E94,"('*job*/c.s.a.d/c.s.a.w.s.s.AppUpdateService', '(partial)')",2
+E95,"('*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob', '(partial)')",2
+E96,"('*job*/c.s.a.d/c.s.a.w.l.LoggerService', '(partial)')",2
+E97,"('*job*/c.s.a.d/.s.FreeStatusCheckService', '(partial)')",2
+E98,"('*job*/c.o.a.s/a.w.i.b.s.SystemJobService', '(partial)')",2
+E99,"('wake:com.google.firebase.iid.WakeLockHolder', '(partial)')",2
+E100,"('AudioMix', '(partial)')",2
+E101,"('*job*/c.s.a.a.r/.d.m.i.MetadataLoaderJobService', '(partial)')",2
+E102,"('*job*/c.g.a.p.m.m/c.a.p.m.MediaService', '(partial)')",2
+E103,"('DreamManagerService', '(doze)')",1
+E104,"('*job*/c.w/.AlarmService', '(partial)')",2
+E105,"('*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService', '(partial)')",16
+E106,"('bugle_datamodel_executor_wakelock', '(partial)')",4
+E107,"('Icing', '(partial)')",4
+E108,"('Window:NotificationShade', '(draw)')",4
+E109,"('motion_service', '(partial)')",4
+E110,"('UlrDispSvcFastWL', '(partial)')",4
+E111,"('*job*/c.s.a.n/a.w.i.b.s.SystemJobService', '(partial)')",4
+E112,"('Doze', '(partial)')",8
+E113,"('GnpBroadcastReceiver', '(partial)')",8
+E114,"('*job*/c.s.a.s/a.w.i.b.s.SystemJobService', '(partial)')",8
+E115,"('Window:EdgeLightingWindow', '(draw)')",6
+E116,"('*vibrator*', '(partial)')",6
+E117,"('NlpCollectorWakeLock', '(partial)')",6
+E118,"('*job*/c.g.a.a.m/.s.d.a.e.ActionJobService', '(partial)')",6
+E119,"('*job*/c.a.c/c.w/WhatsApp:android', '(partial)')",6
+E120,"('IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation', '(partial)')",7
+E121,"('AOD_EnsureWorkingTime', '(partial)')",3
+E122,"('PhoneWindowManager.mPowerKeyWakeLock', '(partial)')",3
+E123,"('*launch*', '(partial)')",21
+E124,"('GCoreFlp', '(partial)')",5
+E125,"('prevent', 'full-screen', 'wakelock', 'in', 'EnqueueNotificationRunnable', '(partial)')",59
+E126,"('prevent', 'full-screen', 'wakelock', 'in', 'EnqueueNotificationRunnable')",59
+E127,"('SmsDeliverReceiver', 'Receive', 'broadcast', '->', 'ReceiverDoInBackground', '->', 'SmsDeliverReceiver.doInBackground', '->', 'SmsDeliverProcessordeliver#receiveSms', '->', 'SmsDeliverProcessor#deliverReceiveSms#transform', '->', 'ReceiveSmsMessageHelper.insertMessageInBugleDb', '->', 'UsageStatisticsImpl::logMessageSentOrReceivedInSiloExecution', '->', 'log_message_sent_or_received', '->', 'WorkQueueImpl#queueWorkItemAndReturnFuture', '->', 'log_message_sent_or_received', '(partial)')",2
+E128,"('SmsDeliverReceiver', 'Receive', 'broadcast', '->', 'ReceiverDoInBackground', '->', 'SmsDeliverReceiver.doInBackground', '->', 'SmsDeliverProcessordeliver#receiveSms', '->', 'SmsDeliverProcessor#deliverReceiveSms#transform', '->', 'ReceiveSmsMessageHelper.insertMessageInBugleDb', '->', 'UsageStatisticsImpl::logMessageSentOrReceivedInSiloExecution', '->', 'log_message_sent_or_received', '->', 'WorkQueueImpl#queueWorkItemAndReturnFuture', '->', 'log_message_sent_or_received')",2
+E129,"('SmsDeliverReceiver', 'Receive', 'broadcast', '->', 'ReceiverDoInBackground', '->', 'SmsDeliverReceiver.doInBackground', '->', 'SmsDeliverProcessordeliver#receiveSms', '->', 'SmsDeliverProcessor#deliverReceiveSms#transform', '->', 'ReceiveSmsMessageHelper.insertMessageInBugleDb', '->', 'create_notification', '->', 'WorkQueueImpl#queueWorkItemAndReturnFuture', '->', 'create_notification', '(partial)')",2
+E130,"('SmsDeliverReceiver', 'Receive', 'broadcast', '->', 'ReceiverDoInBackground', '->', 'SmsDeliverReceiver.doInBackground', '->', 'SmsDeliverProcessordeliver#receiveSms', '->', 'SmsDeliverProcessor#deliverReceiveSms#transform', '->', 'ExecuteActionRunnable#runImpl', '->', 'BackgroundWorkerRunnable#runImpl', '->', 'RequestSmartSuggestionsAction', '->', 'ExecuteActionRunnable#runImpl', '->', 'ReceiveP2pSuggestionsAction', '->', 'ReceiveP2pSuggestionsAction.executeActionAsync', '->', 'create_notification', '->', 'WorkQueueImpl#queueWorkItemAndReturnFuture', '->', 'create_notification', '(partial)')",2
+E131,"('SmsDeliverReceiver', 'Receive', 'broadcast', '->', 'ReceiverDoInBackground', '->', 'SmsDeliverReceiver.doInBackground', '->', 'SmsDeliverProcessordeliver#receiveSms', '->', 'SmsDeliverProcessor#deliverReceiveSms#transform', '->', 'ReceiveSmsMessageHelper.insertMessageInBugleDb', '->', 'create_notification', '->', 'WorkQueueImpl#queueWorkItemAndReturnFuture', '->', 'create_notification')",2
+E132,"('SmsDeliverReceiver', 'Receive', 'broadcast', '->', 'ReceiverDoInBackground', '->', 'SmsDeliverReceiver.doInBackground', '->', 'SmsDeliverProcessordeliver#receiveSms', '->', 'SmsDeliverProcessor#deliverReceiveSms#transform', '->', 'ExecuteActionRunnable#runImpl', '->', 'BackgroundWorkerRunnable#runImpl', '->', 'RequestSmartSuggestionsAction', '->', 'ExecuteActionRunnable#runImpl', '->', 'ReceiveP2pSuggestionsAction', '->', 'ReceiveP2pSuggestionsAction.executeActionAsync', '->', 'create_notification', '->', 'WorkQueueImpl#queueWorkItemAndReturnFuture', '->', 'create_notification')",2
+E133,"('WorkManager:TikTokListenableWorker', 'startWork', '->', 'com.google.apps.tiktok.sync.impl.workmanager.SyncWorker', 'startWork()', '->', 'com.google.apps.tiktok.sync.impl.workmanager.SyncWorker', 'startWork()', '->', 'NoAccountWorkerFactory', 'startWork()', '(partial)')",4
+E134,"('WorkManager:TikTokListenableWorker', 'startWork', '->', 'com.google.apps.tiktok.sync.impl.workmanager.SyncWorker', 'startWork()', '->', 'com.google.apps.tiktok.sync.impl.workmanager.SyncWorker', 'startWork()', '->', 'NoAccountWorkerFactory', 'startWork()')",4
+E135,"('Wakeful', 'StateMachine:', 'GeofencerStateMachine', '(partial)')",5
+E136,"('Wakeful', 'StateMachine:', 'GeofencerStateMachine')",5
+E137,"('WindowManager', '(screen-bright,', 'on-after-release)')",4

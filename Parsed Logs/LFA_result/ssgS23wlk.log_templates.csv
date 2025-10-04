@@ -1,0 +1,114 @@
+EventId,EventTemplate,Occurrences
+1bbb8efa,<*> (partial),1658
+5ecccea2,PhoneWindowManager.mPowerKeyWakeLock,11
+b6e6735b,BSS_InDisplaySensorHelper:D <*>,7
+b2188529,BSS_InDisplaySensorHelper:P,7
+0872f18b,BSS_InDisplaySensorHelper:D,7
+0c40e5be,*job*/c.s.a.k.a.u/.j.Job,18
+c9f7f006,*telephony-sem-radio*,276
+3b257378,*telephony-radio*,249
+c805c3a9,DreamManagerService <*>,8
+84e635a0,ActivityManager-Sleep,8
+99a450b6,<*> <*> (partial),9
+0e3b04f3,startDream,8
+19325c94,motion_service,21
+abdb2c2a,show keyguard,9
+f8ce84ad,Scrims,9
+74b61f0d,Doze,19
+2c3c1795,NlpWakeLock,32
+1b29865d,Wakeful StateMachine: GeofencerStateMachine <*>,23
+09c1a9dc,Wakeful StateMachine: GeofencerStateMachine,23
+5637a93b,AOD_EnsureWorkingTime,9
+768171ff,WifiSuspend,11
+0da3738d,LockoutResetMonitor:SendLockoutReset,18
+28f8b6e8,lockoutResetCallback,9
+313330fa,faceLockoutResetCallback,9
+d6901258,*job*/c.i.a/c.i.u.o.StoryBackgroundPrefetchJobService,58
+6cbc7547,UlrDispSvcFastWL,3
+5f9f1872,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation,19
+e3c5f70c,SyncLoopWakeLock,16
+0f8562f6,*alarm*,125
+509a9688,DreamManagerService,9
+ebd38982,*job*/c.b.c.i/c.g.a.d.r.s.j.JobInfoSchedulerService,9
+c5a1444e,RILS,11
+5f9b6d18,RILJ_ACK_WL,37
+e2b93ec1,GCM_WORK,57
+3c546d03,*job*/c.h.f/o.c.c.b.i.BackgroundTaskJobService,2
+f9632f4c,*job*/o.t.m/.KeepAliveJob,24
+54373163,GCM_READ,29
+b088eee8,wake:com.google.firebase.iid.WakeLockHolder,24
+fb934ef1,GOOGLE_C2DM,29
+e053ade6,prevent full-screen wakelock in EnqueueNotificationRunnable <*>,152
+ece5e176,prevent full-screen wakelock in EnqueueNotificationRunnable,152
+e9f64622,*job*/b.c.v/a.w.i.b.s.SystemJobService,12
+5fd3c647,SharedExecutor Lock <*>,19
+d8f34a12,SharedExecutor Lock,19
+178f9232,*job*/c.s.a.a.s/a.w.i.b.s.SystemJobService,6
+514fc9a6,*job*/c.s.a.g.g/a.w.i.b.s.SystemJobService,2
+d524e8b3,*job*/c.w/.AlarmService,2
+bcf58799,*job*/c.w/a.w.i.b.s.SystemJobService,19
+aa27c9fb,*job*/c.w/.p.RegistrationIntentService,16
+b582b7d5,GnpBroadcastReceiver,2
+a7684106,"@Inflate:0|com.google.android.googlequicksearchbox|0|-216470462::a:snotification:[0x394,wx.f,NOTIFICATION]|10238",2
+4677481b,*launch*,26
+67756bf2,*job*/o.m.f/a.w.i.b.s.SystemJobService,12
+96c9f283,NetworkStats,14
+b1b4e3b1,*vibrator*,97
+acfc545d,*job*/c.r.f/a.w.i.b.s.SystemJobService,36
+72c66b63,*job*/c.r.f/c.g.a.d.r.s.j.JobInfoSchedulerService,4
+746c465b,*job*/c.i.a/c.i.u.o.BackgroundPrefetchJobService,4
+8c105f9c,*job*/c.s.a.a.u/.BunchCheck,4
+d83193fa,*job*/c.h.f/i.g.c.d.PbJobService,6
+0010df02,deviceidle_going_idle,5
+bbc2e9c9,*gms_scheduler*:internal,53
+18e6631c,*job*/c.a.m.a.s/c.a.m.p.PushTokenRegistrationOrchestrator$PushTokenRegistrationJobService,4
+b6b33db4,*job*/c.g.a.g/a.w.i.b.s.SystemJobService,8
+6cd3975b,*job*/c.g.a.y/a.w.i.b.s.SystemJobService,4
+c0a259ee,*job*/c.n.m/.s.j.NetflixJobService,4
+55f5f480,*job*/c.g.a.g/.j.ProviderCreatedJob$ProviderCreatedJobService,6
+109c3d9e,*job*/c.g.a.g/c.a.m.w.NotifyDatasetChangedJob$NotifyDatasetChangedJobService,6
+350d81f0,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService,6
+cd23728f,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService,8
+9e7a9b66,<*> <*> <*> <*> <*> <*> <*> <*> -> <*> <*> <*>,2
+291a4d8d,<*> <*> <*> <*> <*> <*> <*> <*> -> <*> <*>,2
+01a62ebd,*job*/c.o.a.s/a.w.i.b.s.SystemJobService,4
+462b1902,*job*/c.s.a.a.c/c.s.a.d.m.c.s.m.MakeSimDBService,4
+3f2c12d4,*gms_scheduler*/c.g.a.g/.i.p.IcingInternalCorporaUpdateService,5
+6e50fa42,*job*/c.s.a.s/a.w.i.b.s.SystemJobService,10
+200b34cb,*job*/c.s.a.m/.s.b.a.p.s.ContactObserverService,4
+3314a341,*job*/c.s.a.m/.l.p.s.ContactDataObserverService,4
+2ab4b50e,*job*/c.s.a.m/.s.c.p.s.j.RecoveryJobService,4
+4e1024b4,*job*/c.s.a.m/a.w.i.b.s.SystemJobService,6
+419b2076,*job*/c.s.a.a.c/c.s.a.c.s.ScpmPolicyService,4
+1e559f8c,@Inflate:0|com.android.shell|2|null|2000,22
+fd166b35,bugle_datamodel_executor_wakelock,6
+79e76a0a,WindowManager <*>,2
+1e507f03,*job*/c.s.e/c.s.a.s.s.SmpJobService,2
+4618ef29,*job*/c.s.a.d/c.s.a.w.s.s.AppUpdateService,2
+fc17e584,*job*/c.s.a.d/c.s.a.w.l.LoggerService,2
+1ce0384a,*job*/c.s.a.d/.s.FreeStatusCheckService,2
+81f93427,AudioMix,25
+d562f5fc,<*> <*> <*> <*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*> <*>,2
+5057b312,<*> <*> <*> <*> <*> <*> <*> <*> -> <*> <*> <*> <*> <*> <*> <*>,2
+2c93a3c1,*gms_scheduler*/c.g.a.g/c.g.a.c.s.ContextManagerLogsUploadBoundService,1
+003d5268,CMWakeLock,1
+d798833c,*job*/g/c.g/r.com:android,2
+0dbe9200,*sync*/gmail-ls/com.google/raquelfolz@gmail.com,1
+7a35664d,WindowManager,2
+712bfa18,@Inflate:0|br.com.voeazul|112131321|null|10472,1
+9f44dc1d,@Inflate:0|br.com.voeazul|1232123754|null|10472,1
+01b4adf9,*job*/c.s.a.a.s/c.s.a.s.h.d.d.DataDisposerService,2
+e4a0a6e1,deviceidle_maint,1
+a94c42a8,<*> (draw),5
+f0422685,Window:FP Iconview <*>,2
+60768b53,AOD_DRAW,1
+205f0cd9,Window:NotificationShade,3
+dd5b4c98,Window:FP Iconview,2
+31cb8ce9,DozeScreenState,1
+81ee9922,Icing,6
+396f8bfc,ForegroundServiceManager,1
+c72f7f87,*job*/c.g.a.p/.InstalledAppJobService,2
+21ac5823,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob,2
+60c6ecd1,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService,1
+68d21488,*job*/c.s.a.a.s/c.s.a.a.s.w.p.PackageInformationJobIntentService,4
+5ef9477f,*job*/c.a.p.c/.CalendarProviderJobService,2

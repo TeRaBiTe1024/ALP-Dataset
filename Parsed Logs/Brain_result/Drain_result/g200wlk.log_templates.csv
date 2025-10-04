@@ -1,0 +1,252 @@
+EventId,EventTemplate,Occurrences
+a94347ac,MotoDisplayWakeLock,94
+f380d814,MotoDisplayWakeLock (partial),93
+0bbdc087,deviceidle_going_idle (partial),2
+8b5c835e,*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain,3
+0205b19e,deviceidle_going_idle,2
+d5968584,*telephony-radio* (partial),474
+4e4b905a,*telephony-radio*,474
+d1f7f52f,Scrims (partial),13
+366802df,NetworkStats (partial),35
+bd108789,NetworkStats,35
+04cd0834,Doze,19
+8cce89f2,Scrims,13
+cde3fec8,GCM_READ (partial),11
+1160256d,GCM_WORK (partial),25
+3e9981ae,GCM_READ,11
+c915d9d8,GOOGLE_C2DM (partial),8
+b44ae528,GCM_WORK,25
+4fd4578c,GOOGLE_C2DM,8
+db381234,Doze (partial),18
+7f37ac5e,RILJ_ACK_WL (partial),31
+1a8e3944,IWLAN_PROXY_WL (partial),43
+ff05e770,IWLAN_PROXY_WL,43
+0aca88b2,RILJ_ACK_WL,31
+fc8c8dd6,*alarm* (partial),30
+e3adca82,com.android.server.stats.StatsCompanionService$PullingAlarmListener (partial),6
+967d95fb,com.android.server.stats.StatsCompanionService$PullingAlarmListener,6
+14e9711f,*alarm*,30
+5cf44adf,*location* (partial),24
+8b7e51dd,*location*,24
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),43
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,43
+70bd1a09,CMWakeLock (partial),107
+a86622f5,PhoneWindowManager.mPowerKeyWakeLock (partial),7
+f14e19a1,DreamManagerService,6
+25e69551,AnalyticsIntentService (partial),10
+932849aa,SyncLoopWakeLock (partial),128
+f3598e67,SyncLoopWakeLock,128
+f083762a,PhoneWindowManager.mPowerKeyWakeLock,7
+82f4eed5,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation (partial),45
+bd8ac4d0,NlpWakeLock (partial),190
+3165aaef,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation,45
+3f0d8db2,CMWakeLock,107
+03b55498,NlpWakeLock,190
+5662b492,GCoreFlp (partial),69
+e06004e6,GCoreFlp,69
+cede8fd7,UlrDispSvcFastWL (partial),70
+6215e638,UlrDispSvcFastWL,70
+b6580e92,Icing (partial),54
+7aaf3312,GCM_CONN_ALARM (partial),3
+ed1da152,*gms_scheduler*:internal (partial),127
+7f3e45e0,FusedLocation (partial),7
+1c6f7b2c,FusedLocation,7
+42710fe9,*gms_scheduler*:internal,127
+c9f3220c,GCM_CONN_ALARM,3
+69535586,Icing,54
+861d1305,IntentOp:.u.e.InstallationIntentOperation (partial),5
+418d3d04,IntentOp:.u.e.InstallationIntentOperation,5
+2de4ebf5,IntentOp:.c.c.InitConfigOperation (partial),5
+f1f0e3a8,IntentOp:.c.c.InitConfigOperation,5
+242f171c,IntentOp:c.g.a.g/.c.PersistentIntentOperationService (partial),4
+437b4953,IntentOp:.c.a.AppDoctorConfigChangedIntentOperation (partial),2
+67ae9a41,IntentOp:c.g.a.g/.c.PersistentIntentOperationService,4
+251455f9,IntentOp:.c.a.AppDoctorConfigChangedIntentOperation,2
+29c036c6,IntentOp:.s.c.ControlledEventsPhenotypeUpdateOperation (partial),2
+05e23ac7,IntentOp:.s.c.ControlledEventsPhenotypeUpdateOperation,2
+06913c73,startDream (partial),4
+929e4cf5,DreamManagerService (doze),4
+bc76bc23,startDream,4
+425a2209,WifiSuspend (partial),4
+80d9cabe,WifiSuspend,4
+f1b819b5,bugle_datamodel_executor_wakelock (partial),12
+40f3b02b,AudioMix (partial),15
+8862b859,bugle_datamodel_executor_wakelock,12
+73eca7db,AnalyticsIntentService,9
+5f42c2b8,AudioMix,15
+3987ef1c,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService (partial),4
+16501530,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService,4
+bf5f392a,*job*/c.g.a.e.s/a.w.i.b.s.SystemJobService (partial),2
+a0958b05,*job*/c.g.a.e.s/a.w.i.b.s.SystemJobService,2
+3a8724d6,IntentOp:.f.s.l.BluetoothStateChangeListenerIntentOperation (partial),10
+54048627,IntentOp:c.g.a.g/.c.GmsIntentOperationService (partial),10
+b1fbea3c,IntentOp:.f.s.l.BluetoothStateChangeListenerIntentOperation,10
+7fcb5214,IntentOp:c.g.a.g/.c.GmsIntentOperationService,10
+fa1f567a,*vibrator* (partial),47
+8398adf0,*vibrator*,47
+67c6c1d7,*job*/c.m.m/c.m.m.e.s.p.a.AppUsageDataCollector (partial),3
+daa086d1,*job*/c.g.a.g.c/c.g/l.com:android (partial),6
+d3b1fdef,*job*/c.g.a.g.c/c.g/l.u.e.br:android (partial),7
+af37a8f8,*job*/c.a.v/c.g.a.f.s.p.m.PhoneskyJobServiceMain (partial),3
+b7705c17,*gms_scheduler*/c.g.a.g/.t.g.TapAndPayGcmTaskService (partial),9
+3f4e9ee9,*job*/c.g.a.a.w/.a.i.AutoDndJobService (partial),1
+cd38ae6b,*job*/c.m.m/c.m.m.e.s.p.a.AppUsageDataCollector,3
+f4ad935e,*sync*/com.google.android.gms.chromesync/com.google/larissadasilvapessoa0@gmail.com (partial),6
+5e5b2559,*job*/c.m.m/.a.AnalyticsIntentService (partial),7
+380acdd8,*sync*/com.google.android.gms.chromesync/com.google/lsp@icomp.ufam.edu.br (partial),5
+6a1f47e5,*gms_scheduler*/c.g.a.g/.c.CheckinService (partial),1
+18dd6c86,*job*/c.g.a.g.c/c.g/l.u.e.br:android,7
+4b2d3a3d,*sync*/com.google.android.gms.chromesync/com.google/lsp@icomp.ufam.edu.br,5
+87708950,*gms_scheduler*/c.g.a.g/.t.g.TapAndPayGcmTaskService,9
+9d51e11f,*job*/c.m.m/c.m.m.s.d.b.BatteryLevelJob (partial),1
+cea64521,*job*/c.m.m/c.m.m.s.d.b.BatteryLevelJob,1
+a2d6e2b6,*job*/c.g.a.i.l/c.g.a.l.i.t.JobSchedulerImpl$TaskRunnerJobService (partial),1
+2b656144,*gms_scheduler*/c.g.a.g/.a.s.GcmSchedulerWakeupService (partial),1
+5d7e68bf,*job*/c.g.a.g.c/c.g/l.com:android,6
+77110e21,*sync*/com.google.android.gms.chromesync/com.google/larissadasilvapessoa0@gmail.com,6
+995fae73,*gms_scheduler*/c.g.a.g/.c.CheckinService,1
+2a32fdcc,*job*/c.g.a.a.w/.a.i.AutoDndJobService,1
+301e0173,*job*/c.g.a.i.l/c.g.a.l.i.t.JobSchedulerImpl$TaskRunnerJobService,1
+157c57ff,*job*/c.g.a.a.w/.p.i.PowerStateJobService (partial),1
+a6ed39c3,*job*/c.m.m/.a.AnalyticsIntentService,7
+025dbe2c,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService (partial),4
+5b47fa6c,*job*/c.m.m/c.m.m.p.d.LoadDatasetJobService (partial),2
+15a1b4e3,*job*/c.g.a.g.r/c.g/l.com:android (partial),1
+b7ca4eec,*sync*/com.google.android.gms.reminders/com.google/larissadasilvapessoa0@gmail.com (partial),1
+566960aa,*job*/c.m.m/c.m.m.p.d.LoadDatasetJobService,2
+baecf152,*job*/c.g.a.g.r/c.g/l.u.e.br:android (partial),2
+d1d8103b,*job*/c.g.a.a.w/.p.i.PowerStateJobService,1
+3eecf011,*job*/c.g.a.g.r/c.g/l.u.e.br:android,2
+18453460,*job*/c.a.c/c.w/WhatsApp:android (partial),1
+300a2629,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService,4
+b4ac4533,*sync*/com.android.contacts/com.whatsapp/WhatsApp (partial),1
+5a81bcef,*sync*/com.google.android.gms.reminders/com.google/larissadasilvapessoa0@gmail.com,1
+3efffa06,*job*/c.g.a.g.r/c.g/l.com:android,1
+5e411753,*gms_scheduler*/c.g.a.g/.g.c.SchedulePeriodicTasksService (partial),2
+f43ef5fa,*job*/c.w/.AlarmService (partial),2
+aa7015bb,*gms_scheduler*/c.g.a.g/.g.c.SchedulePeriodicTasksService,2
+ead884b0,*gms_scheduler*/c.g.a.g/.p.g.PayGcmTaskService (partial),9
+1e748051,*gms_scheduler*/c.g.a.g/.p.g.PayGcmTaskService,9
+5cd45992,*job*/c.w/.c.u.ExceptionsUploadService (partial),2
+fb5a2995,com.whatsapp:fullsync (partial),1
+42d1a32f,*job*/c.w/.c.u.ExceptionsUploadService,2
+73d6409a,com.whatsapp:NtpAction#updateNtp (partial),2
+5e354776,*job*/c.w/a.w.i.b.s.SystemJobService (partial),6
+70a15d91,com.whatsapp:fullsync,1
+94793aa0,com.whatsapp:NtpAction#updateNtp,2
+948d1a23,*job*/c.w/.AlarmService,2
+10641365,*gms_scheduler*/c.g.a.g/.a.s.GcmSchedulerWakeupService,1
+acae7cbb,*job*/c.g.a.g/.j.ProviderCreatedJob$ProviderCreatedJobService (partial),1
+0cf0a71c,*job*/c.g.a.g/.j.ProviderCreatedJob$ProviderCreatedJobService,1
+be65f5fc,*job*/c.g.a.g/c.a.m.w.NotifyDatasetChangedJob$NotifyDatasetChangedJobService (partial),1
+a6b9c77a,*job*/c.g.a.g/c.a.m.w.NotifyDatasetChangedJob$NotifyDatasetChangedJobService,1
+49d215da,*gms_scheduler*/c.g.a.g/.u.s.UdcContextInitService (partial),2
+5d4ad740,*gms_scheduler*/c.g.a.g/.p.s.s.PhenotypeConfigurator (partial),2
+8f29f975,*gms_scheduler*/c.g.a.g/.u.s.UdcContextInitService,2
+1f817645,*gms_scheduler*/c.g.a.g/.t.s.s.TrustedTimeMaintenanceTaskService (partial),1
+c0fbb9a4,*gms_scheduler*/c.g.a.g/.t.s.s.TrustedTimeMaintenanceTaskService,1
+61aaac5a,*gms_scheduler*/c.g.a.g/.c.c.ConfigService (partial),1
+174aca69,*gms_scheduler*/c.g.a.g/.c.c.ConfigService,1
+696bb924,*gms_scheduler*/c.g.a.g/.t.s.SpamListSyncTaskService (partial),1
+9103eed5,*gms_scheduler*/c.g.a.g/.t.s.SpamListSyncTaskService,1
+a8e5ace0,*gms_scheduler*/c.g.a.g/.m.PackageMeasurementTaskService (partial),2
+2e336167,*gms_scheduler*/c.g.a.g/.m.PackageMeasurementTaskService,2
+fb23c7b5,*job*/g/c.g/l.u.e.br:android (partial),1
+c4c9d138,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob (partial),1
+5e523ac7,*job*/c.f.a/c.f.a.l.LollipopUploadService (partial),1
+574b1d13,*job*/c.f.a/c.f.o.c.j.JobQueueService (partial),2
+84635f66,*sync*/gmail-ls/com.google/lsp@icomp.ufam.edu.br (partial),1
+59d64e52,*job*/c.f.a/c.f.a.l.LollipopUploadService,1
+58dfda1f,*job*/c.f.a/c.f.o.a.u.c.UpdateService (partial),1
+5e0d3ff5,*job*/c.f.a/c.f.o.a.u.c.UpdateService,1
+fe38c5c7,*job*/c.f.a/c.f.o.c.j.JobQueueService,2
+a0420945,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob,1
+23601369,*job*/c.e.t/.w.i.b.SystemJobService (partial),1
+fbb555c4,*job*/c.e.t/.w.i.b.SystemJobService,1
+6b25d8e6,*launch* (partial),13
+10feb835,*launch*,13
+fd36bfe8,*gms_scheduler*/c.g.a.g/.p.s.s.PhenotypeConfigurator,2
+52e7065d,*job*/g/c.g/l.u.e.br:android,1
+f35c2c38,*sync*/gmail-ls/com.google/lsp@icomp.ufam.edu.br,1
+5f7c5ff9,*job*/c.w/a.w.i.b.s.SystemJobService,6
+52b68e14,*job*/c.a.c/c.w/WhatsApp:android,1
+3a2feb8d,*sync*/com.android.contacts/com.whatsapp/WhatsApp,1
+8890f394,*job*/c.w/.p.RegistrationIntentService (partial),3
+6ed1b8e4,*job*/c.w/.p.RegistrationIntentService,3
+a5d35b34,*sync*/com.google.android.gms.reminders/com.google/lsp@icomp.ufam.edu.br (partial),1
+706c3128,*sync*/com.google.android.gms.reminders/com.google/lsp@icomp.ufam.edu.br,1
+d9a0fa6b,*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService (partial),29
+2409f876,*job*/c.g.a.g/c.g.a.a.g.t.BackgroundTasksJobService,29
+5a5e2378,ActivityManager-Sleep (partial),2
+8a211458,ActivityManager-Sleep,2
+4ca381e5,show keyguard (partial),2
+ca94f536,show keyguard,2
+34c92d10,*gms_scheduler*/c.g.a.g/.m.s.MdiSyncBackgroundTaskService (partial),1
+96848848,*gms_scheduler*/c.g.a.g/.m.s.MdiSyncBackgroundTaskService,1
+ff11d594,*gms_scheduler*/c.g.a.g/.s.e.EditUploadJob (partial),1
+67af68c3,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork() (partial),4
+f05a5a8e,*job*/c.g.a.a/a.w.i.b.s.SystemJobService (partial),11
+0b340d05,*job*/c.g.a.a/a.w.i.b.s.SystemJobService,11
+385a3e89,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork(),4
+4777d57f,*gms_scheduler*/c.g.a.g/.s.e.EditUploadJob,1
+7a0b804a,*gms_scheduler*/c.g.a.g/.s.t.TopPlaceProcessingService (partial),1
+56ee4441,*job*/c.g.a.a.m/c.g.a.l.p.p.f.PrimesExampleStoreDataTtlService (partial),4
+c358ea56,*job*/c.g.a.a.m/c.g.a.l.p.p.f.PrimesExampleStoreDataTtlService,4
+adb541ce,*gms_scheduler*/c.g.a.g/.i.r.DomainFilterUpdateService (partial),1
+31934656,*gms_scheduler*/c.g.a.g/.s.t.TopPlaceProcessingService,1
+c49b7975,*gms_scheduler*/c.g.a.g/.i.m.s.MobileDataHubGcmTaskService (partial),2
+d972e795,*gms_scheduler*/c.g.a.g/.i.m.s.MobileDataHubGcmTaskService,2
+afaea607,*gms_scheduler*/c.g.a.g/.s.p.PulpInferenceService (partial),1
+1d7ea5d8,*gms_scheduler*/c.g.a.g/.i.r.DomainFilterUpdateService,1
+ace5923c,*gms_scheduler*/c.g.a.g/.w.s.WalletGcmTaskService (partial),1
+b4ea94bd,*gms_scheduler*/c.g.a.g/.w.s.WalletGcmTaskService,1
+0b71efae,*gms_scheduler*/c.g.a.g/.t.s.f.BorderRouterSyncBoundService (partial),1
+8430301e,*gms_scheduler*/c.g.a.g/.s.p.PulpInferenceService,1
+8238e5f7,*gms_scheduler*/c.g.a.g/.a.j.NegotiationService (partial),1
+e62897da,*job*/c.m.a.p.s/.WriteFallbackMotorolaSettingsFilesJobService (partial),1
+7acd5d0d,*job*/c.a.p.s/.WriteFallbackSettingsFilesJobService (partial),2
+ac90bdba,*job*/c.a.p.s/.WriteFallbackSettingsFilesJobService,2
+de0099c5,*job*/c.g.a.a.m/c.g.a.l.n.e.s.ScheduledTaskService (partial),1
+36e3501b,*job*/c.g.a.w/o.c.a.s.AwVariationsSeedFetcher (partial),1
+d5d05325,*job*/c.g.a.a.d.e.d/a.w.i.b.s.SystemJobService (partial),1
+efbe33ae,*gms_scheduler*/c.g.a.g/.a.j.NegotiationService,1
+ba3bb7d8,*gms_scheduler*/c.g.a.g/.a.a.b.l.AuthCronService (partial),1
+5134a7a2,*job*/c.g.a.a.m/c.g.a.l.n.e.s.ScheduledTaskService,1
+9446bc21,*job*/c.g.a.a.d.e.d/a.w.i.b.s.SystemJobService,1
+5d8abcaf,*gms_scheduler*/c.g.a.g/.a.a.b.l.AuthCronService,1
+bef3169d,*job*/c.g.a.a.t/a.w.i.b.s.SystemJobService (partial),1
+f1493655,*job*/c.g.a.a.d.e.s/a.w.i.b.s.SystemJobService (partial),2
+6de20b30,*job*/c.g.a.a.t/a.w.i.b.s.SystemJobService,1
+5e32acdb,*job*/c.g.a.w/o.c.a.s.AwVariationsSeedFetcher,1
+31ef6259,*job*/c.g.a.a.w/a.w.i.b.s.SystemJobService (partial),1
+d7bb17fb,*job*/c.g.a.a.w/a.w.i.b.s.SystemJobService,1
+2ba6d597,*job*/c.g.a.a.d.e.s/a.w.i.b.s.SystemJobService,2
+99f382ac,*job*/c.g.a.d/c.a.v.i.StatusCheckJobService (partial),1
+9508693f,*job*/c.m.a/a.w.i.b.s.SystemJobService (partial),1
+53c833ee,*gms_scheduler*/c.g.a.g/.t.s.f.BorderRouterSyncBoundService,1
+75cbc03e,*gms_scheduler*/c.g.a.g/.s.s.SettingsSyncOneOffService (partial),1
+c6b35397,*job*/c.g.a.d/c.a.v.i.StatusCheckJobService,1
+cfd2d906,*job*/c.m.a/a.w.i.b.s.SystemJobService,1
+7bcb5b3e,*job*/c.g.a.c/c.g.a.a.c.s.ShortcutJobService (partial),1
+cddae5c0,*job*/c.g.a.c/c.g.a.a.c.s.ShortcutJobService,1
+15eb8c36,*job*/c.g.a.y/a.w.i.b.s.SystemJobService (partial),7
+08c050f9,*job*/c.g.a.d/c.a.v.i.s.TaskSchedulerJobService (partial),1
+8ffa1509,*job*/c.g.a.y/a.w.i.b.s.SystemJobService,7
+c48beda8,*gms_scheduler*/c.g.a.g/.s.s.SettingsSyncOneOffService,1
+1d41afa9,*gms_scheduler*/c.g.a.g/.r.ContactsLoggerUploadService (partial),1
+eb1ddf69,*gms_scheduler*/c.g.a.g/.r.ContactsLoggerUploadService,1
+63ccafda,*gms_scheduler*/c.g.a.g/.s.s.SafeBrowsingGmsTaskBoundService (partial),1
+08992369,*gms_scheduler*/c.g.a.g/.s.s.SafeBrowsingGmsTaskBoundService,1
+4c135bad,*job*/c.g.a.d/c.a.v.i.s.TaskSchedulerJobService,1
+0e347a41,GnpBroadcastReceiver (partial),1
+4c0ceb4c,GnpBroadcastReceiver,1
+0f4e637d,*dexopt* (partial),2
+105a6dfc,*dexopt*,2
+c5207169,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$GmsReceiverIntentOperation (partial),6
+36047f2b,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$GmsReceiverIntentOperation,6
+81f0b517,*job*/c.a.v/c.g.a.f.i.m.LogFlushJob (partial),1
+668c4302,*job*/c.a.v/c.g.a.f.i.m.LogFlushJob,1
+d7956295,"WindowManager (screen-bright,on-after-release)",1
+69d9b836,WindowManager,1
+5dc0fd6a,GmsAlarm:FusedLocation:delay_request (partial),1
+531dceda,GmsAlarm:FusedLocation:delay_request,1

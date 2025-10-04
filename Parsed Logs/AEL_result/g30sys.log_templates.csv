@@ -1,0 +1,1512 @@
+EventId,EventTemplate,Occurrences
+3d4b6ff6,"Fatal signal <*> (SIGABRT), code -<*> (SI_QUEUE) in tid <*> (init), pid <*> (init)",3
+0f92fa14,"crash_dump helper failed to exec, or was killed",5
+32955588,getPreferredLaunchDisplay userset_displayid <*> current displayId -<*>,45
+b503feb1,Tried to set launchTime (<*>) < mLastActivityLaunchTime (<*>),14
+7e21f21e,Changing focus of displayId=<*> to <*> <*> <*> <*> <*>,76
+3798105d,MotoDisplayed <*>,20
+10837f2a,SURFACE <*> <*> on display:<*>,206
+4ecde587,"Display device changed: DisplayDeviceInfo{""Tela integrada"": uniqueId=""local:<*>"", <*> x <*>, modeId <*>, defaultModeId <*>, supportedModes [{id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>]}], supportedReadyForModes [], colorMode <*>, supportedColorModes [<*>, <*>], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[<*>, <*>], mMaxLuminance=<*>.<*>, mMaxAverageLuminance=<*>.<*>, mMinLuminance=<*>.<*>}, allmSupported false, gameContentTypeSupported false, density <*>, <*>.<*> x <*>.<*> dpi, appVsyncOff <*>, presDeadline <*>, cutout DisplayCutout{insets=Rect(<*>, <*> - <*>, <*>) waterfall=Insets{left=<*>, top=<*>, right=<*>, bottom=<*>} boundingRect={Bounds=[Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=<*> displayHeight=<*> density={<*>.<*>} cutoutSpec={M -<*>,<*> L -<*>,<*> L <*>,<*> L <*>,<*> Z} rotation={<*>} scale={<*>.<*>}}}}, touch INTERNAL, rotation <*>, type INTERNAL, address {port=<*>, model=<*>}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=<*>, modelYear=null, manufactureDate=ManufactureDate{week=<*>, year=<*>}, connectionToSinkType=<*>}, state ON, frameRateOverride , brightnessMinimum <*>.<*>, brightnessMaximum <*>.<*>, brightnessDefault <*>.<*>, roundedCorners RoundedCorners{[RoundedCorner{position=TopLeft, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=TopRight, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=BottomRight, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=BottomLeft, radius=<*>, center=Point(<*>, <*>)}]}, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}",603
+f1b23b2c,User[<*>] Flushing usage stats to disk,7
+dfac4d44,"canAuthenticate: User=<*>, Caller=<*>, Authenticators=<*>",137
+d270553e,Package: <*> Sensor ID: <*> Modality: <*> Status: <*>,274
+87d835bf,getCanAuthenticateInternal Modality: <*> AuthenticatorStatus: <*>,137
+a90080bd,"canAuthenticate, userId: <*>, callingUserId: <*>, authenticators: <*>, result: <*>",137
+559ce3ac,"uevent={POWER_SUPPLY_DP_DM=<*>, POWER_SUPPLY_VOLTAGE_QNOVO=-<*>, POWER_SUPPLY_VOLTAGE_NOW=<*>, POWER_SUPPLY_SW_JEITA_ENABLED=<*>, POWER_SUPPLY_FORCE_RECHARGE=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT_MAX=<*>, POWER_SUPPLY_RECHARGE_SOC=<*>, POWER_SUPPLY_HEALTH=Good, POWER_SUPPLY_TECHNOLOGY=Li-ion, POWER_SUPPLY_CHARGER_TEMP_MAX=<*>, POWER_SUPPLY_CHARGE_FULL_DESIGN=<*>, POWER_SUPPLY_FCC_STEPPER_ENABLE=<*>, SEQNUM=<*>, POWER_SUPPLY_INPUT_CURRENT_LIMITED=<*>, POWER_SUPPLY_CHARGE_CONTROL_LIMIT=<*>, POWER_SUPPLY_STATUS=Discharging, POWER_SUPPLY_CYCLE_COUNT=<*>, POWER_SUPPLY_BATTERY_CHARGING_ENABLED=<*>, POWER_SUPPLY_CURRENT_MAX=<*>, POWER_SUPPLY_CHARGE_TERM_CURRENT=-<*>, POWER_SUPPLY_CAPACITY=<*>, DEVPATH=<*>.qcom,spmi<*>.qcom,spmi:qcom,pmi632@<*>:qcom,qpnp-smb5<*>, POWER_SUPPLY_CHARGE_DONE=<*>, POWER_SUPPLY_CHARGE_TYPE=N<*>, POWER_SUPPLY_CHARGE_RATE=None, POWER_SUPPLY_CURRENT_QNOVO=-<*>, POWER_SUPPLY_CURRENT_NOW=-<*>, POWER_SUPPLY_SYSTEM_TEMP_LEVEL=<*>, POWER_SUPPLY_PRESENT=<*>, POWER_SUPPLY_PARALLEL_DISABLE=<*>, POWER_SUPPLY_CHARGE_FULL=<*>, POWER_SUPPLY_TIME_TO_FULL_NOW=-<*>, POWER_SUPPLY_CONSTANT_CHARGE_CURRENT=<*>, SUBSYSTEM=power_supply, POWER_SUPPLY_SET_SHIP_MODE=<*>, POWER_SUPPLY_TEMP=<*>, ACTION=change, POWER_SUPPLY_RERUN_AICL=<*>, POWER_SUPPLY_AGE=<*>, POWER_SUPPLY_NAME=battery, POWER_SUPPLY_VOLTAGE_MAX=-<*>, POWER_SUPPLY_CONSTANT_CHARGE_CURRENT_MAX=<*>, POWER_SUPPLY_CHARGE_COUNTER=<*>, POWER_SUPPLY_STEP_CHARGING_ENABLED=<*>, POWER_SUPPLY_NUM_SYSTEM_TEMP_LEVELS=<*>, POWER_SUPPLY_DIE_HEALTH=Unknown, POWER_SUPPLY_INPUT_SUSPEND=<*>}",386
+c9e22b01,Failed to read cpu-freq stats for CPUs <*><*>,140
+194bd27f,"Negative delta from active time for uid: <*>, delta: -<*>",69
+0eb30326,START u0 <*> <*> <*> <*> <*> from uid <*>,7
+c8d201a8,"reply too large data on java level: InterfaceDescriptor = null, code = <*>",11
+53aa1440,Slow <*> took <*> <*> <*> <*> m=<*>,24
+cb6eebac,Noting op not finished: uid <*> pkg <*> code <*> startTime of in progress event=<*>,35
+2a8b0c47,Killing <*> (adj <*>): empty for <*>,24
+d791669e,START u0 <*> <*> <*> from uid <*>,3
+1f87d0cd,SOFT_INPUT_STATE_VISIBLE is ignored because there is no focused view that also returns true from View#onCheckIsTextEditor(),1
+fda4e672,Deleting file <*>,17
+708a3795,Alarms must either supply a PendingIntent or an AlarmReceiver,13
+59710913,Compat change id reported: <*>; UID <*>; state: <*>,737
+1bf36518,Start proc <*> for <*> <*>,68
+48f0cac0,No listener is left,3
+3b049651,Attempted to add notif for locked<*> user <*>,13
+4b17cd11,"Brightness [<*>.<*>] reason changing to: 'automatic [ dim ]', previous reason: 'automatic'.",3
+ce3650a2,"Powering off display group due to <*> (groupId= <*>, uid= <*>)...",3
+447e975b,Going to sleep due to <*> (uid <*>)...,3
+caa33ffb,"setInteractive false, called by = <*>",8
+ed8b036b,<*> going to sleep... <*>,6
+25d024c8,Stopping service due to app idle: <*> <*> <*><*>.<*>,16
+878d5f45,isEncrypted: false isLockdown: false,3
+a7decbce,"[<*>] {[<*>] <*> proto=<*>, <*> cookie=<*>, userId=<*>}, new queue size: <*>",6
+38795495,"<*> {[<*>] <*> proto=<*>, <*> cookie=<*>, userId=<*>}, State: <*>",12
+322cb47d,"[Started] {[<*>] <*> proto=<*>, <*> cookie=<*>, userId=<*>}",6
+7a5acb7f,"Already user: <*>, returning",3
+d318cea5,"Brightness [<*>.<*>] reason changing to: 'automatic', previous reason: 'automatic [ dim ]'.",3
+4832bab6,"Not idle, current operation: {[<*>] FingerprintUpdateActiveUserClient, proto=<*>, owner=android, cookie=<*>, userId=<*>}, State: <*>",3
+626cc8a9,"[Finishing] {[<*>] <*> proto=<*>, <*> cookie=<*>, userId=<*>}, success: true",6
+7cd9d62a,"Notifying gesture availability, <*>",6
+c53bea04,"<*> client: {[<*>] FingerprintAuthenticationClient, proto=<*>, owner=<*>, cookie=<*>, userId=<*>}",6
+f0732ed3,"Fps state updated from <*> to <*>, client {[<*>] FingerprintAuthenticationClient, proto=<*>, owner=<*>, cookie=<*>, userId=<*>}",3
+3df05222,Requesting auth for <*>,3
+264000a7,Blocking screen off,8
+6583ac5a,Unblocked screen off after <*> ms,8
+204588c9,Display0 turned off...,8
+7e6725c7,Top Process State changed to <*>,6
+6832516c,Tracking association SourceState{<*> <*> BTopFgs #<*>} whose proc state <*> is better than process ProcessState{<*> <*> pkg=<*>} proc state <*> (<*> skipped),162
+be7103eb,Brightness [<*>.<*>] reason changing to: <*> previous reason: <*>,27
+5c1712e3,"Display device changed state: ""Tela integrada"", <*>",16
+94bd75dc,<*> dreamland.,6
+5130da95,Dozing...,3
+6f07c1e9,"Starting dream: name=ComponentInfo{<*><*>.<*>}, isTest=false, canDoze=true, userId=<*>",3
+d8974074,Changing focus of displayId=<*> to Window{<*> u0 <*> from Window{<*> u0 <*>,23
+bde04bbe,"Receiver with filter <*>@<*> already registered for pid <*>, callerPackage is <*>",8
+0242d2ca,<*> component <*>/.notification.DisplayNotifListenerService,6
+3b006dc0,"Display device changed: DisplayDeviceInfo{""Tela integrada"": uniqueId=""local:<*>"", <*> x <*>, modeId <*>, defaultModeId <*>, supportedModes [{id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>]}, {id=<*>, width=<*>, height=<*>, fps=<*>.<*>, alternativeRefreshRates=[<*>.<*>]}], supportedReadyForModes [], colorMode <*>, supportedColorModes [<*>, <*>], hdrCapabilities HdrCapabilities{mSupportedHdrTypes=[<*>, <*>], mMaxLuminance=<*>.<*>, mMaxAverageLuminance=<*>.<*>, mMinLuminance=<*>.<*>}, allmSupported false, gameContentTypeSupported false, density <*>, <*>.<*> x <*>.<*> dpi, appVsyncOff <*>, presDeadline <*>, cutout DisplayCutout{insets=Rect(<*>, <*> - <*>, <*>) waterfall=Insets{left=<*>, top=<*>, right=<*>, bottom=<*>} boundingRect={Bounds=[Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>), Rect(<*>, <*> - <*>, <*>)]} cutoutPathParserInfo={CutoutPathParserInfo{displayWidth=<*> displayHeight=<*> density={<*>.<*>} cutoutSpec={M -<*>,<*> L -<*>,<*> L <*>,<*> L <*>,<*> Z} rotation={<*>} scale={<*>.<*>}}}}, touch INTERNAL, rotation <*>, type INTERNAL, address {port=<*>, model=<*>}, deviceProductInfo DeviceProductInfo{name=, manufacturerPnpId=QCM, productId=<*>, modelYear=null, manufactureDate=ManufactureDate{week=<*>, year=<*>}, connectionToSinkType=<*>}, state OFF, frameRateOverride , brightnessMinimum <*>.<*>, brightnessMaximum <*>.<*>, brightnessDefault <*>.<*>, roundedCorners RoundedCorners{[RoundedCorner{position=TopLeft, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=TopRight, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=BottomRight, radius=<*>, center=Point(<*>, <*>)}, RoundedCorner{position=BottomLeft, radius=<*>, center=Point(<*>, <*>)}]}, FLAG_DEFAULT_DISPLAY, FLAG_ROTATES_WITH_CONTENT, FLAG_SECURE, FLAG_SUPPORTS_PROTECTED_BUFFERS}",3
+d966ae91,binding: Intent { act=<*> cmp=<*>/.notification.DisplayNotifListenerService (has extras) },3
+cf116934,<*> notification listener service connected: ComponentInfo{<*><*>.<*>},3
+93420e9a,Start proc <*>:<*><*> for content provider {<*><*>.<*>},26
+065a430d,The first listener is <*>,3
+75e30f91,Calling Update secure attr with <*> value = <*>,6
+cdb4b80f,Actually updating secure attr with <*>,6
+35147b4f,Set USB secure = <*> by <*>,6
+d088b703,"Sensor ID(<*>), oemStrength: <*>, updatedStrength: <*>, modality <*>, state: <*>, cookie: <*>, props: ID: <*>, Strength: <*>, Type: <*>, SupportsFaceDetection: false, sensorId <*>, hasEnrollments: false cannot participate in Keystore operations",12
+487b25a7,applyOemOverride usbfunctions=mtp bootmode=normal,3
+8d7d256b,readCommaParameters: <*> Not Found.,3
+23203b1c,Start proc <*> for <*>,8
+6bc5db1e,setInteractive true.,10
+06d4ee48,Display <*> <*> on...,16
+01c98187,<*>.,8
+55aea5f5,Setting <*>,16
+2c883d12,All windows ready for every display,8
+5f0d9cd8,finishScreenTurningOn..,8
+6842e08f,enableScreen mKeyguardDrawnOnce=true <*> mBootMessageNeedsHiding=false,8
+57b58404,Background start not allowed: service Intent { cmp=<*><*>.<*> } to <*><*>.<*> from pid=<*> uid=<*> pkg=<*> startFg?=false,16
+ef46616a,Calling a method in the system process without a qualified user: <*>:<*> <*> <*> <*> <*>,46
+58865af1,"Permission Denial: receiving Intent { act=<*> flg=<*> (has extras) } to ProcessRecord{<*> <*>:<*><*>} (pid=<*>, uid=<*>) requires <*> due to sender android (uid <*>)",42
+d4e6d8a5,"Permission Denial: receiving Intent { act=<*> flg=<*> (has extras) } to ProcessRecord{<*> <*>:<*>:push<*>} (pid=<*>, uid=<*>) requires <*> due to sender android (uid <*>)",28
+f76333dc,Permission Denial: receiving Intent { act=<*> flg=<*> (has extras) } to <*><*>.<*> requires <*> due to sender android (uid <*>),21
+4ebee0d4,"Appop Denial: receiving Intent { act=<*> flg=<*> (has extras) } to ProcessRecord{<*> <*>:<*><*>} (pid=<*>, uid=<*>) excludes appop <*> due to sender android (uid <*>)",28
+a5fdffb5,motion timeout went off and device isn't stationary,4
+b713b0b1,"Permission Denial: broadcasting Intent { act=<*> flg=<*> (has extras) } from null (pid=-<*>, uid=-<*>) requires  due to registered receiver BroadcastFilter{<*> <*><*> ReceiverList{<*> <*> <*><*> remote:<*>}}",1
+1d09ef0b,"Permission Denial: broadcasting Intent { act=<*> flg=<*> (has extras) } from null (pid=-<*>, uid=-<*>) requires <*> due to registered receiver BroadcastFilter{<*> <*><*> ReceiverList{<*> <*> <*><*> remote:<*>}}",3
+d0bf66fe,Failed to find provider info for <*>,6
+c9faf74d,Background start not allowed: service Intent { cmp=<*><*>.<*> (has extras) } to <*><*>.<*> from pid=<*> uid=<*> pkg=<*> startFg?=false,2
+42478478,"Powering on display group fromDozing (groupId=<*>, uid=<*>, reason=WAKE_REASON_POWER_BUTTON, details=android.policy:POWER)...",3
+97a83b44,"Waking up from Dozing (uid=<*>, reason=WAKE_REASON_POWER_BUTTON, details=android.policy:POWER)...",3
+57d13085,<*> waking up... (why=ON_BECAUSE_OF_USER),6
+10db7391,Gently waking up from dream.,3
+10203f05,Performing gentle wake from dream.,6
+43c6b406,"Stopping dream: name=ComponentInfo{<*><*>.<*>}, isTest=false, canDoze=true, userId=<*>, reason='finished self'(from 'requested stopDream')",3
+1ac01e0c,powerPress: eventTime=<*> interactive=true count=<*> <*> mShortPressOnPowerBehavior=<*>,4
+1cbd7709,"Acquired: <*> <*>, shouldSend: true",3
+fb382960,Authentication latency: -<*>,3
+0af8b73e,found a negative latency : -<*>,3
+9075f678,"onAuthenticated(true), ID:-<*>, Owner: <*>, isBP: false, listener: <*>@<*>, requireConfirmation: false, user: <*>, clientMonitor: {[<*>] FingerprintAuthenticationClient, proto=<*>, owner=<*>, cookie=<*>, userId=<*>}, displayId: <*>",2
+2f578dc7,"Allowing background authentication, this is allowed only for platform or test invocations",3
+563d4a53,"resetLockout from: <*>, for: <*>, userId: <*>",3
+dede275d,<*> <*>,94
+aef97ba8,"Ignoring lockout reset, no templates enrolled for user: <*>",3
+cc7d71f5,"Client finished, fps state updated to <*>, client {[<*>] FingerprintAuthenticationClient, proto=<*>, owner=<*>, cookie=<*>, userId=<*>}",3
+9bb14aec,"No operations, returning to idle",3
+83e75ff0,Attempt to decrement existing alarm count <*> by <*> for uid <*>,2
+1846bf8d,Background execution not allowed: receiving Intent { act=<*> flg=<*> } to <*>,15
+06c9b83e,"Slow operation: <*> so far, now at startProcess: <*> <*> <*>",13
+c0ab0ed4,"Slow operation: <*> so far, now at startProcess: <*> <*> <*> <*>",16
+c01b16dd,"Slow operation: <*> so far, now at startProcess: <*> <*> <*> <*> <*>",8
+bc75fc11,Slow delivery took <*> main <*> <*> m=<*>,4
+8ea1e4c6,Drained,9
+a4f8b1e3,Killing <*> (adj <*>): empty #<*>,19
+3324f575,: Silence Ringer requested by android: <*>,2
+23a16106,setHasOverlayUi called on unknown pid: <*>,10
+efac7b1b,SURFACE <*> <*> <*> <*> on display:<*>,13
+72221330,Unknown user activity type <*> was specified.,2
+ff52c40c,<*>,444
+d7497a9b,at <*>,1163
+c478c616,at <*> Source:<*>),3
+ce503ea9,"bindBluetoothProfileService:Trying to bind to profile: <*>, while Bluetooth is disabled",2
+c0963a95,Process PhantomProcessRecord {<*> <*>:<*>:cat<*>} died,2
+19bae7a5,Changing focus of displayId=<*> to Window{<*> u0 <*><*>.<*>} from Window{<*> u0 <*><*>.<*> EXITING},3
+a3cf9c29,Process <*> (pid <*>) has died: <*> <*>,29
+0e3fe2ef,Killing <*>:<*>:sandboxed_process0:<*>:<*><*> (adj <*>): isolated not needed,3
+e5147ced,Failed to stat(<*>): <*>: stat failed: ENOENT (No such file or directory),4
+bfb45ca7,Skipping unknown process pid <*>,4
+71fc6597,Activity pause timeout for ActivityRecord{<*> u0 <*><*>.<*> t151 f}},1
+09591619,Can't find TaskDisplayArea to determine support for multi window. Task id=<*> attached=false,7
+c2d709df,Killing <*> (adj <*>): kill to reserve free memory,20
+c186a444,Failed looking up window session=Session{<*> <*> callers=<*>:<*> <*> <*>,2
+f61eea91,Scheduling restart of crashed service <*> in <*> for <*>,19
+ce87d15d,Unexpected activity event reported! (<*><*>.<*> event : <*> instanceId : <*>),11
+141723ac,Got obituary of <*>,20
+ad2b6ffc,The activity is N or above and claims to support resizeable-activity. Crop-rotate-scale is disabled.,5
+607c6212,WIN DEATH: Window{<*> u0 <*><*>.<*>},6
+31b44103,SURFACE hide Surface(name=Splash Screen <*>)/@<*> on display:<*>,5
+2420d95c,Client disconnected,1
+afeae570,Application <*> when creating service ServiceRecord{<*> u0 <*><*>.<*>},1
+31908932,Exception when starting service <*><*>.<*>,1
+d040c7f0,at <*>(Native Method),34
+c84d1731,WIN DEATH: null,1
+d4839b5b,Unable to start service Intent { act=<*> pkg=<*> } U=<*>: not found,3
+5b68d7ac,Unbind failed: could not find connection for <*>@<*>,3
+b3b5e3f7,No permission grants found for <*>,102
+c9f6f7a0,Background execution not allowed: receiving Intent { act=<*> dat=content:/<*> flg=<*> } to <*><*>.<*>,5
+4afbfe1a,onPackageModified(packageName = <*>),7
+fd3edde5,DefaultDialerCache: Refreshing default dialer for user <*>: now <*>: <*>,7
+0e4b3167,<*> is exempt from freezer,5
+20839fbb,START u0 {act=<*> dat=content:/<*> typ=image<*> pkg=<*> cmp=<*>/.pager.HostPhotoPagerActivity (has extras)} from uid <*>,1
+9679d8c0,"Slow operation: 56ms so far, now at attachApplicationLocked: after updateOomAdjLocked",1
+a4927dd9,Removing <*> content provider:<*>@<*>,10
+797b4e4e,START u0 <*> <*> <*> <*> from uid <*>,8
+cb442e4f,Slow delivery took <*> <*> <*> c=<recycled PooledLambda@<*>> m=<*>,2
+d5f312ac,Window length <*> too long; limiting to <*> day,2
+f36d2659,Loading provider <*>: <*>,1
+9f344718,Request to remove task ignored for non-existent task <*>,1
+6e31d129,applyImeVisibility setVisible = <*> mCurClient = ClientState{<*> uid=<*> pid=<*> displayId=<*>},3
+917fbf75,Duplicate finish request for r=ActivityRecord{<*> u0 <*><*>.<*> t160 f}},1
+1f0dbf42,START u0 {act=<*> dat=olxapp:/<*>?keyword=apartamento&category=<*>&keep_location=true flg=<*> cmp=<*><*>.<*> (has extras)} from uid <*>,1
+aa13e49a,Removing uids <*><*>,6
+36f2c6b8,Suppressed redundant power key press while already in the process of turning the screen on.,1
+eece268d,Screen on took <*> ms,1
+9d70dda5,"onAuthenticated(true), ID:<*>, Owner: <*>, isBP: false, listener: <*>@<*>, requireConfirmation: false, user: <*>, clientMonitor: {[<*>] FingerprintAuthenticationClient, proto=<*>, owner=<*>, cookie=<*>, userId=<*>}, displayId: <*>",1
+ee4422b0,Killing <*>:<*>:sandboxed_process0:<*>:<*><*> (adj <*>): excessive cpu <*> during <*> dur=<*> limit=<*>,1
+f73b325e,Killing <*>:<*><*> (adj <*>): depends on provider <*>/.ModelContentProvider in dying proc <*> (adj -<*>),1
+73bdef87,Skipping deliver [background] BroadcastRecord{<*> u<*> <*>} to ReceiverList{<*> <*> <*><*> remote:<*>}: process gone or crashing,1
+2c61b1d1,"WiFi energy data was reset, new WiFi energy data is WifiActivityEnergyInfo{ mTimeSinceBootMillis=<*> mStackState=<*> mControllerTxDurationMillis=<*> mControllerRxDurationMillis=<*> mControllerScanDurationMillis=<*> mControllerIdleDurationMillis=<*> mControllerEnergyUsedMicroJoules=<*> }",3
+8d7d91c4,A resource failed to call <*>,26112
+ab243bc3,In wakeup_callback: resumed from suspend,42
+d472f22b,"mn78_get_config::SensorType = <*>, sample rate = <*>, report rate = <*> *num_clients = <*>",122
+a2fbcc6f,<*> <*> = <*> = <*>,65
+ddd673a2,"mn78_set_lsensor_intr_threshold - rc=<*>, low_thd = <*>, high_thd = <*>",84
+be331bb8,mn78_send_last_data: -------------------  fac_cal_client_present=<*>,61
+1d102c74,Chime Filter is invoked.,1
+6468ee57,Dropping with reason: SILENT_NOTIFICATION,1
+3c32d937,(REDACTED) Finished Broadcast execution [%d].,1
+eca0cc75,GCM push is empty or missing raw_data_key.,1
+842168c6,#parsePushMessage: Got null rawMessage.,1
+556160ad,#onReceive: Did not receive a valid GsaPushMessage.,1
+6873a7b5,broadcast intent callback: result=CANCELLED forIntent { act=<*> pkg=<*> (has extras) },1
+b4e7d82f,Forked child process <*>,14
+a17d7249,Using CollectorTypeCC GC.,15
+2ccda5aa,Not starting debugger since process cannot load the jdwp agent.,13
+1c1f6c0e,Binder ioctl to enable oneway spam detection failed: Invalid argument,318
+c7e6d383,"mn78_sensor_read_als data=<*>, cmp h = <*>, l = <*>, int_flag = <*>,cmp_rstn = <*>, lock = <*>,als_sat = <*>,als channel <*> = <*>,als channel <*> = <*>,als channel <*>= <*>",63
+6452cf41,<*> als: int_flag = <*> ps: int_flag = <*>,63
+1121773b,"mn78_sensor_intr_als_set_thd raw=<*>, mn78_als_intr_thd_percent=<*>",28
+6aae67fd,"mn78_sensor_als_report: lux=<*>, ch1=<*>, state->als_info.scale =<*>",28
+84a0d7bf,"mn78_sensor_ps_report:state->ps_info.ps_last_report  = far , state->ps_info.pdata=<*>,state->ps_info.cover_raw=<*>,state->ps_info.uncover_raw=<*>,low_threshold=<*>,high_threshold=<*>",28
+10671488,"Configuring <*> for other apk <*> target_sdk_version=<*>, <*> <*> <*>",43
+e4bb637f,Extending system_exposed_libraries: <*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>:<*>,24
+47be0d78,"WARNING, no carrier configs on phone Id: <*>",20
+c70db067,chargerType=<*> batteryLevel=<*> totalBatteryCapacity=<*>,20
+16ded90a,Unable to open <*> No such file or directory,84
+9d50fc3c,Entry not found,15
+ae63f9f5,"Configuring clns<*> for other apk <*> target_sdk_version=<*>, uses_libraries=, <*>",5
+866e8818,ANGLE Developer option for <*> set to: 'default',14
+a8b6f394,Neither updatable production driver nor prerelease driver is supported.,14
+0c031566,Using Network Security Config from resource <*> debugBuild: false,8
+35cf1316,ClassLoader referenced unknown path:,5
+220243cd,Returning <*> NetworkInfo to uid=<*>,6
+96e7d2f6,"ClassLoaderContext classpath size mismatch. expected=<*>, found=<*> <*> | <*>",7
+d11c04a8,Successfully killed process cgroup uid <*> pid <*> in <*>,11
+f61eb8ea,setExactAndAllowWhileIdle [name: GCM_HB_ALARM type: <*> triggerAtMillis: <*>],8
+e98fe88c,#processIntentDefault,1
+241624f2,"releasing NetworkRequest [ REQUEST id=<*>, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: <*> RequestorUid: <*> RequestorPkg: com.whatsapp UnderlyingNetworks: Null] ] (release request)",1
+160f0e74,GCM_HB_ALARM release without a matched acquire!,4
+4d930744,Process <*> exited due to signal <*> (Killed),11
+de8de0a5,"App measurement initialized, version: <*>",1
+9d986a12,To enable debug logging run: adb shell setprop <*> VERBOSE,1
+3e51ded5,To enable faster debug mode event logging run:,1
+518bcbeb,adb shell setprop <*> com.zzkko,1
+daf56b1d,<*> Intent { act=<*> pkg=<*> },2
+039f5417,Loading bound service for intent: Intent { act=<*> pkg=<*> },1
+4f584e5b,Step <*>: GcsmState:handleClientEvent,1
+4a53734c,getLocaleToModelSpecsMap,5
+d25a708b,Fetching latest config from MDD...,5
+39f9ad54,(REDACTED) Found map of size: %d,5
+d963bbd8,Tag Manager is not found and thus will not be used,1
+8404e115,"(REDACTED) #takeChangeMicroDetectorMode [mIsBargeInEnabled: %b, mCurrentDetectionMode: %s]",1
+090e7092,(REDACTED) Should stop hotword detection immediately - %b,1
+f5d688ee,sensor or listener is null,16
+b618f103,Acquiring partial wakelock MotoDisplayWakeLock for <*> ms.,6
+a6d7be80,In wakeup_callback: suspend aborted,14
+1ae4f2aa,Releasing wakelock: MotoDisplayWakeLock,3
+f0270a16,No alerting: filtered notification: <*>,135
+40d7e9be,No pulsing: disabled by setting: <*>|com.zzkko|<*>|FCM-Notification:<*>|<*>,1
+7547ee23,Sbn doesn't contain valid PeopleTileKey: <*>,67
+7c53f974,No bubble up: not allowed to bubble: <*>|<*>|<*>|null|<*>,63
+b013cb67,Transmission is done.,3
+4761cd79,"Error inserting flex_time=<*> job_id=-<*> period=<*> source=<*> requires_charging=<*> preferred_network_type=<*> target_class=<*> user_id=<*> target_package=<*> tag=<*> task_type=<*> required_idleness_state=<*> service_kind=<*> source_version=<*> persistence_level=<*> preferred_charging_state=<*> required_network_type=<*> runtime=<*> retry_strategy={""maximum_backoff_seconds"":{""<*>"":<*>},""initial_backoff_seconds"":{""<*>"":<*>},""retry_policy"":{""<*>"":<*>}} last_runtime=<*> [CONTEXT service_id=<*> ]",3
+e21776a1,"<*>: UNIQUE constraint failed: pending_ops.tag, pending_ops.target_class, pending_ops.target_package, pending_ops.user_id (code <*> SQLITE_CONSTRAINT_UNIQUE)",3
+81456446,at <*> (<*><*>):<*>),660
+76c5d1b4,getMobileDataEnabled()+ subId=-<*>,33
+8befcb28,(REDACTED) getLastLocation() noteOp denied for %s,33
+9521d375,getMobileDataEnabled()- subId=-<*> retVal=false,33
+8f08dd0a,<*> tasks running slow,120
+e9f2cc75,"[Task=<*>] Slow task still running after <*> operation queue size <*>. <*> started,timedOut,delayMs=<*>}",152
+eb74fb74,A SQLiteConnection object for database '<*>.swperfi.tucandeira<*>.db' was leaked!  Please fix your application to end transactions in progress properly and to close the database when it is no longer needed.,194
+d4266150,"connection<*>; reason=OPERATION_TIMEOUT, operation=PING",1
+d1d9aaa0,DEBUG: <*>(WtLog.java:<*>) : Sending Alert : type : WARNING description : close_notify(<*>) exception :,1
+4fd4399f,INFO: <*>(WtLog.java:<*>) : Start handshake.,1
+46c54078,INFO: <*>(WtLog.java:<*>) : Handshake complete : session_resumed true early_data_sent false early_data_accepted false client_cert_requested false time_ms <*>,1
+6ba7b61c,<*> Intent { act=<*> dat=chimera-action: <*> },6
+21a1f805,Job(dynamite-action: SharedApiName(<*>)__SHARED_API_GET_ALL_ROOMS_INTEGRATION_SETTINGS#<*>.<*>) Enqueued job 'dynamite-action: SharedApiName(<*>)__SHARED_API_GET_ALL_ROOMS_INTEGRATION_SETTINGS' failed,1
+e3f24f4f,<*>: Waiting for world sync when sync engine is not started!,2
+dd9ecb6c,FutureCallbacks: Failed to run room tasks purge,1
+fbd784c6,[<*>:<*>:<*><*>.<*>:VERBOSE1:cronet_url_request_adapter.cc(<*>)] New chromium network request_adapter: <*>,8
+77c1a8c1,[<*>:<*>:<*><*>.<*>:VERBOSE1:cronet_url_request.cc(<*>)] Starting chromium request: <*> priority: MEDIUM,8
+6d41540c,[<*>:<*>:<*><*>.<*>:VERBOSE1:network_delegate.cc(<*>)] NetworkDelegate::NotifyBeforeURLRequest: <*>,20
+b01b88b5,[<*>:<*>:<*><*>.<*>:VERBOSE1:conservative_dispatch_strategy.cc(<*>)] GetTargetURL replace host: <*>,8
+6f2e8585,[<*>:<*>:<*><*>.<*>:VERBOSE1:tt_net_common_tools.cc(<*>)] GetTraceId trace_id: <*>,12
+ab27100d,[<*>:<*>:<*><*>.<*>:VERBOSE1:host_resolver_manager.cc(<*>)] GetEffectiveFlagsAndType prefer_address_family: <*>,32
+09a8ad28,"requestNetwork for uid<*>:<*><*> activeRequest: null callbackRequest: <*> [NetworkRequest [ REQUEST id=<*>, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: <*> RequestorUid: <*> RequestorPkg: <*> UnderlyingNetworks: Null] ]] callback flags: <*> order: <*>",2
+6f122267,"got request NetworkRequest [ REQUEST id=<*>, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: <*> RequestorUid: <*> RequestorPkg: <*> UnderlyingNetworks: Null] ]",8
+bf4db4af,enqueueKPIBatchForTransmission,1
+71106bf0,Start logging time for trigger Type: GLANCE_GESTURE GlanceType: GLANCE_GESTURE_MOVEMENT,2
+862c14b6,Glance Sensor Event Gesture Type: <*>,2
+92cdba79,pulse - trigger: Type: GLANCE_GESTURE GlanceType: GLANCE_GESTURE_MOVEMENT isPulsing: false isPaused: false,2
+844e4427,Permission failure: <*> from uid=<*> pid=<*>,20
+1ddbf264,"batch:<*>, <*><*>, period=<*>, max_latency=<*>",27
+c7c30f8c,"set_config:<*>, sample_period_ns is adjusted to <*> based on min<*> delay_ns",27
+cb3bfc96,"batch:<*>, <*><*>, period=<*>, max_latency=<*> request completed",27
+1b53a0de,"activate:<*>, <*><*> en=<*>",18
+5f4ae484,"get_qmi_debug_flag:<*>, support_qmi_debug : false",9
+c690a9bf,"activate:<*>, <*><*> en=<*> completed",18
+013048bd,"flush:<*>, <*><*>",10
+c6162a17,"flush:<*>, <*><*> completed",10
+0abafcf6,<*> <*> = <*>,24
+28259cb3,MotoDisplayCallback <*>,9
+1b3b987e,notifyDrawn,2
+ecd2a128,"Viewport [<*>] to add: local:<*>, isActive: <*>",3
+179f0330,Time elapsed since sensor trigger Type: GLANCE_GESTURE GlanceType: GLANCE_GESTURE_MOVEMENT is <*> ms,2
+af42b116,"Reconfiguring input devices, changes=DISPLAY_INFO |",3
+3f804fe7,"The weather info has not change, does not need to be updated. mTempF=-<*> iconNumber=-<*>",2
+2cb04b7f,msg.what = <*>,46
+6ebf012f,HWCSession::SetPowerMode: disp_id: <*> power_mode: <*>,3
+cc58aa66,"Device reconfigured: id=<*>, name='NVTCapacitiveTouchScreen', size 720x1600, orientation <*>, mode <*>, display id <*>",2
+5ba365ad,(REDACTED) FastPairDisplayObserver: %s -> %s,6
+8661cad7,"DisplayBase::SetDisplayState: Set state = <*>, display <*><*>, teardown = <*>",3
+6af876db,"(REDACTED) FastPairScanner: isScreenOn=%s, isLocationEnabled=%s, disableLocationRequirement=%s, isDiscoveryScanningEnabled=%s, during24GhzWifiWarmingUpPeriod=%s",5
+9faf7351,isLeEnabled(): BLE_ON,16
+f7b21b0b,"(REDACTED) FastPairScanner: eventType=%s, intReq=%s, scanning=%s, scanAllowed=%s, bleEnabled=%s, lockScanRate=%s, startScanningByLowPowerMode=%s",4
+225f460c,(<*>) <*>,6
+8708f496,"(REDACTED) [MBleClient] Start ble scanning from %s, context tag = %s",4
+bbae2dd9,stopScan() - queue size =<*>,4
+1d0d55f4,stop scan,3
+9f0a3cc9,unregisterScanner() - scannerId=<*>,4
+020a2f19,"(REDACTED) [MBleClient] M hardware scan: %d clients, scanMode= %s, filters size = %s",4
+8280bb87,registerScanner() - <*>,6
+282b1839,BTM_BleObserve Observe <*> <*>,3
+24111387,[INFO:gatt_api.cc(<*>)] GATT_Register <*>-<*>-<*>-<*>-<*>,6
+fec5d280,[INFO:gatt_api.cc(<*>)] allocated gatt_if=<*>,6
+420c9aab,"onScannerRegistered() - <*> scannerId=<*>, status=<*>",6
+cf19949e,onScannerRegistered() - status=<*> scannerId=<*> mScannerId=<*>,6
+8ca758c4,start scan with filters. callingPackage: <*>,6
+20ac8f42,"enforcePrivilegedPermissionIfNeeded([BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=<*><*><*><*>-<*>, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=null, mServiceData=null, mServiceDataMask=null, mManufacturerId=-<*>, mManufacturerData=null, mManufacturerDataMask=null, mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false, BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=<*><*><*><*>-<*>, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=null, mServiceData=null, mServiceDataMask=null, mManufacturerId=-<*>, mManufacturerData=null, mManufacturerDataMask=null, mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false, BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=<*><*><*><*>-<*>, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=null, mServiceData=null, mServiceDataMask=null, mManufacturerId=-<*>, mManufacturerData=null, mManufacturerDataMask=null, mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false, BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=null, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=null, mServiceData=null, mServiceDataMask=null, mManufacturerId=<*>, mManufacturerData=[<*>, <*>], mManufacturerDataMask=[-<*>, -<*>], mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false])",4
+b4ab42b3,handling starting scan,6
+8e829e30,<*> false,62
+5d42694f,keep callback message for reclaim,2
+e56c4646,Setting power mode <*> on display <*>,3
+a9a70856,SerialClockVote: vote for UART CLK <*>,12
+c4256fcf,<*> wakelock is <*>,12
+d037ab8d,DeviceWakeUp: Writing IBS_WAKE_IND,6
+22dd38da,ProcessIbsCmd: Received <*> <*>,20
+84f16074,ProcessIbsCmd: Writing IBS_WAKE_ACK,7
+23a2f299,Finished setting power mode <*> on display <*>,3
+1b52dc3f,Excessive delay in setPowerMode(),3
+6b8484cf,"onScanFilterEnableDisabled() - clientIf=<*>, status=<*>, action=<*>",3
+55bb15bc,callback done for scannerId - <*> status - <*>,31
+ca607913,Available Filter size: <*>,3
+967f2ccf,[INFO:btm_ble_adv_filter.cc(<*>)] BTM_LE_PF_set UUID MASK is empty,6
+f1ffdaa9,"onScanFilterConfig() - clientIf=<*>, action = <*> status = <*>, filterType=<*>, availableSpace=<*>",10
+7fa848ae,"configureFilterParamter <*> <*> <*> <*>, deliveryMode=<*>",10
+430343ad,"onScanFilterParamsConfigured() - clientIf=<*>, status=<*>, action=<*>, availableSpace=<*>",18
+c178b7f9,configureRegularScanParams() - queue=<*>,5
+187a4df1,configureRegularScanParams() - ScanSetting LE 1M Scan <*> LE Coded Scan <*> <*> <*>,5
+d0f4ebfd,configureRegularScanParams - scanInterval LE 1M = 4096configureRegularScanParams - scanWindow LE 1M= 4096configureRegularScanParams - scanInterval LE Coded= 4096configureRegularScanParams - scanWindow LE Coded= <*>,2
+9814f9b1,onScanParamSetupCompleted : <*>,3
+78d3d1d6,"Oem Hook header type <*>, requestCode <*>",6
+38c46aaf,"qcrilUpdRegRAT, called , rat =<*>",8
+60952cd3,[<*>]processOemHookResponse serial no: -<*> error: 0length=<*>,6
+702d5674,[<*>]Unexpected serial number in solicited response!serial: -<*> error: <*>,6
+39d39ffd,onNrIconType slotId = <*> NrIconType = NrIconType: <*>,4
+268d7158,: handleMessage msg.what = <*>,4
+613fd759,: EVENT_ON_NR_ICON_TYPE,4
+16396c00,onNrIconType: Responding back for transaction = null,8
+042f91dd,UNIMPLEMENTED: onNrIconType: slotId = <*> token = Token: -<*> status = Status: <*> NrIconType = NrIconType: <*>,4
+2b0adcb9,"Background young concurrent copying GC freed <*> AllocSpace objects, <*> LOS objects, <*>% free, <*> paused <*> total <*>",9
+833b0db8,"requestModemActivityInfo: Sending result to app: ModemActivityInfo{ mTimestamp=<*> mSleepTimeMs=<*> mIdleTimeMs=<*> mTxTimeMs[]=[<*>, <*>, <*>, <*>, <*>] mRxTimeMs=<*>}",7
+86db4673,"mn78_sensor_min_pdata_caculate: idx=<*>, ch1=<*>, min_pdata_min=<*>, min_pdata_max=<*>",3
+3c9d7064,keystore2::watchdog: Watchdog thread idle -> terminating. Have a great day.,3
+91a3dbab,"DeviceSleep: TX Awake, Sending SLEEP_IND",6
+289711bd,"[<*>:<*>:<*><*>.<*>:VERBOSE1:url_request_json_log_visitor.cc(<*>)] {""ab_test"":{""hit"":[""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>""]},""base"":{""has_upload"":false,""is_pending"":true,""load_flags"":<*>,""load_state"":<*>,""method"":""GET"",""net_error"":-<*>,""network_isolation_key"":""null <*>",3
+11ea6443,[<*>:<*>:<*><*>.<*>:VERBOSE1:url_fetcher_core.cc(<*>)] ReleaseRequest request_ reset,4
+0234d25e,[<*>:<*>:<*><*>.<*>:VERBOSE1:cronet_context_adapter.cc(<*>)] HandleApiResult succ: <*> url: https:/<*>.<*><*>?host=<*>&ttl=<*>&aid=<*>&p=android&did=<*>&f=<*>&cache_stale_reason=<*>&cache_expire_time_delta=<*>&sdk_id=<*> tracecode:  request_start: <*> response_back: <*> response_complete: <*> request_end: <*> request_headers:  response_headers:,3
+45cb060a,"(REDACTED) getHotwordActive::active query: %s, watch: %s, devices connected: %s",3
+4b69b3c6,Treatment for Weblab MLS_ENABLE_LOB_INFORMATION_ANDROID_781641 is C_default,2
+71edb83e,Request System UI to turn display <*>,2
+77086f0e,disable<e i a s b h <*> c s > disable2<q i n >,17
+6db2aae1,Disabling NVTCapacitiveTouchScreen (device <*>) because the associated viewport is not active,1
+1c07d7fe,"configureRegularScanParams() - queue emtpy, scan stopped",2
+26fc0865,DisplayBase::SetVSyncState: Can't enable vsync when display <*><*> is powered off!! Defer it when display is active,1
+ca423706,[<*>:<*>:<*><*>.<*>:VERBOSE1:http_stream_factory_job_controller.cc(<*>)] GetAlternativeServiceInfoInternal disable_report_broken: <*>,7
+6cf98df5,Completed: <*>,4
+36ba02cc,"Running after 545811ms in queue: celloMaybeStartRepeatingPushTaskTimer_102374036{success,timedOut,duration=545812ms,delayMs=<*>,wait=545811ms}",2
+d3c61fa0,"Running after 564099ms in queue: celloMaybeStartRepeatingPushTaskTimer_97270442{not completed,timedOut,delayMs=<*>,wait=564099ms}",2
+899f9df2,Unicasting DHCPREQUEST ciaddr=<*> request=<*> serverid=null to <*>.<*>:<*>,1
+f5dee714,"Received packet: ee:b7:<*>:9b:bb:<*> ACK: your new IP <*>.<*>, netmask <*>.<*>, gateways [<*>.<*>] DNS servers: <*>.<*> <*>.<*> , lease time <*>",1
+57beddc9,Renewed lease: <*>@<*> DHCP server <*>.<*> Vendor info null lease <*> seconds Servername,1
+68b795fe,Scheduling <*> in <*>,3
+db8f1c03,Update current security type to <*>,1
+34916be1,<*> action: <*>,4
+573b4ced,"<*> Transports: WIFI Capabilities: NOT_METERED&INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED LinkUpBandwidth>=34922Kbps LinkDnBandwidth>=43427Kbps TransportInfo: <SSID: <unknown ssid>, BSSID: <*>:<*>:<*>:<*>:<*>:<*>, MAC: <*>:<*>:<*>:<*>:<*>:<*>, IP: <*>.<*>, Security type: <*>, Supplicant state: COMPLETED, Wi-Fi standard: <*>, RSSI: -<*>, Link speed: 433Mbps, Tx Link speed: 433Mbps, Max Supported Tx Link speed: 433Mbps, Rx Link speed: <*> Max Supported Rx Link speed: 433Mbps, Frequency: 5240MHz, Net ID: -<*>, Metered hint: false, score: <*>, isUsable: true, CarrierMerged: false, SubscriptionId: -<*>, IsPrimary: -<*>, Trusted: true, Restricted: false, Ephemeral: false, OEM paid: false, OEM private: false, OSU AP: false, FQDN: <none>, Provider friendly name: <none>, Requesting package name: <none><none>MLO Information: , Is TID-To-Link negotiation supported by the AP: false, AP MLD Address: <none>, AP MLO Link Id: <none>, AP MLO Affiliated links: <none>> SignalStrength: -<*> UnderlyingNetworks: Null]",4
+85b8d410,update link properties given null lp,1
+38bc988e,NullBinder for <*> triggering remote TransactionTooLargeException due to Service without Chimera impl,2
+bbf9e934,(REDACTED) FastPairHandler: Received action %s,3
+c063e66a,[<*>] ekm.handleMessage: RcsEngineImpl[DUAL_REG]:[<*>-<*>]>Handler: handleMessage processing <*> with [non-null]:RcsEngineImpl reference,6
+3574f9a6,"[<*>] eam.c: Connected state: [<*>], networkType: [WIFI]",2
+9b6050a1,[PhoneIntfMgr] getCarrierPrivilegeStatus: Invalid subId,4
+7daf89a9,"[<*>] <*> ProvisioningEngineDataRetriever: RCS Configuration storage in Bugle is disabled by p<*> flag, using ProvisioningEngineStateCacheUtil.getProvisioningConfigurationForGivenSimIfExist()",6
+89c15d98,<*> tasks that were running slow now completed,4
+ef93cb74,[Task=<*>] Slow task now completed after 608s. <*>,4
+9cc2bee1,"[<*>:<*>:<*><*>.<*>:VERBOSE1:url_request_json_log_visitor.cc(<*>)] {""ab_test"":{""hit"":[""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>""]},""base"":{""dispatched"":true,""has_upload"":true,""is_pending"":true,""load_flags"":<*>,""load_state"":<*>,""method"":""POST"",""net_error"":-<*>,""network_isolation_key"":""null null"",""origin_url"":""https:/<*>.tiktokv.com<*>/"",""redirect_info"":[{""code"":<*>,""internal"":true,""method"":""POST"",""url"":""https:/<*>.tiktokv.com<*>/""}],""redirect_times"":<*>,""redirecting_list"":[""https:/<*>.tiktokv.com""],""status"":""FAILED"",""traffic_annotation"":<*>,""traffic_path"":""default""},""dns"":{""action"":-<*>,""action_hit"":<*>,""address_list"":[""<*>:<*>"",""<*>:<*>"",""<*>:<*>"",""<*>:<*>""],""async_batch_httpdns"":<*>,""cache_source"":-<*>,""cache_stale_reason"":<*>,""from_stale_cache"":<*>,""hijacked_error"":<*>,""is_auth"":<*>,""nameservers"":[],""net_type"":<*>,""preload_batch_httpdns"":<*>,""queried_with_cip"":"""",""race_dns_stale_cache"":<*>,""skip_prefer_ip_error"":<*>,""source"":<*>,""task_info"":[{""type"":<*>},{""batch_httpdns"":false,""duration"":<*>.<*>,""net_error"":-<*>,""type"":<*>},{""duration"":<*>.<*>,""net_error"":-<*>,""os_error"":<*>,""type"":<*>},{""type"":<*>}]},""event"":{""engine_startup"":<*>.<*>,""network_change"":<*>.<*>},""header"":{""x-tt-trace-id"":""<*>-<*>-<*><*>""},""ifconfig"":{""ipv4_reachable"":true,""ipv6_reachable"":false},""multinetwork"":{""active_network_list"":[""WiFi""],""cell_activate_duration"":<*>,""mn_state"":<*>,""support_multinetwork"":<*>},""nqe"":{""bs_sys_state"":false,""downlink_throughput"":<*>,""effective_net_type"":<*>,""group_rtt_estimate"":[],""http_rtt"":<*>,""pending_requests"":""<*>"",""real_net_type"":<*>,""tcp_rtt"":<*>,""total_requests"":""<*>""},""other"":{""core_ver"":""<*>"",""gateway"":""<*>"",""is_background"":true,""is_internal_retry"":false,""is_main_process"":true,""libcore"":""cronet"",""net_thread_priority"":<*>,""quic_commit"":""<*><*>"",""resume_time"":""<*>"",""retry_attempts"":<*>,""ttnet_build_timestamp"":""<*>"",""ttnet_version"":""<*>"",""version"":""<*><*>""},""response"":{""cached"":false,""code"":-<*>,""connection_info"":<*>,""network_accessed"":true,""received_bytes"":<*>,""sent_bytes"":<*>,""via_proxy"":false},""session"":{""Cookie"":true},""socket"":{""address_family"":<*>,""cip"":"""",""connection_attemps"":[{""address"":""<*>:<*>"",""result"":-<*>},{""address"":""<*>:<*>"",""result"":-<*>},{""address"":""<*>:<*>"",""result"":-<*>},{""address"":""<*>:<*>"",""result"":-<*>}],""happy_eyeballs_result"":<*>,""remote"":"""",""socket_reused"":false},""socketpool"":{""assign_type"":<*>,""consume_time"":<*>,""is_backup_job"":false,""pending_reason"":<*>,""pending_time"":<*>,""reuse_type"":<*>,""socket_idle_time"":<*>.<*>},""ssl"":{""cert_status"":<*>,""connection_status"":<*>,""handshake_type"":<*>,""is_issued_by_known_root"":false},""store_idc"":{""init"":<*>,""local_region"":""br"",""region"":""br"",""source"":""uid"",""update_region"":""<*>/,<*>,br,uid""},""timing"":{""detailed_duration"":{""before_start"":<*>,""before_stream"":<*>,""body_recv"":-<*>,""connect_delay"":<*>,""create_stream"":-<*>,""dispatch"":<*>,""dns"":<*>,""get_cookie"":<*>,""header_recv"":-<*>,""proxy"":<*>,""request_delay"":<*>,""sandbox"":<*>,""security_callback"":<*>,""send"":-<*>,""set_cookie"":<*>,""ssl"":-<*>,""tcp"":-<*>,""ttfb"":-<*>},""request"":{""cache_transaction_start"":<*>.<*>,""create_stream_finish"":<*>.<*>,""create_stream_start"":<*>.<*>,""duration"":<*>,""http_transaction_start"":<*>.<*>,""request_sent_time"":<*>.<*>,""response_recv_time"":<*>.<*>,""start_time"":<*>.<*>,""wait_ctx"":<*>.<*>}},""tnc"":{""data"":{""canary"":""<*>"",""cold_start"":<*>,""config"":""epoch:<*>|cond_label:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>|dispatch:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>",1
+38efa68f,[<*>:<*>:<*><*>.<*>:VERBOSE1:url_dispatcher.cc(<*>)] Notify action priority:<*> sign:<*>,8
+37ffbd3e,[<*>:<*>:<*><*>.<*>:VERBOSE1:cronet_url_request.cc(<*>)] Error net::ERR_TTNET_APP_TIMED_OUT on chromium request: https:/<*>.tiktokv.com<*>/?sdk_version=<*>&sdk_version=<*>&app_language=pt&app_type=normal&app_version=<*>&channel=googleplay&device_type=moto+g%<*>%<*>&language=pt&resolution=<*>*<*>&oversea=<*>&minor_version=<*>&effect_version=<*>&update_version_code=<*>&cdid=<*>-<*>-<*>-<*>-<*>&sys_region=BR&uoo=<*>&timezone_name=America%2FBoa_Vista&residence=BR&ac=wifi&device_id=<*>&tt_data=a&version_code=<*>&ab_version=<*>&device_platform=android&region=BR&host_aid&manifest_version_code=<*>&_rticket=<*>&current_region=BR&iid=<*>&host_abi=arm64-v8a&locale=pt&openudid=<*>&content_language=en%2Ces%2Cpt%2C&is_pad=<*>&ac2=wifi5g&os_api=<*>&dpi=<*>&os=Android&os_version=<*>&timezone_offset=-<*>&sdkmonitor_version=<*>&bytesync_sdk_version=<*>&app_name=musical_ly&version_name=<*>&device_brand=motorola&op_region=BR&ssmix=a&package_name=<*>&build_number=<*>&ts=<*>,1
+0ad0c605,[INFO:btm_ble_bgconn.cc(<*>)] Already connection initiated (or) No Pending connections(or) Resources of lcb are exhausted,1
+4616e38d,"Power setBoost: <*>, duration: <*>",86
+eead2a0c,Power setMode: <*> to: <*>,7
+248df59f,"handle_sns_client_event:<*>, mot_disprot_event: now=<*> ts=<*>, type=<*>, status=<*>",8
+254296d0,Got set_interactive hint,1
+b964e247,"Got set_interactive hint on= <*>, count= <*>",1
+cf5b6eb6,Error opening <*>: No such file or directory,1
+6f47db75,updateQsExpansionEnabled - QS Expand enabled: true,4
+c54dede9,mMotoDisplayService.hide <*>$Stub$Proxy@<*>,1
+6959c998,onDestroy: isFolioActive = false,1
+d96a26d7,Doze machine is destroyed,1
+b593002c,<*> for IAudioFlinger command <*> endTime <*>,2
+eb6c577f,<*> enter: screen_state=on,2
+425a8035,platform_set_parameters: exit with code(<*>),1
+90fe7d27,adev_set_parameters: exit with code(<*>) takes <*>.<*> ms,1
+cc3a007b,finishScreen,1
+2e3543c9,onDestroy,1
+9f9a0777,"deactivate:<*>, deactivate glance <*>",1
+c031d0c1,DisplayExtnImpl::SetActiveConfig: HWC Display <*> is not registered!,15
+c651c4a1,onSurfaceTextureDestroyed,1
+10893eaa,stop(<*>),1
+45ab0e8f,resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false,2
+ab070938,cleanDrmObj: mDrmObj=null mDrmSessionId=null,2
+c8a7fb93,reset(<*>) at state <*>,1
+85b6a22e,HWDeviceDRM::UpdateMixerAttributes: Mixer WxH 720x1600<*> for Peripheral,15
+0a624af6,HWCDisplay::SubmitDisplayConfig: Active configuration changed to: <*>,15
+1bfe6b63,omx_vdec::component_deinit() complete,2
+6e14c77d,Exit OMX vdec Destructor: fd=<*>,2
+e2e8439d,DeviceStatusMonitor.handleBroadcast():<*> onReceive() : Action = <*>,1
+daff0adb,"<*> <*> surface <*>, reason <*>",3
+e5524627,"DeviceStatusMonitor.updateCountryInfo():<*> updateCountryInfo(), notifyAnyway = false",1
+aa9b6cb8,flushMediametrics,1
+56fc6781,ScreenOnOffReceiver.onReceive [<*>],1
+c97ad6f5,notifyResetComplete(<*>),1
+50afb6df,failed to post message as target looper for handler <*> is gone.,2
+6709c517,receiver is already disconnected,2
+b75a09a3,Input channel object '<*> <*> (client)' was disposed without first being removed with the input manager!,2
+9ad42efa,Send device is interactive,1
+5fa73153,onListenerDisconnected - DisplayNotificationListenerService,1
+a5d3baaf,"releasing NetworkRequest [ REQUEST id=<*>, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: <*> RequestorUid: <*> RequestorPkg: <*> UnderlyingNetworks: Null] ] (release request)",3
+6efd39a4,"(REDACTED) FastPairScanner: Start scanning internally, %s",1
+79397d68,#<*> The webview is destroyed. Ignoring action.,12
+181cc0b2,"enforcePrivilegedPermissionIfNeeded([BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=null, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=<*><*><*><*>-<*>, mServiceData=[<*>], mServiceDataMask=[<*>], mManufacturerId=-<*>, mManufacturerData=null, mManufacturerDataMask=null, mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false, BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=null, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=<*><*><*><*>-<*>, mServiceData=[<*>], mServiceDataMask=[<*>], mManufacturerId=-<*>, mManufacturerData=null, mManufacturerDataMask=null, mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false])",1
+c7f1af9d,"(REDACTED) FastPairScanner: Start scanning, mode=%s",1
+298b5ef9,FastPairController: onSystemStateChanged: skip due to flag disabled [CONTEXT service_id=<*> ],2
+e7b8f668,DeviceInteractiveBroadcastReceiver: Received <*> request.,1
+732c55ef,"AppVisibilityTracker: old visibility DEVICE_INACTIVE_IN_BACKGROUND, new visibility DEVICE_ACTIVE_IN_BACKGROUND",1
+d143a0b0,Sync Framework: not rescheduling the periodic sync request; same parameters as before. App is inactive.,1
+46553a36,enqueueBatchForTransmission - enqueueBatchForTransmission;,1
+8304bed9,"Battery Info: BatteryInfo{Status=DISCHARGING, Health=GOOD, Power source=NOT_PLUGGED, Level=<*>.<*>, Temperature=<*>, Voltage=<*>}",1
+4c66e5fb,Enabling download throttling. Screen awake.,1
+e59d1fde,Received Request@<*>[GET https:/<*>.<*><*>?<REMOVED>&deviceTypeID=A43PXU4ZN2AL1&firmware=fmw%<*>-app%<*>&format=json&osLocale=pt_BR&responseFormatVersion=<*>&softwareVersion=<*>&uxLocale=pt_BR&version=<*>] from thread HeuristicsConfigurationScheduler<*>,1
+104a34cd,"addBatch to BoundedBatchQueue, then write to disk file...",1
+394ebe3b,acquireWifiLock uid=<*> lockMode=<*> packageName=<*>,1
+ddfb1e26,batch <*> to file: 1704676727865_us-east-1_0001,1
+0090a6e1,ConnectivityChecker: Network state changed: <*> --> <*>,2
+4d5c5de7,"Waited more than <*> ms, reset qualification counter",1
+f3df84f4,"fpc_tee_capture_image_internal, finger down",1
+d4285d51,"fpc_tee_capture_image_internal, start capture",1
+b950b33d,<-- fpc_tee_capture_image_with_time,1
+e478c3b8,fpc_tee_identify_image_status,1
+5b77557a,"fpc_tee_identify_image_status: coverage: <*>, quality: <*>",1
+8cad83b2,"do_authenticate capture_status: <*>, identify_status: <*>,<*>  id: <*>",1
+f67275f4,"do_authenticate,  min_fq: <*>, quality: <*>:<*>  coverage: <*>",1
+afd70043,fpc_tee_get_auth_result,1
+2588f991,"onAcquired(code=<*>, vendor=<*>)",1
+c31a276c,"onAuthenticated(fid=-<*>, gid=<*>)",1
+3021c113,checkin file size = <*>,1
+05297f3f,open temp file failed,1
+1c93b279,fpc_tee_update_template,1
+79272ae6,Vibrator on for timeoutMs: <*>,2
+2907696f,Starting on on another thread,2
+bd4233fb,onAuthenticationSucceeded,1
+4f9541ab,"keystore2::authorization: on_lock_screen_event(LockScreenEvent(<*>), user_id=<*>, password.is_some()=false, unlocking_sids=Some([<*>]))",3
+c55290ee,startWakeAndUnlock(<*>),1
+4dcf17db,fpc_write_db_blob_to_file Successfully wrote template database <*>.db.bak,1
+22479269,fpc_navigation_resume,1
+6303f530,fpc_worker_run_task,1
+5ce3c94e,nav_loop,1
+a0770bc8,Notifying on complete,2
+ed050860,QTI Vibrator off,2
+9c4f4dea,mHideAnimationFinishedRunnable#run,1
+47f86174,"Call PhoneWindowManager's keyguardGoingAway, expect PhoneWindowManager to call startKeyguardExitAnimation",1
+6daf781f,nav_loop FPC_NAV_REQUEST_WAIT_IRQ_HIGH,3
+6d7cd8e2,can't hide: mMotoDisplayService has been null,1
+9afb0a9b,Re-creating the QAW client to avoid stale.,1
+15dab819,onStartedActivityChange: componnent: ComponentInfo{<*><*>.<*>} entered launcher screen? <*>,7
+84363a69,keystore2::super_key: In try_unlock_user_with_biometric: Successfully unlocked with biometric,2
+f5121709,keystore2::super_key: Locking screen bound for user <*> sids [<*>],1
+6d1ad1ca,onResumedActivityChange: entered? <*> componnent: ComponentInfo{<*><*>.<*>},7
+e8a621a3,got the req here! ret=<*>,1
+7b2c1def,"command id, time_cmd_id = <*>",1
+ae3c2e84,time_getutcsec <*>,2
+37c4956d,QSEE Time Listener: <*>,3
+1c2e6255,QSEE Time Listener: Checking if ATS_MODEM is set or not.,1
+05bb7d32,Lib:time_genoff_operation: Send to server  passed!!,1
+2727df26,Daemon: Connection accepted:time_genoff,1
+c169f5af,"Daemon:Received base = <*>, unit = <*>, operation = <*>,value = <*>",1
+227e6660,"Daemon:genoff_opr: Base = <*>, val = <*>, operation = <*>",1
+40c84fc8,offset is: <*> for base: <*>,1
+315ab502,"Receive Passed == base = <*>, unit = <*>, operation = <*>, result = <*>",1
+65045f03,QSEE Time Listener: ATS_MODEM is not set. Fallback to Android system time.,1
+08556cbb,QSEE Time Listener: Retrieved Android system time: <*>,1
+e6f8e61c,"time_getutcsec returns <*>, sec = <*>; nsec = <*>",1
+45e2fcba,Daemon: Time-services: Waiting to acceptconnection,1
+9e54e712,iotcl_continue_command finished! and return <*>,1
+0b6aec8f,before calling ioctl to read the next time_cmd,1
+7c84d522,(REDACTED) onApplyWindowInsets: systemWindowInsets=%s,4
+93ee4c28,handleStartKeyguardExitAnimation startTime=<*> fadeoutDuration=<*>,1
+363d103e,onKeyguardVisibilityChanged(false),1
+5f371ea7,onStart,1
+11e798a7,"Davey! <*> Flags=<*>, FrameTimelineVsyncId=<*>, IntendedVsync=<*>, Vsync=<*>, InputEventId=<*>, HandleInputStart=<*>, AnimationStart=<*>, PerformTraversalsStart=<*>, DrawStart=<*>, FrameDeadline=<*>, FrameInterval=<*>, FrameStartTime=<*>, SyncQueued=<*>, SyncStart=<*>, IssueDrawCommandsStart=<*>, SwapBuffers=<*>, FrameCompleted=<*>, DequeueBufferDuration=<*>, QueueBufferDuration=<*>, GpuCompleted=<*>, SwapBuffersCompleted=<*>, <*>",2
+ddd53218,(REDACTED) <*> <*> %s,2
+b62b838b,disable<e i a s b h r!c s > disable2<q i n >,1
+c47e5423,exiting game mode,4
+9ab2bf02,"Disconnecting from SysUi, <*> <*> [IVR-C]",2
+8ff2266b,"Disconnecting from SysUi, VM not enabled [IVR-C]",1
+fc562074,No binding to unbind [IVR-C],1
+e4f504f4,Disconnected from SysUi [IVR-C],1
+a4f1e6f9,<*> intent = Intent { act=<*> flg=<*> },2
+14a0e0af,"GoogleInputMethodService.onStartInput():<*> onStartInput(EditorInfo{EditorInfo{packageName=<*>, inputType=<*>, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=<*>, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-<*>, initialSelEnd=-<*>, initialCapsMode=<*>, label=null, <*> fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)",5
+3843093c,"report_input_event - Reporting event type: <*>, code: <*>, value:<*>",6
+b45eca7f,Not blocking Service (<*>),2
+54477cd7,Invalid ID <*>.,42
+1703b836,<*> true,19
+3c2cda60,reset:,4
+b94dabef,Stopping <*> because Bluetooth is disabled. [CONTEXT service_id=<*> ],2
+50e743d3,Stopping Fast Init advertisement because Bluetooth is off. [CONTEXT service_id=<*> ],1
+c0875ca3,"<*> concurrent copying GC freed <*> AllocSpace objects, <*> LOS objects, <*>% free, <*> paused <*> total <*>",224
+60a412ec,[FidoV2EnrollmentController] Execute registerFor API,2
+a473d6d7,NotificationCenter$ListenerData.notifyOnExecutor():<*> Heavy notify work detected on UI thread: <*> takes <*>,5
+619358be,call: lightWakeup | null | null,1
+a985e964,(REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s,2
+d78e8cc1,"BluetoothAdapter's name was not set by Nearby Connections, ignoring call to restore default scan mode.",1
+6c312243,"BluetoothAdapter's name was not set by Nearby Connections, ignoring call to restore device name",1
+0a4ea78a,RCN is disabled on this network.,1
+e2c8afa1,(REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s,2
+63f933b5,ClipboardDataHandler.updateScreenshotsContentObserver():<*> Disable the feature of handling screenshots in the clipboard.,1
+1e4685c7,[HaveKeyWithKeyNameOperation] Have key with key name operation is called.,2
+96a6f6e3,Starting scanning for Fast Initiation. [CONTEXT service_id=<*> ],1
+e0087a2e,onResume,1
+670d7082,Skipped <*> frames!  The application may be doing too much work on its main thread.,6
+57970e12,"enforcePrivilegedPermissionIfNeeded([BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=null, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=<*><*><*><*>-<*>, mServiceData=[-<*>, <*>, -<*>], mServiceDataMask=null, mManufacturerId=-<*>, mManufacturerData=null, mManufacturerDataMask=null, mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false, BluetoothLeScanFilter [mDeviceName=null, mDeviceAddress=null, mUuid=<*><*><*><*>-<*>, mUuidMask=null, mServiceSolicitationUuid=null, mServiceSolicitationUuidMask=null, mServiceDataUuid=null, mServiceData=null, mServiceDataMask=null, mManufacturerId=-<*>, mManufacturerData=null, mManufacturerDataMask=null, mOrganizationId=-<*>, mTDSFlags=-<*>, mTDSFlagsMask=-<*>, mWifiNANHash=null], mGroupBasedFiltering=false])",1
+9b3a5ba6,EmojifyExtensionImpl.onCreate():<*> Creating Emojify extension gna@<*>.,1
+16527c3e,"No Network Security Config specified, using platform default",20
+e66cb6e3,(REDACTED) Started scanning for FastInitiation with mode: %s,1
+00b794a3,Loading bound service for intent: Intent { act=<*> dat=chimera-action: cmp=<*>/.chimera.GmsApiService },2
+83b90071,<*> <*> <*> has <*> [CONTEXT service_id=<*> ],2
+27781de1,"PlaybackAuthProvider: accountDirectedId is absent, fallback to using token for current profile.",1
+11a1e9a0,<*> executing task <*>,2
+2c7a06ea,nav_loop Got navigation event: <*>,1
+e995cfc9,nav_loop Navigation debug not enabled,1
+ba3bb14f,Scheduled running concurrent job GetActorToken:<*><*>.<*>.,1
+1b81f753,BackgroundThreadWriteSharedPreferences for <*> initializeMemCache() took <*> ms,2
+109165dc,Dismissing HUN as there's no device nearby. [CONTEXT service_id=<*> ],1
+75cc8d21,AbstractOpenableExtension.createKeyboardGroupManagerListenableFuture():<*> Create keyboard group manager listenable future in <*>,2
+33f33be6,KeyboardGroupDefParser.parseKeyboardGroupDef():<*> parseKeyboardGroupDef() <*> -> 0_resource_name_obfuscated : WaitTime = <*> ms : RunTime = <*> ms,3
+d245e6cc,listener created,1
+27b4188a,AccessPointsManager.removeAccessPoint():<*> The holder controller #<*> is not registered,1
+9e7ed113,"DeviceLockTags.notifyDeviceLockStatusChanged():<*> notifyDeviceLockStatusChanged(): deviceLocked=false, blockPersonalData=false",1
+dc875e56,"GoogleInputMethodService.updateDeviceLockedStatus():<*> repeatCheckTimes = <*>, locked = false",9
+cc4b9023,Created <*>@<*>(<*>@<*>),1
+efa7651d,"BearerTokenCache: BearerToken{key=TokenKey{account=xxaivxx, profile=xxaivxx}, success=xxaivxx, failure=null}",1
+cabb6240,[<*>:<*>:<*><*>.<*>:VERBOSE1:ssl_client_socket_impl.cc(<*>)] Init set session timeout for: <*>:<*>,7
+d90024b3,[<*>:<*>:<*><*>.<*>:VERBOSE1:spdy_session.cc(<*>)] SpdySession <*> interval: <*> s,5
+fd957b70,"[<*>:<*>:<*><*>.<*>:VERBOSE1:url_request_json_log_visitor.cc(<*>)] {""ab_test"":{""hit"":[""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>"",""<*>""]},""base"":{""has_upload"":false,""is_pending"":false,""load_flags"":<*>,""load_state"":<*>,""method"":""GET"",""network_isolation_key"":""null null"",""origin_url"":""https:/<*>.<*><*>"",""redirect_times"":<*>,""status"":""SUCCESS"",""traffic_annotation"":<*>,""traffic_path"":""default""},""dns"":{""action"":-<*>,""action_hit"":<*>,""address_list"":[""<*>:<*>""],""async_batch_httpdns"":<*>,""cache_source"":-<*>,""cache_stale_reason"":-<*>,""from_stale_cache"":<*>,""hijacked_error"":<*>,""is_auth"":<*>,""nameservers"":[],""net_type"":<*>,""preload_batch_httpdns"":<*>,""queried_with_cip"":"""",""race_dns_stale_cache"":<*>,""skip_prefer_ip_error"":<*>,""source"":<*>},""event"":{""engine_startup"":<*>.<*>,""network_change"":<*>.<*>},""header"":{""x-tt-trace-id"":""<*>-<*>-<*><*>""},""http2"":{""rfc_7540_error_code"":-<*>,""spdy_protocol_error"":-<*>},""ifconfig"":{""ipv4_reachable"":true,""ipv6_reachable"":false},""multinetwork"":{""active_network_list"":[""WiFi""],""cell_activate_duration"":<*>,""mn_state"":<*>,""support_multinetwork"":<*>},""nqe"":{""bs_sys_state"":false,""downlink_throughput"":<*>,""effective_net_type"":<*>,""group_rtt_estimate"":[],""http_rtt"":<*>,""pending_requests"":""<*>"",""real_net_type"":<*>,""tcp_rtt"":<*>,""total_requests"":""<*>""},""other"":{""core_ver"":""<*>"",""gateway"":""<*>"",""is_background"":true,""is_internal_retry"":false,""is_main_process"":true,""libcore"":""cronet"",""net_thread_priority"":<*>,""quic_commit"":""<*><*>"",""resume_time"":""<*>"",""retry_attempts"":<*>,""ttnet_build_timestamp"":""<*>"",""ttnet_version"":""<*>"",""version"":""<*><*>""},""response"":{""cached"":false,""code"":<*>,""connection_info"":<*>,""hpack_table_size"":<*>,""max_concurrent_streams"":<*>,""network_accessed"":true,""received_bytes"":<*>,""sent_bytes"":<*>,""via_proxy"":false},""session"":{""Cookie"":false},""socket"":{""address_family"":<*>,""cip"":"""",""connection_attemps"":[],""happy_eyeballs_result"":<*>,""remote"":""<*>:<*>"",""socket_reused"":false},""socketpool"":{""assign_type"":<*>,""consume_time"":<*>,""is_backup_job"":false,""pending_reason"":<*>,""pending_time"":<*>,""reuse_type"":<*>,""socket_idle_time"":<*>.<*>},""ssl"":{""cert_status"":<*>,""connection_status"":<*>,""handshake_type"":<*>,""is_issued_by_known_root"":true,""server_cert_common_name"":""<*>""},""store_idc"":{""init"":<*>,""local_region"":""br"",""region"":""br"",""source"":""uid"",""update_region"":""<*>/,<*>,br,uid""},""timing"":{""detailed_duration"":{""before_start"":<*>,""before_stream"":<*>,""body_recv"":<*>,""connect_delay"":-<*>,""create_stream"":<*>,""dispatch"":<*>,""dns"":<*>,""header_recv"":<*>,""proxy"":<*>,""request_delay"":<*>,""sandbox"":<*>,""security_callback"":<*>,""send"":<*>,""set_cookie"":<*>,""ssl"":<*>,""tcp"":<*>,""ttfb"":<*>},""request"":{""cache_transaction_start"":<*>.<*>,""create_stream_finish"":<*>.<*>,""create_stream_start"":<*>.<*>,""duration"":<*>,""http_transaction_start"":<*>.<*>,""request_sent_time"":<*>.<*>,""response_recv_time"":<*>.<*>,""start_time"":<*>.<*>}},""tnc"":{""data"":{""canary"":""<*>"",""cold_start"":<*>,""config"":""epoch:<*>|cond_label:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>|dispatch:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>|scheduling:<*>,<*>|ttregion:|common:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>|http2:<*>,<*>|preconnect:<*>|quic_hint:<*>|quic_params:<*>,<*>|ssl:<*>|localdns_timeout_map:|http_dns_addr:<*>,<*>,<*>|prefer_dns_ad",1
+30fc4916,[<*>:<*>:<*><*>.<*>:VERBOSE1:spdy_session.cc(<*>)] WritePingFrame key: <*>:<*> EnqueueSessionWrite PING frame,19
+04fbd31a,"[<*>:<*>:<*><*>.<*>:VERBOSE1:cronet_context_adapter.cc(<*>)] HandleApiResult succ: <*> url: https:/<*>.<*><*>?host=<*>&ttl=<*>&aid=<*>&p=android&did=<*>&f=<*>&cache_stale_reason=<*>&cache_expire_time_delta=<*>&sdk_id=<*> tracecode:  request_start: <*> response_back: <*> response_complete: <*> request_end: <*> request_headers:  response_headers: {""alt-svc"":""clear"",""content-length"":""<*>"",""content-type"":""application<*>"",""date"":""Mon, <*> Jan <*> <*>:<*>:<*> GMT"",""server"":""httpdns server"",""via"":""<*>.<*> google""}",1
+99287217,"FetchFromServer: (2307ms, #<*>) Completed Request@<*>[GET https:/<*>.<*><*>?<REMOVED>&deviceTypeID=A43PXU4ZN2AL1&firmware=fmw%<*>-app%<*>&format=json&osLocale=pt_BR&responseFormatVersion=<*>&softwareVersion=<*>&uxLocale=pt_BR&version=<*>]",1
+4afa8b69,releaseWifiLock uid=<*>,1
+140f0aeb,[<*>:<*>:<*><*>.<*>:VERBOSE1:spdy_session.cc(<*>)] SpdySession hit keepalive host: <*>:<*>,2
+b7b85e78,Updated default heuristics configuration,1
+74d34fd8,[<*>:<*>:<*><*>.<*>:VERBOSE1:tt_multi_idc_manager.cc(<*>)] local probe: <*>@<*>,7
+fee61825,"[<*>:<*>:<*><*>.<*>:VERBOSE1:url_request_json_log_visitor.cc(<*>)] <*> <*> dur=<*>, inner; <*>",7
+0487267b,"Subscribing callback, service count: <*>",2
+c709c50e,Starting intent with a launch animation,1
+fb6058bc,launchResult=<*> willAnimate=true isOnKeyguard=false,1
+e8349d86,getFreeFormPackages: adding all apps,3
+c2954722,onPause,1
+693bec4a,Remote animation started,1
+afff42de,Animation <*>,2
+62733287,configureRegularScanParams - scanInterval LE 1M = 730configureRegularScanParams - scanWindow LE 1M= 183configureRegularScanParams - scanInterval LE Coded= 730configureRegularScanParams - scanWindow LE Coded= <*>,1
+f499f4fa,bta_dm_ble_observe BTM_BleObserve  failed. status <*>,1
+139519fa,Feature disabled by config. Skipping,1
+95052073,Could not find Context-only controller for pref: <*>,16
+fbb53722,Unknown restriction queried by uid <*> (<*> et al): null,8
+95ddf9ac,Screen title missing for fragment <*>,1
+01970edb,"[<*>:<*>:<*><*>.<*>:VERBOSE1:ssl_client_socket_impl.cc(<*>)] NewSessionCallback match hardcode ip, not update ssl cache, host: <*>",2
+2b03cb45,InitLlndkLibrariesProduct: libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libRS.so:libandroid_net.so:libbinder_ndk.so:libc.so:libcgrouprc.so:<*>:<*>:<*>:libdl.so:libft2.so:liblog.so:libm.so:libmediandk.so:libnativewindow.so:libneuralnetworks.so:libselinux.so:libsync.so:libvndksupport.so:libvulkan.so,1
+585c9052,"Configuring product-clns<*> for unbundled product apk <*>.apk. target_sdk_version=<*>, uses_libraries=, library_path=<*>:<*>.apk!<*>:<*>:<*>, permitted_path=<*>:<*>:<*>.<*>:<*>:<*>",1
+bdc0a814,InitVndkspLibrariesProduct: <*>:<*>:<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:<*>@<*>:libRSCpuRef.so:libRSDriver.so:libRS_internal.so:libbacktrace.so:libbase.so:libbcinfo.so:libblas.so:libc++.so:libcompiler_rt.so:libcutils.so:libdmabufheap.so:libgralloctypes.so:libhardware.so:libhidlbase.so:libhidlmemory.so:libion.so:libjsoncpp.so:liblzma.so:libprocessgroup.so:libunwindstack.so:libutils.so:libutilscallstack.so:libz.so,1
+a4933d29,Unsubscribing callback,2
+25f7bcd0,Models given by config: <*>,1
+225e97b1,StrictMode policy violation: <*>,12
+1d435890,# via Binder call with stack:,12
+bb3d5ba5,"<*> observer: @<*>, uri: content:/<*>.<*><*>",4
+d5df7a35,Initialized TensorFlow Lite runtime.,1
+57e35f03,"Access denied finding property ""<*>""",1
+93e597f2,Successfully pushed app buckets to the platform using model <*>,1
+9a02c74b,Installing application,2
+fb14b3d5,VM with version <*> has multidex support,2
+7b57a528,"VM has multidex support, MultiDex support library is disabled.",2
+624cced0,"All preferences <*>, reporting fully drawn",3
+13cb1af8,"Primes not initialized, returning default (no-op) Primes instance which will ignore all calls. Please call Primes.initialize(...) before using any Primes API.",1
+57665329,ktb: FULL,1
+ebd7ef73,"Accessing hidden <*> <*> (max-target-o, reflection, denied)",15
+905282de,SslGuard completed installation.,2
+c2c10f90,time for <*> <*>,5
+fad49dc6,"platform method missing - proto runtime falling back to safer methods: <*>: <*> [class <*>, long, class <*>, long, long]",1
+1680d4d1,time for regular BatteryInfo: 13ms,1
+3637be76,BatteryInfoLoader post query: <*>,2
+2dcf6c21,Sync subscriptions not available,1
+f43c71c1,Suspending all threads took: <*>,8
+6a52cd76,BatteryInfoLoader.loadInBackground: <*>,2
+c8be3410,Sync is not initialized yet,2
+a8e54d7b,"QUALCOMM build                   : <*>, I07ee46fc66",1
+18a18649,Build Date                       : <*><*>,1
+9f3eaafb,OpenGL ES Shader Compiler Version: <*>,1
+4124366f,<*> Branch :,4
+4290afcd,Build Config                     : S P <*> AArch64,1
+e78a4605,Driver Path                      : <*>.so,1
+47932736,"PFP: <*>, ME: <*>",1
+730e2b38,Local module descriptor class for <*> not found.,18
+9d52bfe9,Unknown dynamite feature providerinstaller.dynamite,15
+94cd2891,Failed to load providerinstaller module: No acceptable module <*> found. Local version is <*> and remote version is <*>.,15
+3b86f7e0,HWCDisplay::GetColorModeCount: Supported color mode count = <*>,2
+116a45dc,HWCDisplay::GetColorModes: Color mode = <*> is supported,6
+91107833,"Cronet version: <*>, arch: aarch64",1
+7c15ed0a,Exception fetching LoggerImpl class,1
+0d84f8c7,<*>: class <*> cannot be cast to m.hx,1
+1beed209,NetReassign [no changes] [c <*>] [a <*>] [i <*>],1
+62520502,Displayed <*>/.homepage.SettingsHomepageActivity: +2s138ms,1
+2b3215f0,Fully drawn <*> <*>,3
+18deab4e,GoogleInputMethodService.onFinishInput():<*>,4
+38d707a2,onStop,1
+e8fb46d6,Input channel object '<*> Splash Screen <*> (client)' was disposed without first being removed with the input manager!,1
+9198d936,Failed to find local clusters.,2
+a16a92d1,Wearable module requires a companion app to be installed.,3
+8f942cca,onCreate: Wearable Services not starting. Wear is not available on this device.,3
+6954f3c5,onGetService: Wear is not available on this device.,3
+43c76349,Attempted to read unclipped body before it was fetched for messageId: msg-f:<*>,4
+0a902b2f,Starting <*>,4
+540f4eb1,Starting to set activity title,2
+5eb08377,Done setting title,2
+245f9475,Switching to fragment <*>,2
+58f27355,Launching fragment <*>,2
+d94b58b5,"mAssistOnly:false, isSupported:false, isSensorAvailable:false",4
+2d19ed5f,Executed frag manager pendingTransactions,2
+55380552,"(REDACTED) Received query %s, URI %s",4
+76804e48,(REDACTED) Query [%s] resolved to %s,4
+dd51e2f0,"No enabled state changed, skipping updateCategory call",2
+f19addee,(REDACTED) Fetch %s end status %s,4
+b3f4646f,"(REDACTED) Pulling font file for id = %d, cache size = %d",8
+76cd51c0,Displayed <*>/.SubSettings: <*>,2
+892fc56a,"Phenotype API error. Event # ezfw@<*>, EventCode: <*> [CONTEXT service_id=<*> ]",28
+2602dc8a,"operation=CommitToConfigurationOperationCall, opStatusCode=<*> [CONTEXT service_id=<*> ]",28
+7a680374,"OperationException[Status{statusCode=unknown status code: <*>, resolution=null}]",28
+98bc3a46,"(Possibly expected) - Error changing state for [<*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>, <*>]",3
+3e81395a,InitApexLibraries:,5
+3f21704e,com_android_appsearch: libicing.so,5
+ca361ad5,com_android_art: libartservice.so,5
+1b621d9a,com_android_conscrypt: libjavacrypto.so,5
+5eee9069,com_android_extservices: libhpke_jni.so:libtflite_support_classifiers_native.so,5
+78bb112a,com_android_os_statsd: libstats_jni.so,5
+7f32e586,com_android_tethering: libandroid_net_connectivity_com_android_net_module_util_jni.so:libframework-connectivity-jni.so:libframework-connectivity-tiramisu-jni.so:<*>:libservice-connectivity.so,5
+2c776616,[<*>:NonCelloThread] cello.cc:<*>:operator() got notified of network change to offline,6
+213292ab,endAllActiveAnimators on <*> (RippleDrawable) with handle <*>,2
+0ec16292,"[<*>:MetricsTransportThread] metrics_transport.cc:<*>:ProcessRequestsOnBackgroundThread Metrics failed to send, drive::ds::Status::TEMPORARILY_UNAVAILABLE",6
+7138c90a,"[<*>:NonCelloThread] token_bucket.cc:<*>:Create TokenBucket initialized with max_bucket_size of <*>, with each request requiring <*> tokens",18
+3b5b20ec,"[<*>:NonCelloThread] init_helper.cc:<*>:MaybeResyncLocalState Detected no change in default fields, default team drive fields, or existing fields returned by the backend.",6
+22ee2c34,[<*>:NonCelloThread] sync_engine.cc:<*>:MaybeStartRepeatingPushTaskTimer Starting repeating push task timer with interval 30000ms,6
+ad7132a1,[<*>:NonCelloThread] fetch_task.cc:<*>:RunInternal Largest local change id for My Drive at startup: <*>,6
+a78d7b9b,VoicemailContentProvider.onCreate <*>,2
+7051a266,updateUseStrictPhoneNumberComparison: BR,1
+b67f7210,"Syncing call composer pics -- source user=<*>, isShadow=true, forAllUser=false",1
+8a46ebe4,Fetching list of Uris to sync,1
+d461aadf,Will sync following Uris:[],1
+c40021dd,Syncing call composer pics -- got [],1
+518033a5,Registering com<*>'s <*> native methods...,4
+70d0b077,WAL enabled for <*> <*>,2
+d2d8d9b0,Installed default security provider GmsCore_OpenSSL,4
+d612c817,"[Gmail] MailSyncAdapterService: MailSyncAdapterService is destroyed! [CONTEXT android_log_tag=""MailSyncAdapterService"" ]",2
+30d7e8f8,[<*>:NonCelloThread] drive_util.cc:<*>:MakeDrivewayFieldMask Field OFFLINE is unsupported.,23
+870cbbb1,DEFAULT_REFRESH_RATE : <*>.<*> mPeakRefreshRate : <*>.<*>,1
+cba5b212,Fail read Http response and forward to Cello,46
+1cabfef4,[<*>:NonCelloThread] drive_v2_cloud_store.cc:<*>:DumpToLog Request <*>: <*> <*>,23
+7a96d808,[<*>:NonCelloThread] drive_v2_cloud_store.cc:<*>:DumpToLog Response body <*>: (no response body),46
+79e3086c,[<*>:NonCelloThread] item_query_handler.cc:<*>:OnCloudByIdQuery Failed to get items from the cloud: MessageLite at <*>,23
+89d026e4,[<*>:NonCelloThread] drive_v2_cloud_store.cc:<*>:DumpToLog Request <*>: <*> <*> transport: drive::ds::Status::UNAVAILABLE_WHILE_OFFLINE reader: drive::ds::Status::SUCCESS,23
+0f18de14,[<*>:NonCelloThread] drive_v2_cloud_store.cc:<*>:DumpToLog req.hdr <*>: <*>,69
+7703ef9d,[<*>:NonCelloThread] drive_v2_cloud_store.cc:<*>:operator() MessageLite at <*>,23
+121f1e35,"Exception set on future for <*> <*> {""reason"": <*>}},)'. Cello error <*>. Network error Cleared request. Failed task: <*> <*> {""reason"": <*>}},)",23
+b9148e6e,Failed getting value from future on <*>,23
+088d28a7,"kuu: Cello error <*>. Network error Cleared request. Failed task: <*> <*> {""reason"": <*>}},)",23
+4124ad87,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> ino=<*> <*> <*> <*> permissive=<*>,18
+c2086ea6,No process <*> for service <*>,72
+1e7871ea,No process <*><*> for service <*>,8
+c7910e4b,"Since <*>@<*>.<*>::IDumpstateDevice<*> is not registered, trying to start it as a lazy HAL.",4
+61115444,getService: Trying again for <*>@<*>.<*>::IDumpstateDevice<*>...,2
+f72b844a,Registering HAL: <*>@<*>.<*>::IDumpstateDevice with name: default,2
+5935d976,Process age: process started in future: <*> after <*>,2
+42a32665,Removing namespace from process name <*>@<*> to dumpstate@<*>.,2
+aa6c077b,<*>@<*> registered,2
+6a6a664e,onLastStrongRef automatically unlinking death recipients,3
+c878bd46,HwBinder: Starting thread pool for getting: <*>,5
+260da091,bt_bigger_btsnoop_size : get <*> : <*>,1
+139c279a,bt_stack_debug : get <*> : false,1
+25dea001,Binding service...,1
+50e9fdc9,Notifying <*> they have clients: <*>,3
+64789cba,Process has <*> (of <*> available) client(s) in use after notification <*>@<*>.<*>::IDumpstateDevice has clients: <*>,1
+34dbcf5c,Tried to log unloggable <*>,10
+04a2853d,Unable to get current config index. Current codec Config is null.,5
+12d342da,Setting bugreport_in_power_menu has moved from <*> to <*>.,1
+7d702c3a,[PhoneIntfMgr] getAllowedCarriers: CommandException: <*>: REQUEST_NOT_SUPPORTED,2
+e9046a53,"!!! Observer died. Quickly, do something, ... anything...",1
+0bbc2fff,Client died ! notify and release the component !!,1
+18db5d5c,unlinkToDeath: removed reference to death recipient but unlink failed.,1
+0f9b157f,attemptIncStrongHandle(<*>): Not supported,1
+71a48f3e,ContentProviderHintReceiver: Failed to send <*> hints to <*>,3
+8c52e671,Taking interactive bugreport right away,1
+9bf5b4e8,"action(Pair<Integer, Object>... taggedData) is deprecated, Use action(int, int, int, String, int) instead.",1
+262faddf,bugreportplus requested by UID <*>,1
+c909c818,"onReceive(): <*> extras: no ID, no NAME, no DESCRIPTION, no BUGREPORT, no SCREENSHOT, no INFO, no TITLE, no ORIGINAL_INTENT",1
+a5d70133,onReceive() ACTION: null,1
+21c0951a,"onStartCommand(): <*> extras: no ID, no NAME, no DESCRIPTION, no BUGREPORT, no SCREENSHOT, no INFO, no TITLE, ORIGINAL_INTENT: <*> extras: no ID, no NAME, no DESCRIPTION, no BUGREPORT, no SCREENSHOT, no INFO, no TITLE, no ORIGINAL_INTENT",1
+cefdff15,"handleMessage(): <*> extras: no ID, no NAME, no DESCRIPTION, no BUGREPORT, no SCREENSHOT, no INFO, no TITLE, no ORIGINAL_INTENT",1
+5839a06b,bugreport type = <*> bugreport file fd: {ParcelFileDescriptor: <*>@<*>} screenshot file fd: null,1
+109f3de6,Add service <*> <*>,6
+235859f1,'dumpstate' service started and will wait for a call to startBugreport(),1
+1dcb52a6,Waiting to get dumpstate service handle (0ms),1
+be7caa82,Got bugreport service handle.,1
+28c16279,startBugreport() with mode: <*>,1
+23986036,do_vibrate: <*> stream_to_socket: <*> progress_updates_to_socket: <*> do_screenshot: <*> is_remote_mode: <*> show_header_only: <*> telephony_only: <*> wifi_only: <*> do_progress_updates: <*> fd: <*> bugreport_mode: BUGREPORT_INTERACTIVE dumpstate_hal_mode: INTERACTIVE limited_only: <*> args:,1
+af0dda5a,dumpstate calling_uid = <*> ; calling package = <*>,1
+c794ba42,Loading stats from <*>.txt,1
+00aabc7a,Average max progress: <*> in <*> runs; estimated max: <*>,1
+069c8983,Wake lock acquired.,1
+3862afc1,"dumpstate info: id=<*>, args='', bugreport_mode= BUGREPORT_INTERACTIVE bugreport format version: <*>.<*>",1
+9c14c1c2,Bugreport dir: [[fd:<*>]] Base name: [bugreport-caprip_retail-S0RCS32.<*><*><*><*>] Suffix: [<*><*><*><*><*><*>] Log path: [<*>.android.shell<*>.<*><*><*><*><*><*><*><*><*><*>-dumpstate_log<*>.txt] Temporary path: [<*>.android.shell<*>.<*><*><*><*><*><*><*><*><*><*>.tmp] Screenshot path: [],1
+1b464d83,Creating initial .zip file (<*>.android.shell<*>.<*><*><*><*><*><*><*><*><*><*>-zip.tmp),1
+898c09de,Adding zip text entry version.txt,1
+4fb5d220,Sending broadcast: '<*> activity broadcast --user <*> --receiver-foreground --receiver-include-background -a <*> --receiver-permission <*>',1
+2c2792ed,Setting progress: <*><*> (<*>%),14
+ffd5393b,Vibrate: 'cmd vibrator_manager synced -f -d dumpstate oneshot <*>',1
+b5d2b55b,Freezing log buffers,1
+e2258dbc,"Progress #<*>: <*>,<*>%",14
+70b3b15c,Start running as foreground service on id <*>,1
+3d1aed06,"Background started FGS: Allowed [callingPackage: <*>; callingUid: <*>; uidState: RCVR; intent: Intent { act=<*> cmp=<*>/.BugreportProgressService (has extras) }; code:SYSTEM_UID; tempAllowListReason:<,reasonCode:SYSTEM_ALLOW_LISTED,duration:<*>,callingUid:-<*>>; targetSdkVersion:<*>; callerTargetSdkVersion:<*>; startForegroundCount:<*>; bindFromPackage:null]",1
+18bf30c8,"onStartCommand(): no action extras: no ID, no NAME, no DESCRIPTION, no BUGREPORT, no SCREENSHOT, no INFO, no TITLE, no ORIGINAL_INTENT",1
+939ff3ae,Module metadata package name: <*>,1
+b5cbbaff,Reducing the number of considered missed Gc histogram windows from <*> to <*>,40
+11eb8e16,Invalid EDID: falling back to <*> <*> due to missing <*> <*>,2
+eaa588b2,mn78_sensor_ps_report: ------------------- <*>,4
+3ae38f9a,Attribution not found: uid=<*> pkg=root(null) op=VIBRATE,1
+45d594d7,No heads up: unimportant notification: <*>|<*>|<*>|null|<*>,61
+94b64e88,getCurrentInteractionMode: mode=<*> contextUser=<*>,1
+0887ac2a,contextUser=<*>,1
+0ab2a1ef,assetPaths=,1
+6e0aac1e,<empty> and <*>.apk,2
+dad9a45b,<*>.apk,20
+09a0ec57,<*>.<*>,2
+3cd0ada5,Proxy not attached to service,4
+ce1fe0fb,Duration of <*> <*> <*>,3
+346ba02c,perfetto_cmd.cc:<*>     No trace with TraceConfig.bugreport_score > <*> eligible for bug reporting was found,1
+bd461b57,*** command 'perfetto --save-for-bugreport' failed: exit code <*>,1
+93688f57,Error: Tracing is not supported on user builds.,1
+2121c6f5,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1380
+68d2c9e0,"[<*>,,<*>,<*>]",42
+4122440a,"[-<*>,,<*>,<*>]",19
+cd13a169,"[<*>,<*>,<*>]",159
+e9cd4bab,"[<*>,<*>:instant_app_installer,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+768fe080,"[<*>,<*>,system_server,-<*>,AlarmManager,Attempt to decrement existing alarm count <*> by <*> for uid <*>]",3
+6782b390,"[<*>,<*>,<*>,<*>:aab,service,{<*><*>.<*>}]",4
+81960ed0,"[<*>,<*>,<*>:aab]",4
+252b09c6,<*> #<*>],17
+444b152b,"[<*>,<*>,<*>:provider,<*>,<*>]",1
+399ec935,"[<*>,<*>:aab,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",4
+8a6383f0,"[<*>,<*>,<*>:aab,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",10
+73030e2e,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",75
+1f836e5b,"[<*>,<*>,<*>,com.zzkko:push,broadcast,{com.zzkko<*>.<*>}]",4
+9047ba06,"[<*>,<*>,com.zzkko:push]",4
+308de380,"[<*>,<*>,<*>,<*>,<*>]",66
+ad849727,"<*> shortcut=null contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE),<*>]",6
+ae5ddec8,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,FCM-Notification:<*>,<*>,com.zzkko,<*>,shein_notification_common_01,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+75413935,"[<*>,<*>,<*>,note_interruptive,<*>,<*>,<*>,<*>]",20
+d85152d0,<*>|com.zzkko|<*>|FCM-Notification:<*>|<*>,5
+a8b09525,"Interaction with: <*> <*> (server), edge-swipe (server), three-finger (server), swipe-up (server), PointerEventDispatcher0 (server),",79
+f4d24426,"Interaction with: edge-swipe (server), three-finger (server), swipe-up (server), PointerEventDispatcher0 (server),",28
+4140b37c,"<*> - Cancel,<*><*>.<*>]",28
+05a5cdbf,"[<*>,<*>,<*>,key_back_press,<*>,<*>]",24
+f4e71bc3,"[<*>,<*>,<*>,panel_open,<*>,<*>]",4
+68dd4711,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",435
+a6dbff86,"[<*>,<*>,<*>,<*>]",116
+d0e1a28f,"[<*>,<*>,<*>,note_load,<*>,<*>,<*>,<*>]",10
+bed4ae9b,"Interaction with: <*> <*><*>.<*> (server), PointerEventDispatcher0 (server),",24
+3aecaa8a,[Focus request <*> <*>,88
+a31cc93c,"[Focus leaving <*> <*> (server),reason=Waiting for window because NOT_VISIBLE]",15
+832b3496,"[Focus entering <*> <*> (server),reason=Window became focusable. Previous reason: NOT_VISIBLE]",60
+a091708a,"[display-state,<*>]",17
+64f614c6,"[settings<*><*>,<*>]",28
+9e0c2ab4,[Focus <*> <*> <*> <*>,73
+b464aeb1,"[Focus entering <*> <*><*>.<*> (server),reason=setFocusedWindow]",20
+e7d8cbfc,"[<*>,<*><*>.<*>,positionChildAt,<*>]",21
+6e47a008,"[<*>,<*>,<*>,<*><*>.<*>,NULL,NULL,/<*>,<*>,<*>]",3
+b9c19c37,"[<*>,<*>,<*><*>.<*>,userLeaving=true,resumeTopActivityInnerLocked,<*>]",20
+bc5baa1f,"[<*>,<*>,topStateChangedWhenResumed,<*>]",86
+cf665c5e,"[<*>,<*>,performPause,<*>]",55
+19cbeb1c,"[<*>,<*>,<*><*>.<*>,makeInvisible,<*>]",36
+a82c5909,"[<*>,<*>,<*>,<*><*>.<*>,<*>]",52
+a8a8229e,"[<*>,<*><*>.<*>,minimalResumeActivityLocked,<*>]",23
+a82681f3,"[<*>,<*>,<*>,window_time_0,<*>,<*>]",63
+4f2db526,"[<*>,<*>,com.zzkko:push,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",11
+1d2305fa,"[<*>,<*>,performCreate,<*>]",27
+54b11104,"[<*>,<*>,handleStartActivity]",60
+029a5d7c,"[<*>,<*>,RESUME_ACTIVITY,<*>]",55
+cd5720e5,"[<*>,<*>,<*><*>.<*>,<*>]",61
+78d669c4,"[<*>,<*>,<*><*>.<*>,processStoppingAndFinishingActivities,true]",56
+a0f92540,"[<*>,<*>,STOP_ACTIVITY_ITEM]",41
+5a7ec734,"[<*>,<*>,<*>,<*><*>.<*>,NULL,NULL,NULL,<*>,<*>]",6
+22157db4,"[<*><*>-<*>-<*>-<*>,<*>,<*>,<*>,<*>]",24
+0361a71f,"[<*>,<*>,<*>,<*><*>.<*>,app-request,<*>]",18
+87e70913,"[<*>,<*>,<*><*>.<*>,userLeaving=false,finish,<*>]",17
+3644ba7d,"[<*>,<*>,<*><*>.<*>,completeFinishing,<*>]",17
+7e0a3f0c,"[<*>,<*><*>.<*>,resumeTopActivityInnerLocked,<*>]",29
+e0d084ef,"[<*>,<*>,performRestartActivity]",33
+2719d916,"[<*>,<*>,topWhenResuming,<*>]",24
+7716a0bb,"[<*>,<*>,<*>,<*><*>.<*>,finish-imm:idle,<*>]",17
+2dac97cc,"[<*>,<*>,LIFECYCLER_STOP_ACTIVITY]",19
+87bde049,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> ino=<*> <*> <*> <*> permissive=<*> app=<*>,48
+0bda7f31,"[<*>,<*>,performDestroy]",19
+6598b3b0,"[<*>,<*>,ACTIVITY_RESULT]",8
+00c0b170,"[<*>,<*>,com.whatsapp,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",17
+c5ed2ba4,"[<*>,<*>,<*>:background,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",7
+5a73a538,"[<*>,<*>,<*>:quick_launch,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+a7ebf474,"type=<*> audit(<*>.<*>:<*>): avc: denied { bind } for comm=""ip"" scontext=u:r:untrusted_app:s0:c22,<*>,<*>,<*> tcontext=u:r:untrusted_app:s0:c22,<*>,<*>,<*> tclass=netlink_route_socket permissive=<*> bug=b<*>",3
+821f3329,avc: denied { find } for pid=<*> uid=<*> <*> <*> <*> tclass=service_manager permissive=<*>,13
+2401e13c,"[<*>,user]",31
+57beaeff,"[<*>,<*>,<*>:background,<*>,empty for <*>",2
+95e7d170,"[<*>,<*>,<*>:quick_launch,<*>,empty for 1839s]",1
+86ceacd3,"[<*>,<*>,<*>,<*>,empty for <*>",20
+3b8afccf,"[<*>,<*>,<*>:background,<*>,<*>]",2
+f3b2fcd5,"[<*>,<*>,<*>:quick_launch,<*>,<*>]",1
+b0da7dcb,"[<*>,<*>,<*>,<*>,service,{<*><*>.<*>}]",32
+a324c558,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",17
+fc406fd8,"[batterystats,<*>]",10
+0936b003,"[sync-status,<*>]",3
+d8e95115,"[<*>,com.whatsapp,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",4
+5e017fc6,"[jobs,<*>]",25
+0e249a8c,"[appops,<*>]",5
+5dd3adb4,"[<*>,<*>,<*>,<*>,content provider,{<*><*>.<*>}]",27
+7b4b71ee,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,NULL]",26
+fdbc0158,"<*> shortcut=null contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> <*> vis=PRIVATE publicVersion=Notification(channel=null shortcut=null contentView=null vibrate=null sound=null defaults=<*> flags=<*> color=<*> vis=PRIVATE)),<*>]",6
+908ff95b,"<*> shortcut=null contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> <*> vis=PRIVATE),<*>]",11
+2794d5fe,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:snotification:[<*>,wx.f,NOTIFICATION],<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::SUMMARY::wx,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+aa0a3072,"[procstats,<*>]",5
+c6a8cd43,"[<*>,<*>,<*>,<*>,broadcast,{<*><*>.<*>}]",11
+c9ae2f00,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,campaign_collapse_key_2690009037151085998,<*>,<*>,<*>,fcm_fallback_notification_channel,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+d34c0792,"[<*>,<*>,<*>,<*><*>.<*>,NULL,NULL,aweme:/<*>/,<*>,<*>]",7
+71b2ccdb,<*> for <*>,3
+da866589,"[<*>,<*>,<*>:instant_app_installer,<*>,empty for 1831s]",1
+354c778d,"[<*>,<*>,<*>:aab,<*>,<*>]",3
+03dc56b5,"[<*>,<*>,<*>:instant_app_installer,<*>,<*>]",1
+3c5c3e6f,"[<*>,<*>,com.zzkko:push,<*>,empty for <*>",2
+0f9de8b7,"[<*>,<*>,com.zzkko:push,<*>,<*>]",3
+02a737df,"[sync-stats,<*>]",3
+af8dcbdb,"[<*>,<*>,<*>:search,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+d57f445d,"[<*>,<*>,<*>:mya_ce,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+f550b13b,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",21
+c1aed807,"[<*>,<*>,<*>:interactor,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+2aec5dd7,"[<*>,<*>,<*>:rcs,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+5b6a74e5,"[<*>,<*>,system,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+03048631,"[<*>,<*>,<*>:push,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",9
+72623c54,"[<*>,<*>,.qtidataservices,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+4062c3ae,"[<*>,<*>,.dataservices,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+5d571ccd,"[<*>,<*>,com.whatsapp,<*>,empty for 2067s]",1
+47d385fe,"[<*>,<*>,com.whatsapp,<*>,<*>]",2
+ffb1b213,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",8
+2170759b,"[<*>,<*>,<*>,<*><*>.<*>,NULL,NULL,aweme:/<*>,<*>,<*>]",1
+2367ffb4,"[Focus request recents_animation_input_consumer,reason=UpdateInputWindows]",8
+5afce7e8,[Focus <*> recents_animation_input_consumer <*>,14
+463b29da,"[<*>,<*>]",53
+b533c01f,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",8
+f3ee0e36,"[<*>,<*>,<*>,<*>,RecentsAnimation.onAnimationFinished()]",5
+7f5aaf0f,"[<*>,<*><*>.<*>,RecentsAnimation.onAnimationFinished(),<*>]",5
+8a9c9707,"[<*>,<*>,<*><*>.<*>,userLeaving=true,pauseBackTasks,<*>]",13
+b2721c7d,"[<*>,<*>,<*>,<*>,<*>,<*>]",60
+ace73f51,"[<*>,<*><*>.<*>]",16
+047a6454,"[<*>,<*>,<*><*>.<*>,userLeaving=false,sleep,<*>]",3
+b2abb2c6,"[<*>,<*>,<*><*>.<*>,completePauseLocked,<*>]",3
+644f68fb,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",17
+3f16afd9,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",10
+6a22e2d0,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",29
+ff8fcc7f,"[<*>,<*>,<*>,setKeyguardShown]",12
+f3be72db,"[<*>,<*>,<*>,screen_timeout,<*>,<*>,<*>,<*>]",3
+5222a3f1,"[<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>]",3
+a8487d57,"[<*>,no activity]",6
+b4622464,"[<*>,system,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",1
+2ab638be,"[<*>,<*>:search,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",2
+b90a9efc,"[<*>,<*>:interactor,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",3
+38c3badd,"[<*>,<*>,<*>,<*>,aitune,]",5
+24732245,"[<*>,alarm]",5
+71cb555a,"[<*>,s:alarm]",7
+40fa73c9,net,12
+ad921d60,unknown,3
+e0662945,"[<*>,<*>,<*>,<*>,-<*>,<*>,<*>,<*>,<*>]",1
+c26a830b,type=<*> audit(<*>.<*>:<*>): avc: <*> { <*> } for <*> <*> <*> ino=<*> <*> <*> tclass=file <*>,91
+339d3c72,"[<*>,<*>,<*>,<*>,service,<*>/.InitService]",1
+645bfa15,"[<*>,s:early]",3
+b8b5852f,"[<*>,<*>,<*>,<*>:webview_service,service,{<*><*>.<*>}]",4
+2cef2ea3,"[<*>,<*>,<*>:webview_service]",4
+cba3de0a,"[<*>,<*>,<*>,<*>:sandboxed_process0:<*>:<*>,,{<*><*>.<*>:<*>}]",3
+cd96ad9e,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>]",3
+818f92b0,"[<*>,<*>:webview_service,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",2
+5df19344,"[<*>,<*>:sandboxed_process0:<*>:<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+e3040ed3,"[<*>,<*>,<*>,power_consecutive_short_tap_count,<*>,<*>,<*>,<*>]",5
+019d82d2,"[<*>,<*>,<*>,power_double_tap_interval,<*>,<*>,<*>,<*>]",5
+daa2f28e,"[ACTION_DOWN,<*>,<*>]",5
+9479a76a,"[<*>,<*>,<*>,dozing_minutes,<*>,<*>,<*>,<*>]",3
+98d392d5,"[ACTION_UP,<*>,<*>]",5
+a5674035,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,Foreground Service ID,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",15
+6843a799,"[<*>,<*>,<*>,note_freshness,<*>,<*>,<*>,<*>]",64
+3e5437c6,"[<*>|<*>|<*>|null|<*>,<*>,<*>,<*>,<*>,<*>]",28
+8e332f68,"[<*>,<*>,<*>,keyguardGoingAway]",3
+01e7c1df,-<*>,3
+49a9acf5,"[<*>,unlocked]",6
+d821dbe5,unlocked,3
+51a203f2,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+71184a3c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",8
+f0e6df44,"[<*>,<*>,<*>,dnd_mode_1,<*>,<*>]",3
+4305aaeb,"[<*>,<*>,<*>,dnd_rule_count,<*>,<*>]",8
+8f0f8867,"[<*>,<*>,<*>,dnd_type_1,<*>,<*>]",2
+7dd51788,"[<*>,<*>,<*>,dnd_type_2,<*>,<*>]",2
+6e861694,"[notification-policy,<*>]",16
+38ea84b8,"[<*>,<*>,<*>,dnd_mode_0,<*>,<*>]",2
+90c37372,"[<*>,<*>,<*>,dnd_type_0,<*>,<*>]",2
+2ae0e1cb,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,FCM-Notification:<*>,<*>,<*>,<*>,<*>,<*>,rn-push-notification-channe-<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",12
+3ed0cdc8,"[<*>|<*>|<*>|FCM-Notification:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",12
+412fa128,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,<*>,<*>,^nc_1_mail_girlana.santos@i-<*>,<*>,<*>,<*>,gig:<*>:CLASSIC_INBO-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",10
+d3a67f21,"[<*>|<*>|<*>|gig:<*>:CLASSIC_INBOX_ALL_MAIL|<*>,<*>,<*>,<*>,<*>,<*>]",10
+27ed3a47,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,FCM-Notification:<*>,<*>,<*>,<*>,com.zzkko,<*>,shein_notification_common_01,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",12
+4af07e71,"[<*>|com.zzkko|<*>|FCM-Notification:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",12
+c75aade8,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,app_notify_ame,<*>,<*>,<*>,<*>,<*>,other_channel_associated_2,<*>,<*>,<*>,android_exclusive_group_732-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",4
+7fef6780,"[<*>|<*>|<*>|app_notify_ame|<*>,<*>,<*>,<*>,<*>,<*>]",4
+8b6fb086,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,com.zzkko,<*>,shein_notification_common_01,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+a17a8d4b,"[<*>|com.zzkko|<*>|ranker_group|<*>|ranker_group,<*>,<*>,<*>,<*>,<*>]",4
+503de77d,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,SetupWizardService,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+283a3400,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,campaign_collapse_key_2690009037151085998,<*>,<*>,<*>,<*>,<*>,fcm_fallback_notification_channel,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+824ddbc8,"[<*>|<*>|<*>|campaign_collapse_key_2690009037151085998|<*>,<*>,<*>,<*>,<*>,<*>]",4
+58e0f272,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.whatsapp,<*>,critical_app_alerts@<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+1ab02d07,"[<*>|com.whatsapp|<*>|null|<*>,<*>,<*>,<*>,<*>,<*>]",4
+57bda1d9,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,rn-push-notification-channe-<*>,<*>,<*>,<*>,ranker_group,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+d056f685,"[<*>|<*>|<*>|ranker_group|<*>|ranker_group,<*>,<*>,<*>,<*>,<*>]",4
+3e438f42,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,NOTIFICATION_CHANNEL_DEFAULT,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+40ca4485,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:<*>:CLASSIC_INBOX_ALL_MAIL,<*>,<*>,<*>,^nc_1_mail_girlana.santos@i-<*>,<*>,<*>,<*>,gig:<*>:CLASSIC_INBO-<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",2
+31df8a89,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,AIV,<*>,<*>,<*>,<*>,<*>,atv_android_general_notifica-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+aef2cd9d,"[<*>|<*>|<*>|AIV|<*>,<*>,<*>,<*>,<*>,<*>]",2
+0dfbf5f9,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,gig:-<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,^nc_1_mail_girlanasouza123@gmail.com,<*>,<*>,<*>,gig:-<*>:^sq_ig_i_personal,<*>,<*>,<*>,<*>,<*>,<*>,<*>,email,<*>,<*>,<*>,<*>,<*>,<*>]",8
+bb80ad16,"[<*>|<*>|<*>|gig:-<*>:^sq_ig_i_personal|<*>,<*>,<*>,<*>,<*>,<*>]",8
+d53ce402,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,campaign_collapse_key_3494269036457270798,<*>,<*>,<*>,<*>,<*>,fcm_fallback_notification_channel,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+2e612cba,"[<*>|<*>|<*>|campaign_collapse_key_3494269036457270798|<*>,<*>,<*>,<*>,<*>,<*>]",2
+2dbc34cb,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+40c1b27d,"[<*>|<*>|<*>|<*>|<*>,<*>,<*>,<*>,<*>,<*>]",2
+805839c1,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,<*>,com.tubaflixtrailers,<*>,fcm_fallback_notification_channel,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+d14cd5a7,"[<*>|com.tubaflixtrailers|-<*>|null|<*>,<*>,<*>,<*>,<*>,<*>]",2
+3d591042,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:DAILY_MEMORY_AVAILABLE:<*>,<*>,<*>,<*>,<*>,<*>,new_memories,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+3203a228,"[<*>|<*>|<*>|-<*>::a:DAILY_MEMORY_AVAILABLE:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",2
+79a31695,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+1a657907,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>::a:CHIME_COMMENT:<*>,<*>,<*>,<*>,<*>,<*>,<*>:COMMENTS,<*>,<*>,<*>,<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+ba432061,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>::a:CHIME_COMMENT:<*>,<*>,<*>,<*>,<*>:COMMENTS,<*>,<*>,<*>,<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+8d75ef55,"[<*>|<*>|<*>|<*>::a:CHIME_COMMENT:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",2
+4d7c7c8c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::SUMMARY::BREAKING_NEWS,<*>,<*>,<*>,<*>,<*>,breaking_news_gnews_notific-<*>,<*>,<*>,<*>,-<*>::SUMMARY::BREAKING_NEWS,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+b1953f15,"[<*>|<*>|<*>|-<*>::SUMMARY::BREAKING_NEWS|<*>,<*>,<*>,<*>,<*>,<*>]",2
+4059ca0d,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,oc,<*>,<*>,<*>,<*>,<*>,OpaChannel_10,<*>,<*>,<*>,gi_ee359e1d5f0c7075,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+8671f8d8,"[<*>|<*>|<*>|oc|<*>,<*>,<*>,<*>,<*>,<*>]",2
+9c2bf25c,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:gnews_daily_article_notification:CBh4CIIBAkJSigEFcHQtQlKgAQyoAQHaAQoyMDI0LTAxLTA3,<*>,<*>,<*>,<*>,<*>,daily_article_gnews_notific-<*>,<*>,<*>,<*>,-<*>::SUMMARY::PERSONALIZED,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+06d96838,"[<*>|<*>|<*>|-<*>::a:gnews_daily_article_notification:CBh4CIIBAkJSigEFcHQtQlKgAQyoAQHaAQoyMDI0LTAxLTA3|<*>,<*>,<*>,<*>,<*>,<*>]",2
+64bc8d8e,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::SUMMARY::PERSONALIZED,<*>,<*>,<*>,<*>,<*>,daily_article_gnews_notific-<*>,<*>,<*>,<*>,-<*>::SUMMARY::PERSONALIZED,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+0d130ed6,"[<*>|<*>|<*>|-<*>::SUMMARY::PERSONALIZED|<*>,<*>,<*>,<*>,<*>,<*>]",2
+17a17ace,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>::SUMMARY::<*>,<*>,<*>,<*>,<*>,<*>,<*>:COMMENTS,<*>,<*>,<*>,<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+c5b88d83,"[<*>|<*>|<*>|<*>::SUMMARY::<*>|<*>,<*>,<*>,<*>,<*>,<*>]",2
+159b4f93,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:TIMELINE_INSIGHTS_SUMMARY:<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+4aeb4708,"[<*>|<*>|<*>|-<*>::a:TIMELINE_INSIGHTS_SUMMARY:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",2
+30861641,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:gnews_personalized_notification:<*>,<*>,<*>,<*>,<*>,<*>,news_newsstand_notification-<*>,<*>,<*>,<*>,-<*>::SUMMARY::PERSONALIZED,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+b1084203,"[<*>|<*>|<*>|-<*>::a:gnews_personalized_notification:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",4
+e1529509,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:snotification:[<*>,wx.f,NOTIFICATION],<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::SUMMARY::wx,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+1357caed,"[<*>|<*>|<*>|-<*>::a:snotification:[<*>,wx.f,NOTIFICATION]|<*>,<*>,<*>,<*>,<*>,<*>]",2
+cc1db57e,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:gnews_breaking_news_notification:CBhw6IaxmOji_NT3AXgDggECQlKKAQVwdC1CUqABBKgBAfgBBYACAg,<*>,<*>,<*>,<*>,<*>,breaking_news_gnews_notific-<*>,<*>,<*>,<*>,-<*>::SUMMARY::BREAKING_NEWS,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+38ae0c57,"[<*>|<*>|<*>|-<*>::a:gnews_breaking_news_notification:CBhw6IaxmOji_NT3AXgDggECQlKKAQVwdC1CUqABBKgBAfgBBYACAg|<*>,<*>,<*>,<*>,<*>,<*>]",2
+5fd34cfb,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,spotify_updates_channel,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+caf53e81,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,spotify_updates_channel,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+ddae5ef5,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>::a:CHIME_SUGGESTION:<*>,<*>,<*>,<*>,<*>,<*>,<*>:COMMENTS,<*>,<*>,<*>,<*>::SUMMARY::<*>-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+67abbbff,"[<*>|<*>|<*>|<*>::a:CHIME_SUGGESTION:<*>|<*>,<*>,<*>,<*>,<*>,<*>]",2
+72fe057b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:gnews_breaking_news_notification:CBhw-IOvpMzyvvB5eAOCAQJCUooBBXB0LUJSoAEEqAEB-AEFgAIC,<*>,<*>,<*>,<*>,<*>,breaking_news_gnews_notific-<*>,<*>,<*>,<*>,-<*>::SUMMARY::BREAKING_NEWS,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+200c814f,"[<*>|<*>|<*>|-<*>::a:gnews_breaking_news_notification:CBhw-IOvpMzyvvB5eAOCAQJCUooBBXB0LUJSoAEEqAEB-AEFgAIC|<*>,<*>,<*>,<*>,<*>,<*>]",2
+0173920f,"Interaction with: <*> <*><*>.<*> (server), <*> <*> (server), edge-swipe (server), three-finger (server), swipe-up (server), PointerEventDispatcher0 (server),",5
+85400f58,"[<*>,<*>,<*>,<*>,bringingFoundTaskToFront]",2
+4489a446,"[<*>,<*><*>.<*>,bringingFoundTaskToFront,<*>]",2
+7d689059,"[<*>,<*>,<*>,<*><*>.<*>,<*>,NULL,NULL,<*>,<*>]",5
+261e2814,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",5
+78c05c4d,Binder,1
+722fef23,"[<*>,<*>,<*>:webview_service,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",9
+3f9dc25a,"[<*>,<*>:<*>]",1
+440dd215,"[<*>,<*>,<*>,com.whatsapp,service,{com.whatsapp<*>.<*>}]",2
+6a02ec6e,"[<*>,<*>,com.whatsapp]",2
+3a93a07d,"<*> shortcut=null contentView=null vibrate=null sound=null <*> <*> <*> <*> vis=PRIVATE),<*>]",12
+0d59e73f,"[<*>,com.whatsapp,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+6c6c881a,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::a:snotification:[<*>,wx.f,NOTIFICATION],<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>::SUMMARY::wx,<*>,<*>,<*>,<*>,<*>,<*>]",2
+dcbc0973,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",26
+4c6bc447,"[<*>,<*>,<*>,<*>,finish-top adjustFocusToNextFocusableTask]",1
+e651edc4,"[<*>,<*><*>.<*>,finish-top adjustFocusToNextFocusableTask,<*>]",1
+fd5cef73,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>,<*>,isolated not needed]",3
+2a5260e6,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>,<*>,<*>]",4
+aa77a63f,"[<*>,<*>,<*><*>.<*>,(none),<*>]",1
+9933b13a,"[<*>,-<*>]",3
+c8295e16,"[<*>,<*>,<*>,<*>,pre-top-activity,{<*><*>.<*>}]",3
+618e70d8,<*> to reserve free memory],20
+08cc6235,"[<*>,<*><*>.<*>:<*>,<*>]",2
+de6b9cb6,"[<*>,<*>/.dataroaming.DataRoamingPhoneStateService,<*>]",3
+0af65c26,"[<*>,<*>,<*>,<*><*>.<*>,recent-task-trimmed,<*>]",1
+f08cecba,"[<*>,<*>,<*>,<*><*>.<*>,finish-imm:finishIfPossible,<*>]",1
+ae3bf544,"[<*>,<*>,<*>,<*>/.MainActivity,recent-task-trimmed,<*>]",1
+bb6c66ca,"[<*>,<*>,<*>,<*>/.MainActivity,finish-imm:finishIfPossible,<*>]",1
+73900aa7,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+22fb9fd5,"[<*>,<*>,<*>,<*>:JobMgrService,service,{<*><*>.<*>}]",3
+9630bb27,"[<*>,removeChild:removeChild last r=ActivityRecord{<*> u0 <*> t<*> f}} in t=Task{<*> #<*> type=standard A=<*>:<*> U=<*> visible=false mode=fullscreen translucent=true sz=<*>},<*>]",2
+c65a4993,"[<*>,removeChild,<*>]",2
+2f89e919,"[<*>,<*>,<*>:JobMgrService]",3
+ba37643e,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+659f9da0,"[<*>,<*><*>.<*>,<*>]",10
+0a4701a8,"[<*>,<*>,<*>,<*>:postProcService,service,{<*><*>.<*>}]",3
+0e2042a9,"[<*>,<*>,<*>:postProcService]",3
+9c358eb7,"[<*>,platform_compat]",7
+c1351142,"[<*>,<*>,<*>:webview_service,<*>,<*>]",2
+0b7312e3,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,processing_channel_id,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",3
+9daf262a,"[<*>,<*>,<*>,<*>/.pager.HostPhotoPagerActivity,<*>,image<*>,content:/<*>,<*>,<*>]",1
+3f4fc75e,"[<*>,<*>,<*>,<*>/.pager.HostPhotoPagerActivity,<*>]",1
+80faba7d,"[<*>,<*>/.pager.HostPhotoPagerActivity,minimalResumeActivityLocked,<*>]",1
+7b6b2005,"[<*>,<*>/.MotoCareService,<*>]",2
+682102cd,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+f3a22358,"[package-user<*>,<*>]",6
+55fe29c6,"[<*>,<*>,<*>/.pager.HostPhotoPagerActivity,<*>]",1
+9db0584b,"[<*>,<*>,<*>,<*>:background,service,{<*><*>.<*>}]",2
+66364039,"[<*>,<*>,<*>:background]",2
+05949b35,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,processing_channel_id,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+90026618,"[<*>|<*>|<*>|null|<*>,<*>,<*>,<*>,<*>,-<*>,-<*>,NULL]",3
+9478291d,"[<*>,<*>,<*>:postProcService,<*>,<*>]",3
+ca034d32,"[<*>,<*>:background,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",2
+2c169fe6,"[<*>,<*>:JobMgrService,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",3
+de3661d3,type=<*> audit(<*>.<*>:<*>): avc: denied { <*> } for <*> <*> <*> <*> permissive=<*>,21
+4132599f,"[<*>,<*>,<*>,<*>/.pager.HostPhotoPagerActivity,app-request,<*>]",1
+b3f3ad6f,"[<*>,<*>,<*>/.pager.HostPhotoPagerActivity,userLeaving=false,finish,<*>]",1
+7992f59d,"[<*>,<*>,<*>/.pager.HostPhotoPagerActivity,completeFinishing,<*>]",1
+349bf0c0,"[<*>,<*>,<*>/.pager.HostPhotoPagerActivity,processStoppingAndFinishingActivities,true]",1
+bca19d95,"[<*>,<*>,<*>,<*>/.pager.HostPhotoPagerActivity,finish-imm:idle,<*>]",1
+afc4fc7e,mem,50
+c1978b15,"[<*>,<*>,<*>,<*>,startActivityFromRecents]",2
+17edc223,"[<*>,<*>,<*>,<*>,reuseOrNewTask]",1
+4cbfa8cb,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,processing_channel_id,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",2
+d063367a,"[<*>,<*>,<*>:JobMgrService,<*>,<*>]",2
+fba8fe63,"[<*>,<*>/.services.RcsService,<*>]",2
+32462ee0,"[<*>,<*>,<*>:push,<*>,<*>]",1
+63b6b0f3,"Interaction with: recents_animation_input_consumer (server), edge-swipe (server), three-finger (server), swipe-up (server), PointerEventDispatcher0 (server),",2
+22418f9f,"[<*>,<*>,<*>,<*>,moveTaskToFront findTaskToMoveToFront]",2
+1e6964b7,"[<*>,<*><*>.<*>,moveTaskToFront findTaskToMoveToFront,<*>]",2
+830fe857,"[<*>,thermalservice]",1
+0566ef3e,"[<*>,legacy_permission]",1
+08bd6a42,"[<*>,<*>,<*>,<*>:push,service,{<*><*>.<*>}]",1
+e9b157fe,"[<*>,<*>,<*>:push]",1
+cd258d1e,"type=<*> audit(<*>.<*>:<*>): avc: denied { bind } for comm=""ip"" scontext=u:r:untrusted_app:s0:c22,<*>,<*>,<*> tcontext=u:r:untrusted_app:s0:c22,<*>,<*>,<*> tclass=netlink_route_socket permissive=<*> bug=b<*> app=<*>",2
+9e461ccb,"[<*>,<*>,<*>:JobMgrService,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+65b1394d,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",6
+b25b21fc,"[<*>,<*>,<*>,<*>:webview_apk,service,{<*><*>.<*>}]",1
+f9f355f9,"[<*>,<*>,<*>:webview_apk]",1
+2d138ed7,"[<*>,<*>:webview_apk,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+1b9622b9,"[<*>,<*>:webview_service,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",2
+3ef7cd52,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,,<*>,<*>,<*>,<*>,<*>,<*>]",2
+ee996c25,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,,<*>,<*>,<*>,-<*>,<*>,<*>,<*>,<*>]",1
+8ad4da0b,"[<*>,<*>,<*>,<*><*>.<*>,finish-transit,<*>]",1
+9ed889a0,"[<*>,<*>,<*>,<*><*>.<*>,<*>,NULL,olxapp:/<*>?keyword=apartamento&category=<*>&keep_location=true,<*>,<*>]",2
+badbdc30,"[<*>,<*>,<*>:webview_apk,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",4
+0ad1d002,"[<*>,Salvar busca]",1
+759d0e71,"[<*>,<*>:search,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+8eda55b5,"[<*>,<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",2
+c79ec98b,"[<*>,<*>:rcs,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+100748b0,"[<*>,system,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>,-<*>]",2
+892581e9,"[<*>,<*>:sandboxed_process0:<*>:<*>,anon,<*>,<*>,<*>,<*>,-<*>,<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>]",1
+483c1140,"[<*>,carrier_config]",3
+9b0487c3,"[<*>,<*>,<*>,note_enqueued,<*>,<*>]",1
+153fef4f,"[<*>,<*>,<*>,note_post,<*>,<*>]",1
+d1a7d38a,"[<*>,<*>,<*>,note_update,<*>,<*>]",1
+28f24e99,"[<*>,<*>,<*>,note_remove,<*>,<*>]",1
+c20d39a8,"[<*>,<*>,<*>,people_cache_hit,<*>,<*>]",1
+d6782ba0,"[<*>,<*>,<*>,people_cache_miss,<*>,<*>]",1
+e1a6df36,"[<*>,<*>,<*>,note_blocked,<*>,<*>]",1
+bfec4b06,"[<*>,<*>,<*>,note_with_actions,<*>,<*>]",1
+556fb188,"[<*>,<*>,<*>,note_private,<*>,<*>]",1
+a9c68905,"[<*>,<*>,<*>,note_big_text,<*>,<*>]",1
+f6d9e592,"[<*>,<*>,<*>,note_big_pic,<*>,<*>]",1
+9256d63f,"[<*>,<*>,<*>,note_fg,<*>,<*>]",1
+20f96629,"[<*>,<*>,<*>,note_ongoing,<*>,<*>]",1
+1aa6417a,"[<*>,<*>,<*>,note_auto,<*>,<*>]",1
+aa2a9011,"[<*>,<*>,<*>,note_large_icon,<*>,<*>]",1
+a0dc755d,"[<*>,<*>,<*>,note_inbox,<*>,<*>]",1
+ca388875,"[<*>,<*>,<*>,note_title,<*>,<*>]",1
+7e645725,"[<*>,<*>,<*>,note_text,<*>,<*>]",1
+7576c027,"[<*>,<*>,<*>,note_sub_text,<*>,<*>]",1
+c3985cd7,"[<*>,<*>,<*>,note_imp_noisy_min,<*>,<*>]",1
+60eda2b9,"[<*>,<*>,<*>,note_imp_noisy_default,<*>,<*>]",1
+9e999197,"[<*>,<*>,<*>,note_imp_noisy_high,<*>,<*>]",1
+9dd294be,"[<*>,<*>,<*>,note_imp_quiet_default,<*>,<*>]",1
+b2efbbaf,"[<*>,<*>,<*>,note_importance_min,<*>,<*>]",1
+5010305c,"[<*>,<*>,<*>,note_importance_low,<*>,<*>]",1
+78576ecf,"[<*>,<*>,<*>,note_importance_default,<*>,<*>]",1
+924c965a,"[<*>,<*>,<*>,note_importance_high,<*>,<*>]",1
+b5cdf3a8,"[<*>,<*>,<*>:sandboxed_process0:<*>:<*>,<*>,excessive cpu <*> during <*> dur=<*> limit=<*>]",1
+8cdb6570,"[<*>,<*>:sandboxed_process0:<*>:<*>,anon,<*>,<*>,<*>,<*>,-<*>,-<*>,-<*>,-<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+c2d691c2,"[<*>,<*>,<*>,<*>,depends on provider <*>/.ModelContentProvider in dying proc <*> (adj -<*>)]",1
+77435ca2,<*> for 1800s],2
+1ef4d230,"[<*>,<*>,<*>:webview_apk,<*>,<*>]",1
+bd6fd63b,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,-<*>,<*>,<*>]",1
+be4396c4,"[<*>,<*>,<*>,<*>/.homepage.SettingsHomepageActivity,<*>,NULL,NULL,<*>,<*>]",1
+17fa821e,"[<*>,<*>,<*>,<*>/.homepage.SettingsHomepageActivity,<*>]",1
+bc10d3ff,"[<*>,<*>/.homepage.SettingsHomepageActivity,minimalResumeActivityLocked,<*>]",1
+fade1fa5,"[gmail-ls,<*>,<*>,<*>]",2
+6ef23cec,"[<*>,-<*>,]",3
+b220f43d,"[<*>,<*>,<*>,<*>,<*>,isParalleledControllers:false,<*>,<*>]",3
+31ba554f,"[<*>,<*>,<*>/.homepage.SettingsHomepageActivity,<*>]",2
+5a595137,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,top_level_system,<*>,<*>]",1
+c75d6d15,"[<*>,<*>/.homepage.SettingsHomepageActivity,positionChildAt,<*>]",1
+875fabef,"[<*>,<*>,<*>,<*>/.SubSettings,<*>,NULL,NULL,<*>,<*>]",2
+645560e9,"[<*>,<*>,<*>/.homepage.SettingsHomepageActivity,userLeaving=true,resumeTopActivityInnerLocked,<*>]",1
+2dd96a0c,"[<*>,<*>,<*>/.homepage.SettingsHomepageActivity,makeInvisible,<*>]",1
+92df80ed,"[<*>,<*>,<*>,<*>/.SubSettings,<*>]",2
+b0c2e195,"[<*>,<*>/.SubSettings,minimalResumeActivityLocked,<*>]",2
+4fec726b,"[<*>,<*>,<*>/.SubSettings,<*>]",3
+22bfdca1,"[<*>,<*>,<*>/.homepage.SettingsHomepageActivity,processStoppingAndFinishingActivities,true]",1
+cb61516e,"[<*>,<*>,<*>,<*>,gig:<*>:CLASSIC_INBOX_ALL_MAIL,<*>,Notification(channel=^nc_1_mail_girlana.santos@<*> shortcut=null contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> category=email groupKey=gig:<*>:CLASSIC_INBOX_ALL_MAIL sortKey=<*> vis=PRIVATE publicVersion=Notification(channel=^nc_1_mail_girlana.santos@<*> shortcut=null contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> category=email groupKey=silent vis=PUBLIC)),<*>]",1
+8e027d58,"[<*>,<*>,<*>,<*>,gig:<*>:CLASSIC_INBOX_ALL_MAIL,<*>,Notification(channel=^nc_1_mail_girlana.santos@<*> shortcut=null contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> category=email groupKey=gig:<*>:CLASSIC_INBOX_ALL_MAIL sortKey=<*> actions=<*> vis=PRIVATE publicVersion=Notification(channel=^nc_1_mail_girlana.santos@<*> shortcut=null contentView=null vibrate=null sound=null tick defaults=<*> flags=<*> color=<*> category=email groupKey=silent vis=PUBLIC)),<*>]",4
+13b5da3f,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>$DevelopmentSettingsDashboardActivity,<*>,<*>]",1
+5b7cdc39,"[<*>,<*>/.SubSettings,positionChildAt,<*>]",1
+d91bf3a3,"[<*>,<*>,<*>/.SubSettings,userLeaving=true,resumeTopActivityInnerLocked,<*>]",1
+311c2391,"[<*>,<*>,<*>/.SubSettings,makeInvisible,<*>]",1
+82144f95,"[<*>,<*>,<*>,<*>,<*>,development.DevelopmentSettingsDashboardFragment<*>,<*>,<*>]",6
+06d9b7e4,"[<*>,<*>,<*>,<*>,<*>,development.DevelopmentSettingsDashboardFragment<*>,<*>,-<*>]",2
+37ea0b58,"[<*>,<*>,<*>/.SubSettings,processStoppingAndFinishingActivities,true]",1
+a549aac9,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,bugreport,<*>,<*>]",1
+1df28f68,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,bugreports,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+b2cc3dc7,"[<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,bugreports,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>]",1
+37c5c733,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",8
+07adc5bf,"updateLocale: countryIso = br, countryIsoDebugInfo = OperatorNumeric(<*>): MccTable.countryCodeForMcc(""<*>"")",50
+00534fe7,"updateLocale: timeZoneCountryIso = br, timeZoneCountryIsoDebugInfo = OperatorNumeric: MccTable.geoCountryCodeForMccMnc(MccMnc{mcc='<*>', mnc='<*>'})",50
+d24d76b2,"handleCountryDetected: countryIsoCode=br, mLatestNitzSignal=null",50
+290319b0,[<*>]> <*> [PHONE0],369
+1e6a1e38,"[<*>]< GET_ACTIVITY_INFO ModemActivityInfo{ mTimestamp=<*> mSleepTimeMs=<*> mIdleTimeMs=<*> mTxTimeMs[]=[<*>, <*>, <*>, <*>, <*>] mRxTimeMs=<*>} [PHONE0]",88
+316e7b38,[<*>] handleMessage: received event <*>,505
+89f48ad0,[getSlotIndex]- subId invalid,229
+93bac696,[<*>]> <*> [PHONE1],195
+e77959b7,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_reqlist_find: [RID <*>] Not found ReqList entry : token <*>",286
+5dc3fbb1,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_reqlist_free: [RID <*>] Try to delete ReqList entry : token (<*>)",138
+1f45b23b,[<*>]< <*> <*> [PHONE1],51
+32de4118,processCellInfo: cell info=[],70
+db9a652a,"updateLocale: countryIso = , countryIsoDebugInfo = empty as default",70
+c410b21d,"updateLocale: timeZoneCountryIso = , timeZoneCountryIsoDebugInfo = Defaulted: empty as default",70
+c655b9a5,handleCountryUnavailable: mLatestNitzSignal=null,70
+5de6a684,"doTimeZoneDetection: countryIsoCode=null, nitzSignal=null, suggestion=TelephonyTimeZoneSuggestion{mSlotIndex=<*>, mZoneId='null', mMatchType=<*>, mQuality=<*>, mDebugInfo=[getTimeZoneSuggestion: nitzSignal=null, countryIsoCode=null, Detection reason=handleCountryUnavailable()]}, reason=handleCountryUnavailable()",70
+2e1bdd69,Can't get cell info. Try again in <*> secs.,35
+6aa3228a,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_cell_info_process: rsp: <*>, ts: <*>, resp: <*>, len: <*>",39
+e39f9d56,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_cell_location_to_ril_cell_info_v12: data: <*>, data->parm1: <*>, data->input: <*>",39
+21064919,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_cell_location_to_ril_cell_info_v12: Running v12 conversion",39
+33c99c95,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_qmi_nas_count_cell_location_info_cells: <*> Cells found: <*>",78
+39c0d3b9,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_qmi_nas_count_cell_location_info_cells: <*> - <*> <*> Cells found: <*>",78
+3746e9b9,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_qmi_nas_count_cell_location_info_cells: Umts Cell Id valid",39
+dc8336cf,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_cell_location_to_ril_cell_info_v12: CellInfo slots allocated: <*>. Buflen: <*>, buf: <*>",39
+125a6672,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_cell_info_process: >>CELL_LOCATION_INFO -> RIL_CellInfo_v12<< Successful",39
+024c0711,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",7
+49c608cd,getCellLocation returning null because CellLocation is empty or phone type doesn't match CellLocation type,5
+7ede2759,received oemhook indication,8
+eb11534d,handle event - <*>,4
+bcd43eda,Unsol response received; Sending ack to ril.cpp <*>,52
+4d711597,[UNSL]< UNSOL_RESPONSE_NETWORK_STATE_CHANGED <*>,52
+a2a093b9,onNetworkStateChanged,52
+8c39e8ac,[<*>] pollState: modemTriggered=true,52
+903e1fa2,[<*>] <*>,134
+c973ac06,<*> overrideHalVersion=null <*>,88
+058a21e3,"[<*>]< DATA_REGISTRATION_STATE {.base = {.regState = NOT_REG_MT_SEARCHING_OP_EM, .rat = <*>, .reasonDataDenied = <*>, .maxDataCalls = <*>, .cellIdentity = {.cellInfoType = WCDMA, .cellIdentityGsm = [], .cellIdentityWcdma = [{.base = {.mcc = <*>, .mnc = <*>, .lac = <*>, .cid = <*>, .psc = <*>, .uarfcn = <*>}, .operatorNames = {.alphaLong = VIVO, .alphaShort = VIVO}}], .cellIdentityCdma = [], .cellIdentityLte = [], .cellIdentityTdscdma = []}}, .vopsInfo = {.noinit = {}}, .nrIndicators = {.isEndcAvailable = false, .isDcNrRestricted = false, .isNrAvailable = false}} [PHONE0]",36
+146a05ad,"onRequestNetworkRegistrationInfoComplete result: <*>, info: NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}",36
+2f703ab6,[<*>] QTISST: handlePollStateResultMessage processing <*>,201
+cfff64c7,[<*>] handlePollStateResultMessage: PS cellular. NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false},34
+953bf1c9,[<*>]< QUERY_NETWORK_SELECTION_MODE {<*>} [PHONE0],36
+7024a7d2,"[<*>]< OPERATOR {, , } <*>",52
+fcc70c98,"[<*>]< VOICE_REGISTRATION_STATE {.regState = <*> .rat = <*>, .cssSupported = false, .roamingIndicator = <*> .systemIsInPrl = -<*>, .defaultRoamingIndicator = -<*>, .reasonForDenial = <*>, .cellIdentity = {.cellInfoType = NONE, .cellIdentityGsm = [], .cellIdentityWcdma = [], .cellIdentityCdma = [], .cellIdentityLte = [], .cellIdentityTdscdma = []}} <*>",52
+50d5d885,<*> <*> <*> <*> NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> <*> <*> cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false <*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false},101
+6f4eec5e,[<*>] Could not set ServiceState channel number. CellIdentity null,65
+829dc5b7,"[<*>] combinePsRegistrationStates: {mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=-<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}",26
+e863fc91,"[<*>] Poll ServiceState done: oldSS=[{mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false <*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo : mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}] newSS=[{mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false <*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo : mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}] oldMaxDataCalls=<*> mNewMaxDataCalls=<*> oldReasonDataDenied=<*> mNewReasonDataDenied=<*>",32
+56ddedd8,[<*>] pollStateDone: hasRegistered = false hasDeregistered = false hasDataAttached = {<*>=false} hasDataDetached = {<*>=false} hasDataRegStateChanged = {<*>=false} hasRilVoiceRadioTechnologyChanged = false hasRilDataRadioTechnologyChanged = {<*>=false} hasDataTransportPreferenceChanged = false hasChanged = <*> hasVoiceRoamingOn = false hasVoiceRoamingOff = false hasDataRoamingOn =false hasDataRoamingOff = false hasLocationChanged = <*> has4gHandoff = false hasMultiApnSupport = false hasLostMultiApnSupport = false hasCssIndicatorChanged = false hasNrFrequencyRangeChanged = false hasNrStateChanged = false hasAirplaneModeOnlChanged = false,48
+7f0c6909,"[<*>] updateSpnDisplay: radio is on but out of service, set plmn='Somente chamadas de emerg├¬ncia'",10
+0096f802,[<*>] updateSpnDisplay: rawSpn =,10
+2346686f,"[<*>] Broadcasting ServiceState : {mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}",7
+a060a975,"notifyServiceStateForSubId: mRegistryMgr=<*>@<*> ss={mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null} sender=Handler (<*>) {<*>} phondId=<*> subId=-<*>",7
+40516847,notifyServiceStateForSubscriber: INVALID phoneId=<*> or subId=-<*>,10
+052f2115,ServiceState.getRadioTechnology() DEPRECATED will be removed *******,20
+9f126bbd,notifyCellLocationForSubscriber: subId=-<*> cellIdentity=[****],4
+ffbc3441,[<*>] handleMessage what=<*>,10
+bec1ab8d,[<*>]DcPhoneStateListener: oem msgId=<*> secondId=<*>,8
+745eae7f,Invalid PhysicalChannelConfig <*>: Physical cell Id: <*> is over limit. [PHONE0],19
+6ae57755,"[<*>] <*> <*> mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), <*> duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false <*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo : mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}",38
+8e5ab7ed,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",7
+64e9c4a2,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",7
+2d1d464c,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",5
+67608148,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",5
+fcbab2e6,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",5
+4765fa0e,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",5
+ea19f585,[<*>]> SEND_DEVICE_STATE <*> <*>,64
+ba4e1f22,[<*>]> SET_UNSOLICITED_RESPONSE_FILTER <*> <*>,64
+2ca50768,"[<*>] setSignalStrengthReportingCriteria: signalStrengthMeasure[<*>]  hysterasisDb[<*>]  thresholds[[-<*>, -<*>, -<*>, -<*>]]  consolidatedThresholds[[]]",96
+59d195bb,[<*>] <*> process EVENT_PHYSICAL_CHANNEL_CONFIG_NOTIF_CHANGED,128
+596cfb88,[<*>] Remove all timers,96
+3b5732ab,[<*>] mIsPhysicalChannelConfigOn changed to: <*>,64
+8e00eef6,"[<*>] <*> <*> mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=-<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(Unknown), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=false, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=-<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_OR_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo : mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn= isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}",34
+297edc80,[<*>]< <*> <*>,192
+a6410b76,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_toggle_dormancy_indications: Switch ON<*> dormancy indications on all active interfaces ioctl:<*> Update global_dorm_ind: <*>",64
+724bac60,"(<*><*>): RIL[<*>][(<*>,<*>)] <*> <*> EXIT with SUCCESS",128
+367a57e4,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_toggle_limited_sys_indications: ENTRY: Limited data system indications switch: <*>, All calls dormancy status: <*>",64
+e49c00c2,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_reg_sys_ind: qcril_data_reg_sys_ind: ENTRY, switch <*>",64
+2d09c06a,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_toggle_limited_sys_indications: EXIT",64
+b20f70fe,[<*>]< <*> [PHONE1],128
+cdc56c66,[<*>]screen <*>,24
+2ee89a3c,[<*>]stopNetStatPoll,24
+f4ab4f91,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",8
+50629105,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",8
+8c869b30,[getActiveSubscriptionInfoForSimSlotIndex]+ slotIndex=<*> subId=null,52
+7d37ebe4,"[<*>] setSignalStrengthReportingCriteria: signalStrengthMeasure[<*>]  hysterasisDb[<*>]  thresholds[[-<*>, -<*>, -<*>, -<*>]]  consolidatedThresholds[[-<*>, -<*>, -<*>, -<*>]]",96
+fb8c3d9d,getVoiceRegistrationState: overrideHalVersion=null [PHONE1],16
+b55b4b91,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_process_qmi_dsd_ind: <*> <*>",96
+46a46e76,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_process_qmi_dsd_ind: sys[<*>] network=<*>, rat=<*>, so_mask=<*>",32
+ae974a4d,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_process_qmi_dsd_ind: data sys status has not changed, skipping partial retry",32
+bcdc6491,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_data_process_qmi_dsd_ind: NULL bearer reported, skipping cache update",32
+d13142e2,"(<*><*>): RIL[<*>][(<*>,<*>)] get_ecc_property_name: ecc list name : <*>",64
+9905b8ed,"(<*><*>): RIL[<*>][(<*>,<*>)] <*> <*> PBM_CACHE_LOCK",256
+147b4b87,"(<*><*>): RIL[<*>][(<*>,<*>)] qmi_ril_set_ecc_property: new saved <*> <*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>",64
+859ffcbd,"(<*><*>): RIL[<*>][(<*>,<*>)] mot_qmi_ril_get_property_value_from_string: [MOTO] qmi_ril_get_property_value_from_string, property_value: <*>,null,null,<*>",32
+39ed78e5,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_file_read_data: Hit end of file in reading",32
+9bc09028,"(<*><*>): RIL[<*>][(<*>,<*>)] qcril_file_read_data: read <*> instead of <*>",32
+9a7d8d44,"(<*><*>): RIL[<*>][(<*>,<*>)] qmi_ril_send_ecc_list_indication: copy pbm list to final ecc map - number: <*>, shared_ptr: <*>",288
+bfd1df28,"[UNSL]< UNSOL_EMERGENCY_NUMBER_LIST [EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>] <*>",32
+6aaa30b1,"updateRadioEmergencyNumberListAndNotify(): receiving [EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>, EmergencyNumber:Number<*>|CountryIso-|Mnc-|ServiceCategories<*>|Urns-[]|Sources<*>|Routing<*>]",32
+54b0ab33,"[<*>]< DATA_REGISTRATION_STATE {.base = {.regState = NOT_REG_MT_NOT_SEARCHING_OP, .rat = <*>, .reasonDataDenied = <*>, .maxDataCalls = <*>, .cellIdentity = {.cellInfoType = NONE, .cellIdentityGsm = [], .cellIdentityWcdma = [], .cellIdentityCdma = [], .cellIdentityLte = [], .cellIdentityTdscdma = []}}, .vopsInfo = {.noinit = {}}, .nrIndicators = {.isEndcAvailable = false, .isDcNrRestricted = false, .isNrAvailable = false}} [PHONE1]",16
+ae27918c,"onRequestNetworkRegistrationInfoComplete result: <*>, info: NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_OR_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn= isUsingCarrierAggregation=false}",16
+8750d637,[<*>] handlePollStateResultMessage: PS cellular. NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_OR_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn= isUsingCarrierAggregation=false},16
+3f43675f,[<*>] Exception while polling service state. Probably malformed RIL <*>: Attempt to invoke virtual method 'int <*>()' on a null object reference,16
+73c10497,"[<*>] combinePsRegistrationStates: {mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=-<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(Unknown), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=false, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_OR_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=-<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}",14
+6c81420c,"[<*>] Poll ServiceState done:  oldSS=[{mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=-<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(Unknown), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=false, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=-<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_OR_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn= isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}] newSS=[{mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=-<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(Unknown), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=false, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=-<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_OR_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=false availableServices=[] cellIdentity=null voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn= isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}] oldMaxDataCalls=<*> mNewMaxDataCalls=<*> oldReasonDataDenied=<*> mNewReasonDataDenied=<*>",16
+505b039e,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO mTimeStamp=102059921558249ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=102059921558249ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",1
+ee20217b,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO mTimeStamp=102059921558249ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=102059921558249ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",1
+c1868d77,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",4
+3b9d14b0,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO <*> mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",4
+5f97bbd4,<*> phone is null for Subscription:-<*>,4
+50ad08c7,"[<*>] Broadcasting ServiceState : {mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=-<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null}",3
+f91a19b6,"notifyServiceStateForSubId: mRegistryMgr=<*>@<*> ss={mVoiceRegState=<*>(OUT_OF_SERVICE), mDataRegState=<*>(OUT_OF_SERVICE), mVideoRegState=<*>(OUT_OF_SERVICE), mChannelNumber=<*>, duplexMode()=<*>, mCellBandwidths=[], mOperatorAlphaLong=, mOperatorAlphaShort=, isManualNetworkSelection=false(automatic), getRilVoiceRadioTechnology=<*>(Unknown), getRilDataRadioTechnology=<*>(HSPA), mCssIndicator=unsupported, mNetworkId=-<*>, mSystemId=-<*>, mCdmaRoamingIndicator=-<*>, mCdmaDefaultRoamingIndicator=-<*>, mIsEmergencyOnly=true, isUsingCarrierAggregation=false, mArfcnRsrpBoost=<*>, mNetworkRegistrationInfos=[NetworkRegistrationInfo{ domain=CS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=UNKNOWN rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=null voiceSpecificInfo=VoiceSpecificRegistrationInfo { mCssSupported=false mRoamingIndicator=-<*> mSystemIsInPrl=-<*> mDefaultRoamingIndicator=-<*>} dataSpecificInfo=null nrState=**** rRplmn= isUsingCarrierAggregation=false}, NetworkRegistrationInfo{ domain=PS transportType=WWAN registrationState=NOT_REG_SEARCHING roamingType=NOT_ROAMING accessNetworkTechnology=HSPA rejectCause=<*> emergencyEnabled=true availableServices=[EMERGENCY] cellIdentity=CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} voiceSpecificInfo=null dataSpecificInfo=<*> :{ maxDataCalls = <*> isDcNrRestricted = false isNrAvailable = false isEnDcAvailable = false LteVopsSupportInfo :  mVopsSupport = <*> mEmcBearerSupport = <*> } nrState=**** rRplmn=<*> isUsingCarrierAggregation=false}], mNrFrequencyRange=<*>, mOperatorAlphaLongRaw=, mOperatorAlphaShortRaw=, mIsDataRoamingFromRegistration=false, mIsIwlanPreferred=false, mIsCdmaFemtoCell=false, mIsLteFemtoCell=false, mIsOnCsgCell=false, mCsgId=-<*>, mCsgName=null} sender=Handler (<*>) {<*>} phondId=<*> subId=-<*>",3
+56b1cc6b,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",1
+0e62d085,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=109256862740027ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",1
+19055113,"[<*>]< GET_CELL_INFO_LIST [CellInfoWcdma:{mRegistered=NO mTimeStamp=111657320074991ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=111657320074991ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}] [PHONE0]",1
+85476c58,"processCellInfo: cell info=[CellInfoWcdma:{mRegistered=NO mTimeStamp=111657320074991ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=<*> mMnc=<*> mAlphaLong=VIVO mAlphaShort=VIVO mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}, CellInfoWcdma:{mRegistered=NO mTimeStamp=111657320074991ns mCellConnectionStatus=<*> CellIdentityWcdma:{ mLac=<*> mCid=<*> mPsc=<*> mUarfcn=<*> mMcc=null mMnc=null mAlphaLong= mAlphaShort= mAdditionalPlmns={} mCsgInfo=null} CellSignalStrengthWcdma: ss=-<*> ber=<*> rscp=-<*> ecno=<*> level=<*>}]",1
+e761565e,RIL.java - Using IRadio <*>.<*> or greater [PHONE0],2
+500e1694,[<*>]< GET_ALLOWED_CARRIERS error <*> [PHONE0],2
+d196d0af,"[<*>]< GET_ALLOWED_CARRIERS error: <*>: REQUEST_NOT_SUPPORTED ret=CarrierRestrictionRules(allowed:[], excluded:[], default:<*>, multisim policy:<*>) result={ <*> what=<*> obj=<*>$MainThreadRequest@<*> target=<*>$MainThreadHandler hashCode=<*> }",2
+e53b41fa,"Bugle: SubscriptionMetadataUtils get: unexpected subId = -<*>, replacing with -<*>",36
+8b170aa1,updateActiveTransport: refreshing chat transport,3
+3b3ac675,Completed sync. Scheduling next wakeup,1
+7e1f4c9f,Mobalt: enqueue sending logs to the Cobalt Server,1
+f0abb541,"Wear Companion app is not installed on phone. Skipping sync to wear devices. [CONTEXT class_name=""SyncDataToWearableAppHandler"" ]",2
+6ce5789e,libdebuggerd_client: failed to read status response from tombstoned: Try again,1
+900fd0b0,intercept for pid <*> and type kDebuggerdJavaBacktrace terminated: due to input,1
+f9eb02b6,libdebuggerd_client: <*> dumping process <*>,62
+c86bf8e2,registered intercept for pid <*> and type kDebuggerdJavaBacktrace,31
+2f18d088,anr_monitor_loop SIGQUIT,2
+c5754753,"Thread[<*>,tid=<*>,WaitingInMainSignalCatcherLoop,Thread*=<*>,peer=<*>,""Signal Catcher""]: reacting to signal <*>",31
+82fde708,received crash request for pid <*>,31
+89bb2917,<*> intercept fd <*> for pid <*>,62
+ca7f239b,Wrote stack traces to tombstoned,31
+37fb4b33,missing output fd,31
+f7558345,No such thread for suspend: <*>:Okio Watchdog,1
+b5448d44,"- RowBase2: <*> <*>, <*> <*>",4
+07cc246e,"- RowBase2: sPrevChargeRate = <*>, new = <*>",2
+bfbf4bcd,- RowBase2: sPrevPlugType: <*> plugType: <*>,2
+ec43573b,Duration of 'DUMP <*> <*>,3
+c7384cb2,Duration of 'Wait for DUMP <*> <*>,2
+406ce928,shutdown thread pool,1
+2ffbac6a,Start thread pool:<*>,1
+74e502db,Stream incident report to dumpstate,1
+6f47502c,Starting incident report,1
+17dffa62,<*> incident report section <*> <*> <*>,12
+713e2e70,section <*> status <*>,136
+169b34e9,<*> Reading VINTF information.,4
+f4adc248,<*> Successfully processed VINTF information,4
+5ffa030e,*** command <*> <*> <*> failed: exit code <*>,2
+b337ada5,Duration of 'HARDWARE HALS': <*>.16s,1
+44561bfc,"<*> does not exist, or no permission to connect.",232
+5a531df8,*** command 'lshal debug -E <*> failed: exit code <*>,232
+7ab51549,[<*>] aocx.j(<*>): Preparing logs for uploading,1
+f7f8f3b9,[<*>] aocx.j(<*>): Connecting to server: https:/<*>.googleapis.com<*>?format=raw&proto_v2=true,1
+bb76110c,[<*>] aocx.j(<*>): Successfully uploaded logs.,1
+911f08ff,"Buffer corrupted: expect <*> bytes, read <*> bytes",1
+48af930e,<*> incident report section <*> <*> <*> <*> <*>,43
+546e1285,[logcat -b <*> -L] fails to read a log_msg.,7
+9cd7d597,[logcat -b <*> -L] worker failed with error 'Permission denied',7
+9818e038,warning in section <*> (-<*>) 'Permission denied': WorkerThreadSection failed.,7
+d92c8a0a,Start incident report section <*> 'cmd <*> <*> -l run persisted_logs --limit 10MB',1
+c0734d00,Duration of 'PROCESSES AND THREADS': <*>.05s,1
+b81a5102,[<*>:<*>:<*><*>.<*>:VERBOSE1:tt_multi_idc_manager.cc(<*>)] match: <*> code: <*>,4
+18dc3821,>>>>>> START <*> uid <*> <<<<<<,1
+eb8ab311,Failed to read cache-info from the default path: Permission denied,1
+d6e74111,Using default boot image,1
+e76048c8,Leaving lock profiling enabled,1
+064c7e18,"<*> boot image check failed, could not stat: <*>.android.art<*>.art: Permission denied",2
+4bfdd451,"Error reading named image component header for <*>.art, error: Unable to open file ""<*>.art"" for reading image header",1
+7b749513,"Could not create image space with image file '<*>.art!<*>.android.art<*>.prof:<*>.art!<*>.prof'. Attempting to fall back to imageless running. Error was: Unable to open file ""<*>.art"" for reading image header",1
+03b8bc00,InitDefaultPublicLibraries for_preload=<*>: libandroid.so:libaaudio.so:libamidi.so:libbinder_ndk.so:libc.so:libcamera2ndk.so:libdl.so:libEGL.so:libGLESv1_CM.so:libGLESv2.so:libGLESv3.so:libicu.so:libicui18n.so:libicuuc.so:libjnigraphics.so:liblog.so:libmediandk.so:libm.so:libnativehelper.so:libnativewindow.so:libOpenMAXAL.so:libOpenSLES.so:libRS.so:libstdc++.so:libsync.so:libvulkan.so:libwebviewchromium_plat_support.so:libz.so,1
+c1b6a2b8,Already started: anhl@<*>,2
+faed5ed7,Time zone APEX ICU file found: <*>.android.tzdata<*>.dat,1
+7b65f118,I18n APEX ICU file found: <*>.android.i18n<*>.dat,1
+438471d7,Failed to create JIT Code Cache: Failed to initialize memory file: Permission denied,1
+3fa1c3e2,Could not check odex file <*>.android.art<*>@framework@incident-helper-cmd.jar@classes.odex: Permission denied,1
+a51e70ec,Failed to determine oat file name for dex location <*>.jar: Dalvik cache directory does not exist,1
+044cf35b,Calling main entry <*>,1
+107581d3,"Args: [-l,run,persisted_logs,--limit,10MB]",1
+35cc3895,-----------Debug is called----------------,1
+38c29f6b,Skip dump. <*> does not exist.,1
+3d8531e4,Shutting down VM,1
+b1cb2619,create file failed: Permission denied,1
+84c4ce5d,Error writing files to flash,1
+02b8ffbc,debug() FAILED on <*>@<*>.<*>::IServiceManager<*>: Status(EX_TRANSACTION_FAILED): 'FAILED_TRANSACTION: ',1
+4224ebfd,Finish incident report section <*> 'cmd <*> <*> -l run persisted_logs --limit 10MB',1
+4cb8f016,[file <*>] failed to open file,2
+cc222615,setSectionStats not called for section <*>,3
+9dc383bb,"<*> incident report section <*> 'cmd top -b -n <*> -H -s <*> -o pid,tid,user,pr,ni,%cpu,s,virt,res,pcy,cmd,name'",2
+ee1e30e5,[<*>:<*>:<*><*>.<*>:VERBOSE1:spdy_session.cc(<*>)] DoDrainSession key: <*>:<*> multi index: <*> Error: -<*> description: Connection closed,1
+0dfc40cf,"<*> incident report section <*> 'cmd ps -A -T -Z -O pri,nice,rtprio,sched,pcy,time'",2
+75708aa8,Calling IDumpstateDevice implementation using path <*>,2
+c2eca3ac,Using IDumpstateDevice v1.<*>,1
+bfaf8f33,The requested mode is not supported: INTERACTIVE,1
+144b2d39,dumpstateBoard failed with DumpstateStatus::UNSUPPORTED_MODE,1
+4f31401e,Ignoring empty <*>,2
+9120c37e,Adding dir <*> (recursive: <*>),5
+ad228a1a,"AddAnrTraceDir(): dump_traces_file=<*>.android.shell<*>, anr_traces_dir=<*>",1
+11d2f46e,Dumping current ANR traces (<*>.android.shell<*>) to the main bugreport entry,1
+b87102d8,Package enqueue rate is <*>.<*>. Shedding <*>|<*>|<*>|null|<*>. package=<*>,1
+f8621db7,Duration of 'CHECKIN <*> <*>,2
+5ddac10e,Start incident report section <*> 'gzip <*> <*> <*>',1
+9b86059d,GZipSection failed to open file <*>,3
+78ffa0d1,[gzip <*> <*> <*>] can't open all the files,1
+9db2265a,Finish incident report section <*> 'gzip <*> <*> <*>',1
+de32d40d,Finish incident report section <*> 'dumpsys <*> <*> <*>,29
+7e1c8d75,<*> incident report section <*> 'dumpsys <*> --proto',44
+35b9820d,"<*> stats: <*><*><*><*><*><*>, over <*>",21
+763224a9,BugleApplicationBase: Bugle version: <*>,1
+c6124ff5,DarkModeManager: setDarkMode: -<*>,1
+e364d323,Skipping <*> <*> for <*>,2
+c03e0333,Created SystemJobScheduler and enabled SystemJobService,1
+947518cf,Initializing EmojiCompat,1
+b5611b3b,[<*>] <*> Initializing Carrier Services <*>,2
+0786bf46,LogSaver new instance with filename: carrier_services,1
+b2b282f7,Registering preference change listener for <*>,2
+b3528d51,TelephonyManagerFactory: Returning per-subscription TelephonyManager (>= N) subscription{id:-<*>},1
+087335d0,createWorker for class: <*>,1
+3e519dac,SubscriptionUtilsAsOfLMR1: getActiveSubscriptionInfo(): empty sub info for subscription{id:-<*>},9
+7779aa7c,DatabaseHelperBasic: sqlite version is <*>,1
+97a714ec,PeriodicWorker: startWork,1
+d2f81b1e,HeavyWorkQueueEmptyObserver: Starting observation of WorkQueueWorkManagerTable,1
+5c1d6c38,A SQLiteConnection object for database '<*>.<*><*>.db' was leaked!  Please fix your application to end transactions in progress properly and to close the database when it is no longer needed.,1
+7ee73d62,Failed to add file group,58
+19852cd5,RuntimeException while executing runnable desm{cyyk@<*>} with executor MoreExecutors.directExecutor(),2
+0f03b4c2,<*>: Attempt to read from field '<*> clus.b' on a null object reference in method 'void cnam.b(<*>)',2
+f9e6cadf,<*> file groups <*>,8
+5b3e3e48,BugleSystemBindingManager: onBuglePhenotypeFlagChanged,2
+d6ec22e0,[<*>] byil.run: SystemBindingManager: SystemBinding enabled: true,2
+413c8959,[<*>] byim.b: System Binding updated,2
+964c8c27,onBuglePhenotypeFlagChanged: kicking off updateActiveTransport,2
+e7aadaf1,Failed to get msisdn from Bugle,3
+6e579a16,RcsAvailabilityUtilForProvisioningEngineV2: <*> hint: NO_HINT,2
+704704bf,"<*> scheduling <*> call. Hint: NO_HINT, enableWelcomePopupWithoutGoogleTos: false, reshowSuccessPopup: false",2
+710819b6,"[<*>] bztg.d: [SR]: Single Registration is disabled. Skipping Single Registration capability check for subId: -<*>, OS.isAtLeastS:[true], enableSingleRegistrationProvisioning:[false]",4
+533d6aae,"RcsAvailability configuration availability and enabled status: simId: redacted-pii:sim_id[chars:<*>,last3:], SipConnectionType: DUAL_REG, isConfigurationAvailableAndEnabled: false",2
+c0029601,"updateRcsAvailability: currentAvailability: <*>, newAvailability: <*>, hint: NO_HINT",2
+4a240ec4,isChatAvailable: RcsAvailability is DISABLED_SIM_ABSENT (RCS is disabled due to SIM absent),2
+3f75adda,Considering local module <*>:<*> and remote module <*>:<*>,1
+d433dce7,SubscriptionUtilsAsOfLMR1: getSelfRawNumber: subInfo is null for subscription{id:-<*>},3
+6f30ffff,"No default number, returning empty msisdn",3
+94587aa9,"Tachygram is disabled because the RCS Configuration is empty [CONTEXT ratelimit_period=""<*> SECONDS"" ]",3
+7eeccc47,"Enabled chat transport is TRANSPORT_RCS [CONTEXT group_by=""TRANSPORT_RCS"" ratelimit_period=""<*> SECONDS"" ]",3
+7720313e,"refreshChatTransport: isChatAvailable: false, enabledTransport: <*>, configuration: <empty>",2
+7e955b03,<*> RcsEngineLifecycleService,4
+b2cf7d3b,"shouldUseCarrierServicesJibeService: true, CarrierServices rcs service found: true",2
+2402b422,<*> connected,2
+d62cf94b,"[<*>] RcsEngineImpl.triggerStopRcsStack: RcsEngineImpl[DUAL_REG]:[<*>-<*>]: triggerStopRcsStack for msisdn:redacted-pii:phone_number[chars:<*>,last2:]",2
+02b0144b,[<*>] ekm.handleMessage: RcsEngineImpl[DUAL_REG]:[<*>-<*>]>Handler: RCS engine STOP RCS stack,2
+028ce4c8,"[<*>] RcsEngineImpl.f: RcsEngineImpl[DUAL_REG]:[<*>-<*>]: imsModule is null, shutdown not required",2
+b35559da,[<*>] RcsEngineImpl.stopRcsStackInternal: RcsEngineImpl[DUAL_REG]:[<*>-<*>]: skipping imsModule.stop,2
+db753c15,"Worker result SUCCESS for Work [ id=<*>-<*>-<*>-<*>-<*>, tags={ <*>,<*> } ]",1
+36e25abf,[(<*>):] L3 Terminate.,1
+4564538b,OEMCrypto_Terminate,1
+1598d72c,Cleanup OEMCrypto library,1
+c551d5a2,Freed all scratch buffers,1
+3c44fabf,BugleStartup: Registering SIM change receiver...,1
+d37db37f,BugleStartup: Updating app config...,1
+faf39dc0,BugleStartup: Done with SIM change receiver & app config.,1
+128586c7,BugleStartup: Handling shared prefs upgrade & Load MMS Configuration...,1
+989f96f1,Waiting for a blocking GC <*>,3
+405a7c60,[<*>] cary.c: do not delay first event,1
+9b2d07c4,BugleStartup: Initializing RCS availability...,1
+9a7101b4,BugleStartup: Done with RCS availability.,1
+017d34db,BugleStartup: Done initializing with enabled individual init failures.,1
+be2145bb,[<*>] carv.n: (Sim): Processing an intent,2
+fcb14f8c,[<*>] cary.c: SIM delay is not enabled,1
+cbee42c3,[<*>] carv.a: (Sim): process intent: <*>,1
+52fb9a25,[<*>] carv.P: (Sim): SIM state ABSENT,1
+a6f8fb2b,[<*>] carv.A: (Sim): Broadcasting Intent { act=<*> },1
+0b4f46bd,SubscriptionUtilsAsOfLMR1: getSimSerialNumber: system returned empty sub info for  subscription{id:-<*>},1
+4390da53,WaitForGcToComplete blocked <*> on Explicit for <*>,3
+2dcff922,[<*>] carv.y: (Sim): Ignoring duplicate SIM state: ABSENT,1
+37d1d683,[PhoneIntfMgr] checkCarrierPrivilegesForPackage: No UICC on subId -<*>,1
+f86286f4,Starts to observe table change.,1
+e115cb61,"Icing index repair service is not scheduled. [CONTEXT class_name=""IcingMonitoringUtils"" ]",1
+c14d93cb,set is [].,1
+eb952622,Device unlocked: initializing all Firebase APIs for app [DEFAULT],1
+27c06f0a,FirebaseRegistrationStartupTask: Enabling Firebase component,1
+3264dd41,E2eeStartupTask: Skip prekey checking because MSISDN is empty.,1
+591ed410,Starting a blocking GC DisableMovingGc,1
+be784f91,Skipping GC due to disable moving GC count <*>,1
+d5d7207f,MddBackgroundStartupTask: Scheduled MDD periodic tasks.,1
+c922a2f9,RcsProvisioningTrigger: Schedule provisioning on app startup,1
+6dbd2e53,RcsProvisioningTrigger: updateAvailabilityForAllSimsAsync : hint = NO_HINT logTriggerEvent = false,1
+e1703860,Startup: registering tachyon.,1
+5ea6c918,"updateRcsAvailabilityForDefaultCallSim: hint: NO_HINT, canReshowWelcomeMessage: false",1
+2aa3723f,scheduleProvisioningForEligibleSims,1
+cafc336a,scheduleProvisioning using legacy code path,1
+a7815d9c,"RcsProvisioningTrigger: DR is active, initializing DR provisioning. DUAL_REG",1
+35e5553e,[<*>] aeah.q: provisioning: Skipping provisioning scheduling since RCS is disabled,1
+1aac4ac7,Startup: skip phone registration because of no sim.,1
+1d48a1fe,VerifiedSmsEnabledCheckerImpl: VSMS is disabled via Phenotype flag.,1
+cd87bf4d,"VerifiedSmsStartupTask: Checking if Verified SMS tasks should be enqueued. feature supported: false, feature enabled: false, eligible / has registered key: false, C11N: false",1
+95fdf724,"VerifiedSmsStartupTask: Not enqueuing VSMS periodic task, VSMS is disabled or not supported.",1
+029b260e,VerifiedSmsStartupTask: Not calling C11N to get phone numbers.,1
+24a8e3cf,Failed to remove thing with error code :error uri not found,1
+1c0f99f1,Ignore missing legacy kernel path in bugreport dump: kernel function list:<*>,2
+27f0a86f,DumpsysSection: Can't lookup service: <*>,2
+7baac63e,[dumpsys <*> --proto] worker failed with error 'No such file or directory',2
+f54bf056,warning in section <*> (-<*>) 'No such file or directory': WorkerThreadSection failed.,2
+d7af5a97,PowerStats HAL is not initialized.  No data available.,4
+abeb72ee,Done taking incident report err=Success,1
+e041326a,Duration of 'INCIDENT REPORT': <*>.18s,1
+2e0c97ed,[<*>]processOemHookIndication length=<*>,4
+d34dec16,Received Broadcast Intent ACTION_UNSOL_RESPONSE_OEM_HOOK_RAW,6
+577a9b5e,Oem ID in QCRILHOOK UNSOL RESP is QOEMHOOK,6
+a3e51e4a,invalid subId in handleServiceStateChange(),2
+771cb87d,subId=-<*>,2
+5d277a6a,Can't get phone with sub id = -<*>,2
+04b551ab,Invalid file format: <*>,1
+887b3502,onReceive Intent { act=<*> flg=<*> cmp=<*><*>.<*> (has extras) },2
+5237a1e2,"onServiceStateChanged, ss: <*>",2
+44410084,Can't get MTU for destination <*>::<*>:<*>:<*>:<*>,2
+027ab63f,<*>: connect failed: EINVAL (Invalid argument),2
+0cd10fab,WorkDirectory::getReports,1
+ef31f399,ActionExecutorImpl: Timestamp for <*> elapsedRealTime: <*> currentTimeMillis: <*>,5
+5e3fb206,"FixupMessageStatusOnStartupAction: sendFailedCnt: <*>, downloadFailedCnt: <*>, partsProcessingFailedCnt: <*>",1
+555669d5,Unregister ConnectivityStateListener for subId -<*> fail.,2
+579dcb53,PendingMessagesProcessor: process from <*> due to <*> <*> with delay <*> with queues:,2
+7b57b3ce,ProcessPendingMessagesTimers: cleared next retry time for channel <*>,8
+5fe1886d,"GenericWorkerQueueAction: Bailing early, no work found, no failed work found",1
+590026b4,Duration of 'SERVICE HIGH connectivity': <*>.98s,1
+8b4c88ca,Environment.isPackageInstalled():<*> <*> is not installed,2
+e2408c5d,Cannot read <*> keys,2
+86d1240e,<*>: <*> open failed: ENOENT (No such file or directory),3
+76ffd47e,Caused by: <*>: open failed: ENOENT (No such file or directory),3
+6c5e5869,... <*> more,4
+600ff34e,Cannot read keystore:,1
+47059090,"requestedCommunicationDevice, device: null mode owner pid: <*>",1
+62fb4b09,Ignoring invalid dump arg: -a,1
+1f1a7904,getServiceComponentName(): ComponentInfo{<*><*>.<*>},1
+ed95935e,bta_av_co_get_active_peer: peer index out of bounds: <*>,1
+be81993e,"Cannot suspend package ""<*>"": <*> <*> <*> <*>",2
+db0b6e45,"Packages subject to suspension: <*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.whatsapp,<*>,<*>,<*>,com.duolingo,<*>,<*>,<*>,<*>,com.pinterest,<*>,<*>,<*>,com.tubaflixtrailers,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,<*>,com.ubercab,<*>,<*>,<*>,<*>,com.comuto,<*>,<*>,<*>,com.zzkko,<*>,<*>,com.booking,<*>,<*>,<*>,<*>,<*>,<*>,<*>",1
+acf5e209,StrictMode policy violation; ~duration=<*> ms: <*>,1
+e0e4f792,Returning Dummy Value,16
+9f758d47,IncFs_GetMetrics: failed to read file: <*>: No such file or directory,1
+06c1fe48,Using old permission behavior for telephony provider compat,11
+92efb078,"Since 'apexservice' could not be found, trying to start it as a lazy AIDL service",1
+8d494700,<*> (server) spent <*> processing MotionEvent,107
+06dce03e,<*> NotificationShade (server) spent <*> processing MotionEvent,42
+1a69e779,onLastStrongRef automatically unlinking death recipients: <uncached descriptor>,2
+c79700c0,"Tried to unregister apexservice, but there is about to be a client.",1
+6c515d75,Outgoing transactions from this process must be FLAG_ONEWAY,1
+ee288f4b,service 'idmap' died,1
+c2af876b,"PhoneAccountRegistrar: getSimCallManager: SimCallManager for subId -<*> queried, returning: null",1
+753a6000,"Initializing SystemTextClassifier, type = Default system",1
+5bf8e10c,"Initializing SystemTextClassifier, type = System",1
+aaa00f92,func: <*>,2
+4d4a4066,ThermalHAL not initialized properly.,2
+587c6dea,Couldn't get temperatures because of HAL error: ThermalHAL not initialized properly.,1
+a784211a,Couldn't get temperature thresholds because of HAL error: ThermalHAL not initialized properly.,1
+21dc2ef6,dumpPackageWhitelistProblems(): using mode ENFORCE|IMPLICIT_WHITELIST,1
+aba42676,Attempt to read from protected data in Parcel <*>,3
+5932c529,Expecting header <*> but found <*>. Mixing copies of libbinder?,1
+b2c76df7,Attempt to read object from Parcel <*> at offset <*> that is not in the object list,1
+1bcd3b34,handleResponse: OTHER_RX_MULTICAST_CNT not found,1
+c8d5e02e,"JIT allocated 96KB for compiled code of void <*>(<*>, <*>, <*>[])",1
+0734a3d4,"Compiler allocated 6818KB to compile void <*>(<*>, <*>, <*>[])",1
+855acef9,Failed to read event trace: <*>,1
+a21155e3,Latest scan results nowMs = <*>,1
+f1d08644,Latest native scan results nowMs = <*>,1
+93783011,Duration of <*> <*>,3
+6904a92d,[<*>:<*>:<*><*>.<*>:VERBOSE1:spdy_session.cc(<*>)] DoDrainSession key: <*>:<*> multi index: <*> Error: <*> description: Finished going away,1
+339bccfa,[PhoneIntfMgr] isRttSupported: phone is null. calling getDefaultPhone,1
+4470e07f,Not eulogizing buffers; they are <*> hours old,1
+e043a63a,Duration of 'APP <*> <*> <*>,4
+84fb35ce,-> SND dump CND,1
+bd1df6e6,[<*>] ofw.dump(<*>): <*> to dump debug info.,2
+4d0499d5,[<*>] rpm.P(<*>): Successfully completed dumping debug info.,1
+7560ffda,Retrieved File Group is null,1
+5059d7dc,Write failure,1
+1251b034,<*>: write failed: EPIPE (Broken pipe),1
+5b3f906e,Caused by: <*>: write failed: EPIPE (Broken pipe),1
+8a97db7c,No Finder use case is enabled. [CONTEXT service_id=<*> ],1
+8ad66938,"Record file <*>.<*><*>.tmp not found, ignoring",1
+6f875e3e,#audio# getAudioState,2
+b3beb357,(REDACTED) no case for handling featuretype:%d,5
+04e44417,(REDACTED) <*> %s,5
+0a8be17a,"(REDACTED) Location for model with model type: %s and locale: %s, is : %s",1
+829be6d1,Falling back to non-UDC sources,4
+2378ab85,"(REDACTED) Setting = %s, optedInt = %s",4
+fb4f2783,on dump start,1
+386aa64c,"(REDACTED) TngMaStateFormatter isConnected: %b, connectionFailureReason: %s, isTngEligible: %b, TngNonEligibleReason: %s, isTimedout: %b, isUnexpectedFailure: %b, isFlagDisabled: %b",1
+7aef5868,Building state dump string for APA Data Download API,1
+d59f67b5,(REDACTED) Requesting summary for requests after %s,1
+4763c8f4,Collecting debug data,2
+61c06910,"(REDACTED) The setting %s has not been set, or the string value is not a number",2
+a940f5bf,(REDACTED) Log <*> opt in status: %s.,4
+5237a228,"(REDACTED) getUpcomingEvents(%s, %s)",2
+d8a3dde7,(REDACTED) <*> <*> size=%s,4
+2e48df32,Returning an empty list of available cloud providers since the Cloud-Media-in-Photo-Picker feature is disabled.,1
+988e8e90,Adjusting max progress from <*> to <*>,1

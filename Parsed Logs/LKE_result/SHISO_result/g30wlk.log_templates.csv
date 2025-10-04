@@ -1,0 +1,53 @@
+EventId,EventTemplate,Occurrences
+7a690d26,* (partial),1549
+3389dae3,*,1551
+3389dae3,*,455
+fc8c8dd6,*alarm* (partial),68
+7a690d26,* (partial),288
+7a690d26,* (partial),26
+3389dae3,*,13
+67af68c3,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork() (partial),4
+14e9711f,*alarm*,18
+4f0a434a,wake:com.google.firebase.iid.WakeLockHolder,1
+4e4b905a,*telephony-radio*,9
+291f8b0d,*job*/c.f.s/c.f.a.l.LollipopUploadService,1
+3f0d8db2,CMWakeLock,1
+3389dae3,*,2
+7a690d26,* (partial),29
+f86b42de,GCM_HB_ALARM (partial),1
+d5968584,*telephony-radio* (partial),48
+a3a64016,*job*/c.f.s/c.f.a.l.LollipopUploadService (partial),1
+c4c9d138,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob (partial),1
+7a690d26,* (partial),15
+d7956295,"WindowManager (screen-bright,on-after-release)",2
+929e4cf5,DreamManagerService (doze),2
+4ca381e5,show keyguard (partial),2
+ca94f536,show keyguard,2
+385a3e89,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork(),4
+8862b859,bugle_datamodel_executor_wakelock,5
+4c0ceb4c,GnpBroadcastReceiver,1
+1c6f7b2c,FusedLocation,2
+42710fe9,*gms_scheduler*:internal,3
+8b7e51dd,*location*,2
+a0420945,*job*/c.g.a.a.t/c.g.a.l.s.a.l.InferAppBucketsJob,1
+16501530,*job*/c.g.a.a.m/a.w.i.b.s.SystemJobService,1
+08ce5bbd,*job*/c.m.c/.w.WfcJobIntentService,1
+cea64521,*job*/c.m.m/c.m.m.s.d.b.BatteryLevelJob,1
+ed1da152,*gms_scheduler*:internal (partial),9
+5cf44adf,*location* (partial),4
+b4ac4533,*sync*/com.android.contacts/com.whatsapp/WhatsApp (partial),1
+29fadef9,*job*/c.m.c/.w.WfcJobIntentService (partial),1
+63ccafda,*gms_scheduler*/c.g.a.g/.s.s.SafeBrowsingGmsTaskBoundService (partial),1
+a2d6e2b6,*job*/c.g.a.i.l/c.g.a.l.i.t.JobSchedulerImpl$TaskRunnerJobService (partial),1
+086b75ef,*gms_scheduler*/c.g.a.g/.a.a.b.a.GcmTaskService (partial),1
+9d51e11f,*job*/c.m.m/c.m.m.s.d.b.BatteryLevelJob (partial),2
+18453460,*job*/c.a.c/c.w/WhatsApp:android (partial),1
+67c6c1d7,*job*/c.m.m/c.m.m.e.s.p.a.AppUsageDataCollector (partial),1
+7a690d26,* (partial),2
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),6
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,6
+08992369,*gms_scheduler*/c.g.a.g/.s.s.SafeBrowsingGmsTaskBoundService,1
+5cd45992,*job*/c.w/.c.u.ExceptionsUploadService (partial),1
+025dbe2c,*gms_scheduler*/c.g.a.g/.c.u.QosUploaderService (partial),2
+5b47fa6c,*job*/c.m.m/c.m.m.p.d.LoadDatasetJobService (partial),1
+f43ef5fa,*job*/c.w/.AlarmService (partial),2

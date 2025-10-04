@@ -1,0 +1,44 @@
+EventId,EventTemplate,Occurrences
+d5968584,*telephony-radio* (partial),274
+4e4b905a,*telephony-radio*,275
+3165aaef,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation,23
+3389dae3,*,1611
+7f37ac5e,RILJ_ACK_WL (partial),1
+0aca88b2,RILJ_ACK_WL,1
+82f4eed5,IntentOp:.c.b.BackgroundBroadcastReceiverSupport$PersistentReceiverIntentOperation (partial),21
+7a690d26,* (partial),962
+42710fe9,*gms_scheduler*:internal,4
+8862b859,bugle_datamodel_executor_wakelock,3
+03e2cadb,*job*/c.g.a.f/.s.AllowedAppListCleaningJobService#5000,2
+3389dae3,*,2
+03b55498,NlpWakeLock,8
+6215e638,UlrDispSvcFastWL,7
+60a68bba,com.google.android.deskclock:AlarmAsyncTask,3
+3f0d8db2,CMWakeLock,5
+3389dae3,*,45
+981cb06e,* - * (partial),3
+dd270f51,wake:com.google.android.gms/.chimera.GmsIntentOperationService - 913,2
+7f37ac5e,RILJ_ACK_WL (partial),4
+7aaf3312,GCM_CONN_ALARM (partial),2
+c9f3220c,GCM_CONN_ALARM,2
+7a690d26,* (partial),622
+7a690d26,* (partial),78
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),4
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,4
+bd8ac4d0,NlpWakeLock (partial),12
+70bd1a09,CMWakeLock (partial),5
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),4
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,4
+69535586,Icing,6
+04cd0834,Doze,1
+3389dae3,*,13
+0f6e23fe,wake:com.google.android.gms/.auth.account.be.accountstate.LoginAccountsChangedIntentService - 999 (partial),1
+a49205fe,wake:com.google.android.gms/.auth.account.be.accountstate.LoginAccountsChangedIntentService - 999,1
+a49205fe,wake:com.google.android.gms/.auth.account.be.accountstate.LoginAccountsChangedIntentService - 999,1
+7aaf3312,GCM_CONN_ALARM (partial),16
+e28e5ea7,Checkin Service,1
+c32e018a,dream:doze (doze),1
+d3d33e61,Checkin Service (partial),1
+521d7462,"WindowManager/displayId:0 (screen-bright,on-after-release)",4
+e28e5ea7,Checkin Service,1
+d3d33e61,Checkin Service (partial),1

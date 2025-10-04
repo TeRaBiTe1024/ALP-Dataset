@@ -1,0 +1,50 @@
+EventId,EventTemplate,Occurrences
+a86622f5,PhoneWindowManager.mPowerKeyWakeLock (partial),11
+f083762a,PhoneWindowManager.mPowerKeyWakeLock,11
+432fe450,BSS_InDisplaySensorHelper:P (partial),7
+263fe209,BSS_InDisplaySensorHelper:D (draw),7
+5a5e2378,ActivityManager-Sleep (partial),8
+9cef9b02,*telephony-sem-radio* (partial),276
+d5968584,*telephony-radio* (partial),249
+7a690d26,* (partial),902
+3389dae3,*,1507
+3775e992,*job*/c.s.a.k.a.u/.j.Job (partial),18
+33039c9b,AOD_EnsureWorkingTime (partial),8
+cede8fd7,UlrDispSvcFastWL (partial),3
+7f37ac5e,RILJ_ACK_WL (partial),37
+9f1541f0,RILS,11
+b6bb5041,AOD_DRAW (draw),1
+db381234,Doze (partial),1
+d1f7f52f,Scrims (partial),1
+929e4cf5,DreamManagerService (doze),1
+425a2209,WifiSuspend (partial),1
+e31de89e,motion_service (partial),1
+4ca381e5,show keyguard (partial),9
+ca94f536,show keyguard,9
+237d19a3,Wakeful StateMachine: GeofencerStateMachine (partial),23
+f4f09ce2,Wakeful StateMachine: GeofencerStateMachine,23
+9f2467ff,*job*/c.s.a.a.c/c.s.a.d.m.c.s.m.MakeSimDBService (partial),4
+70bd1a09,CMWakeLock (partial),1
+488cd405,Window:FP Iconview (draw),2
+94195126,Window:FP Iconview,2
+06459547,RILS (partial),11
+0aca88b2,RILJ_ACK_WL,37
+7a690d26,* (partial),115
+3389dae3,*,116
+bd8ac4d0,NlpWakeLock (partial),1
+2605eceb,LockoutResetMonitor:SendLockoutReset (partial),2
+47d957c8,faceLockoutResetCallback (partial),1
+29788b6f,SharedExecutor Lock,19
+929e4cf5,DreamManagerService (doze),7
+d7956295,"WindowManager (screen-bright,on-after-release)",2
+73f00906,prevent full-screen wakelock in EnqueueNotificationRunnable (partial),152
+64633af2,prevent full-screen wakelock in EnqueueNotificationRunnable,152
+67af68c3,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork() (partial),2
+385a3e89,WorkManager:TikTokListenableWorker startWork -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> com.google.apps.tiktok.sync.impl.workmanager.SyncWorker startWork() -> NoAccountWorkerFactory startWork(),2
+8203f486,SharedExecutor Lock (partial),19
+fb0b8541,DozeScreenState (draw),1
+fc6cb739,Window:NotificationShade (draw),3
+a04d0d42,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> ftd_clean_up_work -> WorkQueueImpl#queueWorkItemAndReturnFuture -> ftd_clean_up_work (partial),1
+14389c19,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> WearableSyncStartupTask -> sync_data_to_wearable_app -> WorkQueueImpl#queueWorkItemAndReturnFuture -> sync_data_to_wearable_app (partial),1
+9eda7dcb,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> E2eeStartupTask -> ftd_clean_up_work -> WorkQueueImpl#queueWorkItemAndReturnFuture -> ftd_clean_up_work,1
+01c90133,StartupHandlerImpl App Interactive Delay Timer Fired -> StartupHandlerImpl#onAppInteractiveInternal -> WearableSyncStartupTask -> sync_data_to_wearable_app -> WorkQueueImpl#queueWorkItemAndReturnFuture -> sync_data_to_wearable_app,1
